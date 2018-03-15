@@ -1,13 +1,13 @@
 ; ===bekommenF,G===
-(let ((FWert (make-hash-table :size 20))
-  (GWert (make-hash-table :size 20)) )
-(defun einstellenFWert (x y)
+(let ((FWert (make-hash-table :size 20)) ;;Hace una tabla del costo F
+  (GWert (make-hash-table :size 20)) );;Hace una tabla del costo G
+(defun einstellenFWert (x y);;Actualiza el costo F
   (setf (gethash x FWert) y) )
-(defun bekommenFWert (x)
+(defun bekommenFWert (x);;Obtiene el costo F
   (gethash x FWert) )
-(defun einstellenGWert (x y)
+(defun einstellenGWert (x y) ;;Actualiza el costo G
   (setf (gethash x GWert) y) )
-(defun bekommenGWert (x)
+(defun bekommenGWert (x) ;;Obtiene el costo G
   (gethash x GWert) )
 )
 
@@ -918,8 +918,8 @@
 
 
 (let (ziel)
-  (defun einstellenZiel (dasZiel) (setf ziel dasZiel))
-  (defun bekommenZiel () ziel) )
+  (defun einstellenZiel (dasZiel) (setf ziel dasZiel)) ;;Establece el objetivo
+  (defun bekommenZiel () ziel) ) ;;Obtiene el objetivo
 
 (defun f (n)
   (+ (bekommenGWert n) (h n)) )
@@ -932,10 +932,10 @@
 (defun entfernungCarretera (n1 n2) 
   (or (cdr (assoc n1 (bekommenEntfernung n2))) grosserEntfernung) )
 
-(defun h (n)
+(defun h (n) ;;Obtiene la distancia entre n y el objetivo
   (* 1 (euklidischeEntfernung n (bekommenZiel))) )
 
-(defun euklidischeEntfernung (n1 n2)
+(defun euklidischeEntfernung (n1 n2) ;;Saca la distancia en línea recta del nodo n1 al nodo n2
   (abs 
     (expt 
       (+ 
