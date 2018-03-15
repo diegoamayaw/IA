@@ -11,17 +11,20 @@
   (gethash x GWert) )
 )
 
-(let ((entfernungInfo (make-hash-table :size 20))
-  (wegVorgangerInfo (make-hash-table :size 20)))
-(defun einstellenEntfernung (x y)
+
+(let ((entfernungInfo (make-hash-table :size 20));;Tabla que contiene la información de la distancia (entfernung)
+  (wegVorgangerInfo (make-hash-table :size 20))) ;;Tabla que contiene por dónde ha pasado (creo)
+(defun einstellenEntfernung (x y);;Actualiza (einstellen) las distancias
   (setf (gethash x entfernungInfo) y) )
-(defun bekommenEntfernung (x)
+(defun bekommenEntfernung (x) ;; Obtiene la información de las distancias
   (gethash x entfernungInfo) )
-(defun einstellenVorganger (x y)
+(defun einstellenVorganger (x y) ;;Mete a la tabla por dónde ha pasado
   (setf (gethash x wegVorgangerInfo) y) )
-(defun bekommenVorganger (x)
+(defun bekommenVorganger (x);;Obtiene la llave x de donde ha pasado.
   (gethash x wegVorgangerInfo) )
 )
+
+;;Mete datos con llave=nombre de la ciudad, como valor una lista con los nodos que tiene
 
 ; ===DataMatrix===
 (einstellenEntfernung 'Acambaro '((Celaya . 73.531)(Morelia . 81.03)(Zinapecuaro . 24.056)(Maravatio . 38.235)))
@@ -562,7 +565,7 @@
 
 (einstellenEntfernung 'Palenque '((Escarcega . 213.842)(SanCristobaldelasCasas . 218.69)))
 
-
+;;Crea otra tabla en la que se guarda la ciudad (llave) con sus coordenadas (valor)
 ; ---bekommenKoordiniert
 (let ((langeInfo (make-hash-table :size 20)))
   (defun einstellenKoordiniert (x y)
@@ -845,6 +848,7 @@
         (VISTAHERMOSA (19.8162473 -101.9055699))
         (COATZACALCOS (18.1344779 -94.4589858))
         (PALENQUE (17.5109792 -91.9930466))))
+
 
 (defun aStarTime (nodoInicio nodoFinal)
   (einstellenZiel nodoFinal)
