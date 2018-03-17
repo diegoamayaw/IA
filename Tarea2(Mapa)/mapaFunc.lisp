@@ -37,6 +37,7 @@
 ;;Si el nodo está en cerrado (ya lo checó), regresa nil, si no está, lo agrega a abierto
 (defun agregaAbierto (nodo)
 	(if (equal (length cerrado) (length (adjoin nodo cerrado :test #'equals))) (return-from agregaAbierto nil)(push nodo abierto)))
+;;Para agregar en una pos: (append (reverse (nthcdr (- (length lst) (- n 1)) (reverse lst) )) (list h) (nthcdr (- n 1) lst))
 
 ;;Checa si el nodo es igual al objetivo, si lo es regresa T, si no, nil
 (defun checaObjetivo (nomnodo)
@@ -59,8 +60,8 @@
 	(defRoute2 nodo))
 
 (defun defRoute2 (nodo)
-	(cond ((equal (first nodo) nomInicio)0)
+	(cond ((equal (car (first nodo)) nomInicio)0)
 	(t(setq vater (getPadre nodo))
-	  (push (second vater) rutaFinal)
+	  (push (car (second vater)) rutaFinal)
 	  (defRoute2 vater))))
 
