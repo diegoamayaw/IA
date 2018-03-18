@@ -36,12 +36,6 @@
 	(setq infoNodo (list nombre padre cont costo))
 	(return-from creaInfoNodo infoNodo))
 
-
-;;Si el nodo está en cerrado (ya lo checó), regresa nil, si no está, lo agrega a abierto
-(defun agregaAbierto (nodo)
-	(if (equal (length cerrado) (length (adjoin nodo cerrado :test #'equals))) (return-from agregaAbierto nil)(push nodo abierto)))
-;;Para agregar en una pos: (append (reverse (nthcdr (- (length lst) (- n 1)) (reverse lst) )) (list h) (nthcdr (- n 1) lst))
-
 ;;Checa si el nodo es igual al objetivo, si lo es regresa T, si no, nil
 (defun checaObjetivo (nomnodo)
 	(if (equal nodo objetivo)(return-from checaObjetivo T)(return-from checaObjetivo nil)))
@@ -70,14 +64,73 @@
 	  (push (second vater) rutaFinal)
 	  (defRoute2 vater (cdr cerrado)))))
 
+;;Add in position n the object node
+(defun addInPosition(lista posit node)
+(if (<= posit (+ (length lista) 1))
+(setq lst (append (reverse (nthcdr (- (length lista) (- posit 1)) (reverse lista))) (list node) (nthcdr (- posit 1) lista)) abierto lst)
+(return-from addInPosition nil))
+)
+
+(defun estaEnCerrado (nodo)
+	(if (equal (length cerrado) (length (adjoin nodo cerrado :test #'equal))) 
+			(return-from estaEnCerrado t) 
+			(return-from estaEnCerrado nil))
+)
+
+(defun estaEnAbierto (nodo)
+	(if (equal (length abierto) (length (adjoin nodo abierto :test #'equal))) 
+			(return-from estaEnAbierto t) 
+			(return-from estaEnAbierto nil))
+)
+
+;;obten el costo del primer nodo de abierto
+(defun getCosto (lst)
+	(return-from getCosto (car (last (car lst))))
+)
+;;obten la profunidad del primer nodo de abierto
+(defun getProfundidad(lst)
+	(return-from getProfundidad (caddr (car lst)))
+)
+;;agrega a abierto ya ordenadamente por COSTO
+(defun addToOpen(nodo)
+	(setq pos 1)
+	(cond
+		((and
+			;;(or 
+				(<= (car (last nodo)) (getCosto abierto)) 
+			;;	(<= (caddr nodo) (getProfundidad abierto)) 
+			;;)
+			(not (estaEnCerrado nodo))
+			(not (estaEnAbierto nodo))
+		)
+		(addInPosition abierto pos nodo))
+		;;nodo a agregar, cdr de abierto y posición en que hay que agregar
+		(t (addToOpen2 nodo (cdr abierto) (incf pos))) 
+	)
+)
+;;overload de función addToOpen para agregar en posición pos
+(defun addToOpen2(nodo lsta pos)
+	(cond
+		((null lst) (return-from addToOpen2 'NodoRepetido))
+		((and
+			;;(or 
+				(<= (car (last nodo)) (getCosto lsta)) 
+				;;(<= (caddr nodo) (getProfundidad lst))
+			;;)
+			(not (estaEnCerrado nodo))
+			(not (estaEnAbierto nodo))
+		) (addInPosition abierto pos nodo))
+	(t (addToOpen2 nodo (cdr lsta) (incf pos))))
+)
 ;__________________________________________________________PRUEBAS______________________________________________________________________
 
 (setNames 'A 'D)
 (getCoordIniFin nomIni nomDest)
+(setq abierto '())
 (setq cerrado '())
-(push (creaInfoNodo 'A NIL 0 0) cerrado)
-(push (creaInfoNodo 'B 'A 0 0) cerrado)
-(push (creaInfoNodo 'K 'B 0 0) cerrado)
-(creaInfoNodo 'D 'K 0 0)
+(push (creaInfoNodo 'A NIL 0 4) abierto)
+(push (creaInfoNodo 'B 'A 0 2) abierto)
+(push (creaInfoNodo 'K 'B 0 1) abierto)
+(addToOpen (creaInfoNodo 'D 'K 0 3))
 
 
