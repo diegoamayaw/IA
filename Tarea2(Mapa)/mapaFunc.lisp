@@ -22,10 +22,10 @@
 
 ;; Función de costo f(n) se le entrega un nodo con su nombre y costo g(n) como: (nombre costo)
 (defun calculaCosto (nodo)
-	(return-from calculaCosto (+ (fourth nodo) (costoPadre) (calculaHn (first nodo)))))
+	(return-from calculaCosto (+ (third nodo) (costoPadre) (calculaHn (first nodo)))))
 
 (defun costoPadre ()
-	(return-from costoPadre (fourth padre)))
+	(return-from costoPadre (third padre)))
 ;;Se crea el nodo que tiene la información necesaria
 (defun creaInfoNodo(nombre padre gn hn costoTot)
 	(setq infoNodo (list nombre padre gn hn costoTot))
@@ -61,10 +61,12 @@
 	  (push (second vater) rutaFinal)
 	  (defRoute2 vater (cdr cerrado)))))
 
-;;Add in position n the object node
-(defun addInPosition(lista posit node)
-	(if (<= posit (+ (length lista) 1))
-	(setq lst (append (reverse (nthcdr (- (length lista) (- posit 1)) (reverse lista))) (list node) (nthcdr (- posit 1) lista)) abierto lst)
+;;Add in position n the object node)))
+
+(defun addInPosition(posit node)
+	(setq lista '())
+	(if (<= posit (+ (length abierto) 1))
+	(setq lista (append (reverse (nthcdr (- (length abierto) (- posit 1)) (reverse abierto))) (list node) (nthcdr (- posit 1) abierto)) abierto lista)
 	(return-from addInPosition nil)))
 
 (defun estaEnCerrado (nodo)
@@ -88,7 +90,7 @@
 	(return-from getProfundidad (caddr (car lst)))
 )
 (defun costoNodo(nodo)
-	(return-from costoNodo (fourth nodo)))
+	(return-from costoNodo (third nodo)))
 (defun addToClosed (nodo)
 	(if (not (estaEnCerrado nodo)) (push nodo cerrado)(return-from addToClosed nil)))
 ;;agrega a abierto ya ordenadamente por COSTO
@@ -103,7 +105,7 @@
 			(not (estaEnCerrado nodo))
 			(not (estaEnAbierto nodo))
 		)
-		(addInPosition abierto pos nodo))
+		(addInPosition pos nodo))
 		;;nodo a agregar, cdr de abierto y posición en que hay que agregar
 		(t (addToOpen2 nodo (cdr abierto) (incf pos))) 
 	)
@@ -111,7 +113,7 @@
 ;;overload de función addToOpen para agregar en posición pos
 (defun addToOpen2(nodo lsta pos)
 	(cond
-		((null lsta))
+		((null lsta) (addInPosition pos nodo))
 		((and
 			;;(or 
 				(<= (car (last nodo)) (getCosto lsta)) 
@@ -119,7 +121,7 @@
 			;;)
 			(not (estaEnCerrado nodo))
 			(not (estaEnAbierto nodo))
-		) (addInPosition abierto pos nodo))
+		) (addInPosition pos nodo))
 	(t (addToOpen2 nodo (cdr lsta) (incf pos))))
 )
 ;;Obtiene las opciones en pares como nombre-costo de un nodo padre
@@ -129,10 +131,15 @@
 
 ;;Crea una lista con nodoInfos de cada opción posible
 (defun creaNodosOpciones (listaOp)
-(cond	((null listaOp)(return-from creaNodosOpciones listaNodos))
+	(setq listaNodos '())
+	(creaNodosOpciones2 listaOp))
+
+
+(defun creaNodosOpciones2 (listaOp)
+(cond	((null listaOp)(return-from creaNodosOpciones2 listaNodos))
 
 (t(push (creaInfoNodo (caar listaOp) (getNombre padre) (car(last(car listaOp))) (calculaHn (caar listaOp)) (+ (costoNodo padre) (car(last(car listaOp))) (calculaHn (caar listaOp)))
-		) listaNodos)(creaNodosOpciones (cdr listaOp)))))
+		) listaNodos)(creaNodosOpciones2 (cdr listaOp)))))
 
 
 ;;Función A*
@@ -141,6 +148,7 @@
 	(setq abierto '())
 	(setq cerrado '())
 	(setq prof 0)
+	(setq padre (creaInfoNodo nil nil 0 0 0))
 	;;Fija nombres recibidos como variables globales
 	(setNames n1 n2)
 	;;Fija coordenadas de inicio y final como globvar
@@ -175,19 +183,30 @@
 	
 )
 
-;__________________________________________________________PRUEBAS______________________________________________________________________
 
-	#|
-	(setq abierto '())
+;__________________________________________________________PRUEBAS______________________________________________________________________
+#|
+(setq abierto '())
 	(setq cerrado '())
 	(setq prof 0)
+	(setq padre (creaInfoNodo nil nil 0 0 0))
 	;;Fija nombres recibidos como variables globales
 	(setNames n1 n2)
 	;;Fija coordenadas de inicio y final como globvar
 	(getCoordIniFin)
 	;;Crea el infoNodo de inicio
-	(creaInfoNodo nomIni nil prof 0 (calculaHn n1) 0)
+	(creaInfoNodo nomIni nil 0 (calculaHn n1) 0)
 	;;Se actualiza el costo hn de inicio a fin
 	(actualizaCosto infoNodo)
+	;;Se mete a abierto el nodo inicio
 	(push infoNodo abierto)
+	(pop abierto)
+	(getOpciones infoNodo)
+	;;Se actualiza el padre del cuál fueron obtenidas las opciones
+	(actualizaPadre infoNodo)
+	;;El padre al ser expandido se pasa a cerrado
+	(addToClosed padre)
+	;;Se crean los infoNodos de las opciones
+	(creaNodosOpciones listaOpc)
+	;;Checa cada una y agrega a abierto
 |#
