@@ -97,15 +97,10 @@
 (defun addToOpen(nodo)
 	(setq pos 1)
 	(cond
-		((and
-			;;(or 
-				(<= (car (last nodo)) (getCosto abierto)) 
-			;;	(<= (caddr nodo) (getProfundidad abierto)) 
-			;;)
-			(not (estaEnCerrado nodo))
-			(not (estaEnAbierto nodo))
-		)
-		(addInPosition pos nodo))
+		((<= (car (last nodo)) (getCosto abierto))(addInPosition pos nodo))
+		((or (not (estaEnCerrado nodo))
+			  (not (estaEnAbierto nodo)))
+		  (return-from addToOpen nil))
 		;;nodo a agregar, cdr de abierto y posición en que hay que agregar
 		(t (addToOpen2 nodo (cdr abierto) (incf pos))) 
 	)
@@ -114,14 +109,9 @@
 (defun addToOpen2(nodo lsta pos)
 	(cond
 		((null lsta) (addInPosition pos nodo))
-		((and
-			;;(or 
-				(<= (car (last nodo)) (getCosto lsta)) 
-				;;(<= (caddr nodo) (getProfundidad lst))
-			;;)
-			(not (estaEnCerrado nodo))
-			(not (estaEnAbierto nodo))
-		) (addInPosition pos nodo))
+		((<= (car (last nodo)) (getCosto lsta))(addInPosition pos nodo))
+		((or (estaEnCerrado nodo) (estaEnAbierto nodo))
+		  (return-from addToOpen2 nil))
 	(t (addToOpen2 nodo (cdr lsta) (incf pos))))
 )
 ;;Obtiene las opciones en pares como nombre-costo de un nodo padre
