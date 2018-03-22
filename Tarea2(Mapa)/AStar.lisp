@@ -990,7 +990,7 @@
   (initialisierenZahlung)
   ; Write the two cities that you want, in this example I use Acapulco to Tijuana.
   (format t "Resulting route: ~s.~%"
-    (aStarTime 'PALENQUE 'TIJUANA) )
+    (aStarTime 'ACAPULCO 'CiudaddeMexico) )
   )
 
 (prufung)

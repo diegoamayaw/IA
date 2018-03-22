@@ -1,6 +1,7 @@
 
 (load "~/Documents/ITAM/IA/Tarea2(Mapa)/datos.lisp")
-
+(setq nomIni nil nomDest nil)
+(setq rutaFinal '())
 ;;Fija los nombres de origen y destino en variables nomIni y nomDest
 (defun setNames (n1 n2)
 	(setq nomIni n1 nomDest n2))
@@ -54,9 +55,12 @@
 	(push nomDest rutaFinal)
 	(push (second nodo) rutaFinal)
 	(defRoute2 nodo cerrado))
+	(setq aux '())
+	(setq aux (adjoin nomIni rutaFinal) aux rutaFinal)
 
 (defun defRoute2 (nodo cerrado)
-	(cond ((equal (first (car cerrado)) nomIni)rutaFinal)
+	(cond ((equal nomIni (second nodo))rutaFinal)
+		  ((equal (first (car cerrado)) nomIni)rutaFinal)
 	(t(setq vater (buscaPadre nodo cerrado))
 	  (push (second vater) rutaFinal)
 	  (defRoute2 vater (cdr cerrado)))))
@@ -97,9 +101,8 @@
 (defun addToOpen(nodo)
 	(setq pos 1)
 	(cond
-		((<= (car (last nodo)) (getCosto abierto))(addInPosition pos nodo))
-		((or (not (estaEnCerrado nodo))
-			  (not (estaEnAbierto nodo)))
+		((< (car (last nodo)) (getCosto abierto))(addInPosition pos nodo))
+		((or (checaCerrado nodo cerrado) (checaAbierto nodo abierto))
 		  (return-from addToOpen nil))
 		;;nodo a agregar, cdr de abierto y posición en que hay que agregar
 		(t (addToOpen2 nodo (cdr abierto) (incf pos))) 
@@ -110,7 +113,7 @@
 	(cond
 		((null lsta) (addInPosition pos nodo))
 		((<= (car (last nodo)) (getCosto lsta))(addInPosition pos nodo))
-		((or (estaEnCerrado nodo) (estaEnAbierto nodo))
+		((or (checaCerrado nodo cerrado) (checaAbierto nodo abierto))
 		  (return-from addToOpen2 nil))
 	(t (addToOpen2 nodo (cdr lsta) (incf pos))))
 )
@@ -131,7 +134,17 @@
 (t(push (creaInfoNodo (caar listaOp) (getNombre padre) (car(last(car listaOp))) (calculaHn (caar listaOp)) (+ (costoNodo padre) (car(last(car listaOp))) (calculaHn (caar listaOp)))
 		) listaNodos)(creaNodosOpciones2 (cdr listaOp)))))
 
+(defun checaCerrado (nodo l)
+	(cond ((null l) (return-from checaCerrado nil))
+		  ((equal (first nodo) (first (first l)))(return-from checaCerrado T))
+		  (t(checaCerrado nodo (cdr l))))
+		  )
 
+(defun checaAbierto (nodo l)
+	(cond ((null l) (return-from checaAbierto nil))
+		  ((equal (first nodo) (first (first l)))(return-from checaAbierto T))
+		  (t(checaAbierto nodo (cdr l))))
+		  )
 ;;Función A*
 (defun AStar (n1 n2)
 	;;Crea listas globales
@@ -153,33 +166,48 @@
 	(loop
 		(cond ((null abierto)(return-from AStar 'No_se_encontro_solucion))
 		(t 
+			;(cond ((< prof 1000)
+			;	(incf prof)
+			(if (checaObjetivo infoNodo) (return-from AStar (defRoute infoNodo cerrado)))
 			;;inicia ciclo general
+			;(print 'InfoNodo)
+			;(print infoNodo)
 			;;Se obtienen las opciones del infoNodo
 			(getOpciones infoNodo)
+			;(print 'Opciones)
+			;(print listaOpc)
 			;;Se actualiza el padre del cuál fueron obtenidas las opciones
 			(actualizaPadre infoNodo)
-			;;El padre al ser expandido se pasa a cerrado
-			(addToClosed padre)
 			;;Se crean los infoNodos de las opciones
 			(creaNodosOpciones listaOpc)
+			;;Actualiza el costo de cada nodo con respecto al padre
+			(mapcar #'actualizaCosto listaNodos)
 			;;Checa cada una y agrega a abierto
 			(mapcar #'addToOpen listaNodos)
-			(if (checaObjetivo infoNodo) (return-from AStar (defRoute infoNodo cerrado)))
-	
+			;(print 'Abierto)
+			;(print abierto)
 
+			(setq infoNodo (pop abierto))
+			;;El padre al ser expandido se pasa a cerrado
+			;(print 'Padre)
+			;(print padre)
+
+			;(print 'Cerrado)
+			;(print cerrado)
+			(addToClosed padre)))
 		)
-		)
-	)
+	
 	
 )
 
 
 ;__________________________________________________________PRUEBAS______________________________________________________________________
 #|
-(setq abierto '())
+	(setq abierto '())
 	(setq cerrado '())
 	(setq prof 0)
 	(setq padre (creaInfoNodo nil nil 0 0 0))
+	(setq n1 'CiudaddeMexico n2 'Pachuca)
 	;;Fija nombres recibidos como variables globales
 	(setNames n1 n2)
 	;;Fija coordenadas de inicio y final como globvar
@@ -190,7 +218,7 @@
 	(actualizaCosto infoNodo)
 	;;Se mete a abierto el nodo inicio
 	(push infoNodo abierto)
-	(pop abierto)
+	;;
 	(getOpciones infoNodo)
 	;;Se actualiza el padre del cuál fueron obtenidas las opciones
 	(actualizaPadre infoNodo)
@@ -198,5 +226,29 @@
 	(addToClosed padre)
 	;;Se crean los infoNodos de las opciones
 	(creaNodosOpciones listaOpc)
+
+	(mapcar #'actualizaCosto listaNodos)
 	;;Checa cada una y agrega a abierto
-|#
+	(mapcar #'addToOpen listaNodos)
+	
+
+
+	;;Segunda vuelta
+	(setq infoNodo (pop abierto))
+	(getOpciones infoNodo)
+	(actualizaPadre infoNodo)
+	(addToClosed padre)
+	(creaNodosOpciones listaOpc)
+	(mapcar #'actualizaCosto listaNodos)
+	(mapcar #'addToOpen listaNodos)
+#|
+	;;Tercera vuelta
+	(setq infoNodo (pop abierto))
+	(getOpciones infoNodo)
+	(actualizaPadre infoNodo)
+	(addToClosed padre)
+	(creaNodosOpciones listaOpc)
+	(mapcar #'actualizaCosto listaNodos)
+	(mapcar #'addToOpen listaNodos)
+	|#
+|#	
