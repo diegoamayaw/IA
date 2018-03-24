@@ -101,9 +101,10 @@
 (defun addToOpen(nodo)
 	(setq pos 1)
 	(cond
-		((< (car (last nodo)) (getCosto abierto))(addInPosition pos nodo))
+		
 		((or (checaCerrado nodo cerrado) (checaAbierto nodo abierto))
 		  (return-from addToOpen nil))
+		((< (car (last nodo)) (getCosto abierto))(addInPosition pos nodo))
 		;;nodo a agregar, cdr de abierto y posición en que hay que agregar
 		(t (addToOpen2 nodo (cdr abierto) (incf pos))) 
 	)
@@ -112,9 +113,9 @@
 (defun addToOpen2(nodo lsta pos)
 	(cond
 		((null lsta) (addInPosition pos nodo))
-		((<= (car (last nodo)) (getCosto lsta))(addInPosition pos nodo))
 		((or (checaCerrado nodo cerrado) (checaAbierto nodo abierto))
 		  (return-from addToOpen2 nil))
+		((<= (car (last nodo)) (getCosto lsta))(addInPosition pos nodo))
 	(t (addToOpen2 nodo (cdr lsta) (incf pos))))
 )
 ;;Obtiene las opciones en pares como nombre-costo de un nodo padre
@@ -166,8 +167,8 @@
 	(loop
 		(cond ((null abierto)(return-from AStar 'No_se_encontro_solucion))
 		(t 
-			;(cond ((< prof 1000)
-			;	(incf prof)
+			;(cond ((< prof 20)
+				(incf prof)
 			(if (checaObjetivo infoNodo) (return-from AStar (defRoute infoNodo cerrado)))
 			;;inicia ciclo general
 			;(print 'InfoNodo)
@@ -194,8 +195,10 @@
 
 			;(print 'Cerrado)
 			;(print cerrado)
-			(addToClosed padre)))
-		)
+			(addToClosed padre))
+			
+			;))
+		))
 	
 	
 )
