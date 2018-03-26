@@ -1,5 +1,5 @@
 
-(load "~/Documents/ITAM/IA/Tarea2(Mapa)/datos.lisp")
+(load "./datos.lisp")
 
 (setq nomIni nil nomDest nil)
 (setq rutaFinal '())
