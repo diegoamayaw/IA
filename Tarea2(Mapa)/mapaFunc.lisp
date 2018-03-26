@@ -87,7 +87,7 @@
 	(return-from costoNodo (third nodo)))
 ;;Agrega a la lista de cerrado
 (defun addToClosed (nodo)
-	(if (not (estaEnCerrado nodo)) (push nodo cerrado)(return-from addToClosed nil)))
+	(if (not (checaLista nodo cerrado)) (push nodo cerrado)(return-from addToClosed nil)))
 
 ;;agrega a abierto ya ordenadamente por COSTO
 (defun addToOpen(nodo)
