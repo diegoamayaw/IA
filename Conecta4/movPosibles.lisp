@@ -19,7 +19,7 @@ Diego Amaya Wilhelm
 
 (defun colPosibles2 (edo)
 	(cond ((null edo)0)
-		  ((null (member nil (car edo)))(push nil colPos)(colPosibles2 (cdr edo)))
+		  ((null (member 0 (car edo)))(push nil colPos)(colPosibles2 (cdr edo)))
 	(t(push T colPos)
 	  (colPosibles2 (cdr edo)))))
 
@@ -29,6 +29,7 @@ Diego Amaya Wilhelm
 	(setq aux (append (reverse (nthcdr (- (length lst) (- posit 1)) (reverse lst))) (cons elem (nthcdr posit lst)) ))
 	(return-from reemplazaEnPos aux)
 	)
+;;Regresa el elemento de lst en pos
 (defun getElemento (pos lst)
 	(setq aux '())
 	(setq aux (car (nthcdr (- pos 1) lst)))
@@ -41,15 +42,16 @@ Diego Amaya Wilhelm
 	)
 (defun encuentraPos2 (lst cont)
 	(if (or (null lst) (equal cont 6)) (return-from encuentraPos2 cont))
-	(if (not (null (car lst))) (return-from encuentraPos2 cont) (encuentraPos2 (cdr lst) (+ cont 1)))
+	(if (not (equal (car lst) 0)) (return-from encuentraPos2 cont) (encuentraPos2 (cdr lst) (+ cont 1)))
 	)
 ;;De una lista (columna de fichas) tira una ficha.
 (defun ponerFicha (lst ficha)
 	(reemplazaEnPos (encuentraPos lst) ficha lst))
-
+;;Crea un movimiento posible, recibe el contador, la lista donde está y la ficha a colocar
 (defun creaMovPos (c edo ficha)
 	(reemplazaEnPos c (ponerFicha (getElemento c edo) ficha) edo)
 	)
+;Crea la lista de todos los movimientos posibles
 (defun movPos (edo ficha)
 	(setq movPosibles '())
 	(setq contador 1)
