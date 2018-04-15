@@ -4,13 +4,13 @@ y regresa los movimientos posibles en forma de lista.
 
 Diego Amaya Wilhelm
 |#
-(setq edoInicial '((nil nil nil nil nil nil)
-				   (nil nil nil nil nil nil)
-				   (nil nil nil nil nil nil)
-				   (nil nil nil nil nil nil)
-				   (nil nil nil nil nil nil)
-				   (nil nil nil nil nil nil)
-				   (nil nil nil nil nil nil)))
+(setq edoInicial '((1 0 0 0 0 2)
+				   (0 1 0 0 0 1)
+				   (0 0 2 0 1 2)
+				   (0 0 0 1 0 1)
+				   (0 0 1 0 0 1)
+				   (0 1 0 0 0 2)
+				   (0 1 2 1 1 2)))
 ;;Regresa las columnas que no están llenas (que pueden recibir otra ficha) en forma de lista
 (defun colPosibles (edo)
 	(setq colPos '())
@@ -65,7 +65,47 @@ Diego Amaya Wilhelm
     (movPos2 edo (+ c 1) (cdr columPos) ficha)
 	)
 
+;;Función que arregla el tablero por renglones
+(defun ordenaRenglones (estado)
+	(setq renglones (list (mapcar #'first estado) (mapcar #'second estado) (mapcar #'third estado) (mapcar #'fourth estado)
+						  (mapcar #'fifth estado)(mapcar #'sixth estado))))
 
+;;Función que ordena el tablero por la diagonal de derecha a izquierda empezando por el elemento de arriba a la izquierda
+(defun ordenaDiagDer (estado)
+	(setq diagDer (list (list (first (first estado)))
+						(list (first (second estado)) (second (first estado)))
+						(list (first (third estado)) (second (second estado)) (third (first estado)))
+						(list (first (fourth estado)) (second (third estado)) (third (second estado)) (fourth (first estado)))
+						(list (first (fifth estado)) (second (fourth estado)) (third (third estado)) (fourth (second estado)) (fifth (first estado)))
+						(list (first (sixth estado)) (second (fifth estado)) (third (fourth estado)) (fourth (third estado)) (fifth (second estado)) (sixth (first estado)))
+						(list (first (seventh estado)) (second (sixth estado)) (third (fifth estado)) (fourth (fourth estado)) (fifth (third estado)) (sixth (second estado)))
+						(list (second (seventh estado)) (third (sixth estado)) (fourth (fifth estado)) (fifth (fourth estado)) (sixth (third estado)))
+						(list (third (seventh estado)) (fourth (sixth estado)) (fifth (fifth estado)) (sixth (fourth estado)))
+						(list (fourth (seventh estado)) (fifth (sixth estado)) (sixth (fifth estado)))
+						(list (fifth (seventh estado)) (sixth (sixth estado)))
+						(list (sixth (seventh estado)))
+				)))
+;;;;Función que ordena el tablero por la diagonal de izquierda a derecha empezando por el elemento de arriba a la derecha
+(defun ordenaDiagIzq (estado)
+	(setq diagIzq (ordenaDiagDer (reverse estado))))
+;;Función que regresa T si en cuaquier caso el jugador (1 o 2) ganaron
+
+(defun winwin (estado jugador)
+	(setq c1 0 c2 0 c3 0 c4 0)
+	(cond ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaRenglones estado)))(return-from winwin T))
+		  ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaDiagDer estado)))(return-from winwin T))
+		  ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaDiagIzq estado)))(return-from winwin T))
+		  ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) estado))(return-from winwin T))
+
+	(t(return-from winwin nil)))
+)
+
+(defun winwin2 (lista jugador contador)
+	(cond ((equal contador 4)(return-from winwin2 T))
+		  ((null lista)(return-from winwin2 nil))
+		  ((equal (car lista) jugador)(winwin2 (cdr lista) jugador (+ contador 1)))
+	(t (winwin2 (cdr lista) jugador 0)))
+)
 #|
 Código de Alfa-Beta
 
@@ -97,4 +137,3 @@ Leandro Pantoja
 		(if (< vPrim beta) (setq beta vPrim))
 		(if (<= vPrim alfa) (return-from min-value v)))
 	v)
-	
