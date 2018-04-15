@@ -68,3 +68,33 @@ Diego Amaya Wilhelm
 ;Para cada posibilidad de columna toma el estado y 
 ;reemplaza el último nil con una ficha.
 ;set de todas las posibilidades.
+
+#|
+Código de Alfa-Beta
+
+Leandro Pantoja
+|#
+(defun alfa-beta (estado nivel)
+   (setq sol -1)
+   (max-value nivel 'O estado -1000 1000)
+ )
+
+(defun max-value (nivel player estado alfa beta)
+	(setq v -1000)
+	(setq movPosibles (movPos estado))
+	(loop for x in movPosibles do 
+		(setq vPrim (min-value (- nivel 1) 'X x alfa beta))
+		(if (> vPrim v) (setq v vPrim))
+		(if (> vPrim alfa) (setq alfa vPrim))
+		(if (>= vPrim beta) (return-from max-value v)))
+	v)
+
+(defun min-value (nivel player estado alfa beta)
+	(setq v 1000)
+	(setq movPosibles (movPos estado))
+	(loop for x in movPosibles do 
+		(setq vPrim (max-value (- nivel 1) 'O x alfa beta))
+		(if (< vPrim v) (setq v vPrim))
+		(if (< vPrim beta) (setq alfa vPrim))
+		(if (<= vPrim alfa) (return-from min-value v)))
+	v)
