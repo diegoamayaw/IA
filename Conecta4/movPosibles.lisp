@@ -64,12 +64,6 @@ Diego Amaya Wilhelm
 	)
 
 
-
-;Para cada posibilidad de columna toma el estado y 
-;reemplaza el último nil con una ficha.
-;set de todas las posibilidades.
-
-
 #|
 Código de Alfa-Beta
 
