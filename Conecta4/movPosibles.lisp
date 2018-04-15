@@ -69,6 +69,7 @@ Diego Amaya Wilhelm
 ;reemplaza el último nil con una ficha.
 ;set de todas las posibilidades.
 
+
 #|
 Código de Alfa-Beta
 
@@ -80,6 +81,7 @@ Leandro Pantoja
  )
 
 (defun max-value (nivel player estado alfa beta)
+	;aqui hay que darle valor a alfa de acuerdo a la heurística
 	(setq v -1000)
 	(setq movPosibles (movPos estado))
 	(loop for x in movPosibles do 
@@ -90,11 +92,13 @@ Leandro Pantoja
 	v)
 
 (defun min-value (nivel player estado alfa beta)
+	;aqui hay que darle valor a beta de acuerdo a la heurística
 	(setq v 1000)
 	(setq movPosibles (movPos estado))
 	(loop for x in movPosibles do 
 		(setq vPrim (max-value (- nivel 1) 'O x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
-		(if (< vPrim beta) (setq alfa vPrim))
+		(if (< vPrim beta) (setq beta vPrim))
 		(if (<= vPrim alfa) (return-from min-value v)))
 	v)
+	
