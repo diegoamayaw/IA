@@ -4,13 +4,13 @@ y regresa los movimientos posibles en forma de lista.
 
 Diego Amaya Wilhelm
 |#
-(setq edoInicial '((1 0 0 0 0 2)
-				   (0 1 0 0 0 1)
-				   (0 0 2 0 1 2)
-				   (0 0 0 1 0 1)
-				   (0 0 1 0 0 1)
-				   (0 1 0 0 0 2)
-				   (0 1 2 1 1 2)))
+(setq edoInicial '((0 0 0 0 0 1)
+				   (0 0 0 0 0 1)
+				   (0 0 0 0 0 1)
+				   (0 0 0 0 0 1)
+				   (0 0 0 0 0 0)
+				   (0 0 0 0 0 0)
+				   (0 0 2 2 2 2)))
 ;;Regresa las columnas que no están llenas (que pueden recibir otra ficha) en forma de lista
 (defun colPosibles (edo)
 	(setq colPos '())
@@ -88,8 +88,8 @@ Diego Amaya Wilhelm
 ;;;;Función que ordena el tablero por la diagonal de izquierda a derecha empezando por el elemento de arriba a la derecha
 (defun ordenaDiagIzq (estado)
 	(setq diagIzq (ordenaDiagDer (reverse estado))))
-;;Función que regresa T si en cuaquier caso el jugador (1 o 2) ganaron
 
+;;Función que regresa T si en cuaquier caso el jugador (1 o 2) ganaron
 (defun winwin (estado jugador)
 	(setq c1 0 c2 0 c3 0 c4 0)
 	(cond ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaRenglones estado)))(return-from winwin T))
@@ -105,6 +105,31 @@ Diego Amaya Wilhelm
 		  ((null lista)(return-from winwin2 nil))
 		  ((equal (car lista) jugador)(winwin2 (cdr lista) jugador (+ contador 1)))
 	(t (winwin2 (cdr lista) jugador 0)))
+)
+
+;;Función que le asigna un costo an tablero dada la probabilidad de ganar
+
+(defun heuristica (estado)
+	(-(+ (* 5 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaRenglones estado))))
+		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaDiagDer estado))))
+		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaDiagIzq estado))))
+		 (* 6 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) estado)))
+		 )
+	  (+ (* 5 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 1 0)) (ordenaRenglones estado))))
+		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 1 0)) (ordenaDiagDer estado))))
+		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 1 0)) (ordenaDiagIzq estado))))
+		 (* 6 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 1 0)) estado)))
+		 )
+	)
+)
+
+(defun heuristica2 (lista jugador contador)
+	(cond ((equal contador 4)(return-from heuristica2 1000))
+		  ((and (null lista)(equal contador 3))(return-from heuristica2 10))
+		  ((and (null lista)(equal contador 2))(return-from heuristica2 6))
+		  ((null lista)(return-from heuristica2 1))
+		  ((equal (car lista) jugador)(max (heuristica2 (cdr lista) jugador (+ contador 1)) (heuristica2 (cdr lista) jugador 0)))
+	(t (heuristica2 (cdr lista) jugador contador)))
 )
 #|
 Código de Alfa-Beta
