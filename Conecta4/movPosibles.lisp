@@ -5,12 +5,12 @@ y regresa los movimientos posibles en forma de lista.
 Diego Amaya Wilhelm
 |#
 (setq edoInicial '((0 0 0 0 0 1)
+				   (0 0 0 0 2 1)
 				   (0 0 0 0 0 1)
-				   (0 0 0 0 0 1)
-				   (0 0 0 0 0 1)
-				   (0 0 0 0 0 0)
-				   (0 0 0 0 0 0)
-				   (0 0 2 2 2 2)))
+				   (0 0 0 1 2 2)
+				   (0 0 0 2 1 1)
+				   (0 0 0 0 2 1)
+				   (0 0 0 1 1 2)))
 ;;Regresa las columnas que no están llenas (que pueden recibir otra ficha) en forma de lista
 (defun colPosibles (edo)
 	(setq colPos '())
@@ -110,6 +110,8 @@ Diego Amaya Wilhelm
 ;;Función que le asigna un costo an tablero dada la probabilidad de ganar
 
 (defun heuristica (estado)
+	(if (winwin estado 1) (return-from heuristica -5000))
+	(if (winwin estado 2) (return-from	heuristica 5000))
 	(-(+ (* 5 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaRenglones estado))))
 		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaDiagDer estado))))
 		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaDiagIzq estado))))
@@ -124,7 +126,7 @@ Diego Amaya Wilhelm
 )
 
 (defun heuristica2 (lista jugador contador)
-	(cond ((equal contador 4)(return-from heuristica2 1000))
+	(cond ;((equal contador 4)(return-from heuristica2 1000))
 		  ((and (null lista)(equal contador 3))(return-from heuristica2 10))
 		  ((and (null lista)(equal contador 2))(return-from heuristica2 6))
 		  ((null lista)(return-from heuristica2 1))
