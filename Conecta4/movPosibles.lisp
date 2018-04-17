@@ -133,31 +133,48 @@ Diego Amaya Wilhelm
 		  ((equal (car lista) jugador)(max (heuristica2 (cdr lista) jugador (+ contador 1)) (heuristica2 (cdr lista) jugador 0)))
 	(t (heuristica2 (cdr lista) jugador contador)))
 )
-#|
-Código de Alfa-Beta
 
-Leandro Pantoja
-|#
+(defun alfa-beta (estado nivel)
+   (setq sol -1)
+   ;(print "empieza max")
+   (max-value nivel '2 estado -10000 10000)
+ )
 
 (defun max-value (nivel player estado alfa beta)
 	;aqui hay que darle valor a alfa de acuerdo a la heurística
-	(setq v -1000)
-	(setq movPosibles (movPos estado))
+	;(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(print "ya acabo max"))
+	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado)))
+	(setq v -10000 movPosibles (movPos estado player))
+	;(print "setv y no ganaron max")
+	;(print nivel)
 	(loop for x in movPosibles do 
-		(setq vPrim (min-value (- nivel 1) 1 x alfa beta))
+		;(print "llamando min")
+		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
+		;(print "valores min: ")
+		;(print vPrim)
+		;(print v)
 		(if (> vPrim v) (setq v vPrim))
-		(if (> vPrim alfa) (setq alfa vPrim))
+		(if (> vPrim alfa) (let ((alfa vPrim))))
 		(if (>= vPrim beta) (return-from max-value v)))
-	v)
+	(return-from max-value v)
+	)
 
 (defun min-value (nivel player estado alfa beta)
 	;aqui hay que darle valor a beta de acuerdo a la heurística
-	(setq v 1000)
-	(setq movPosibles (movPos estado))
+	;(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(print "ya acabo min"))
+	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado)))
+	(setq v 10000 movPosibles (movPos estado player))
+	;(print "setv y no ganaron min")
+	;(print nivel)
 	(loop for x in movPosibles do 
-		(setq vPrim (max-value (- nivel 1) 2 x alfa beta))
+		;(print "llamando max")
+		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
+		;(print "valores max: ")
+		;(print vPrim)
+		;(print v)
 		(if (< vPrim v) (setq v vPrim))
-		(if (< vPrim beta) (setq beta vPrim))
+		(if (< vPrim beta) (let ((beta vPrim))))
+		;(if (<= vPrim alfa) (print v))
 		(if (<= vPrim alfa) (return-from min-value v)))
-v)
-
+	(return-from min-value v)
+	)

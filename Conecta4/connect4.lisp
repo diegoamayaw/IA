@@ -133,11 +133,8 @@ Diego Amaya Wilhelm
 		  ((equal (car lista) jugador)(max (heuristica2 (cdr lista) jugador (+ contador 1)) (heuristica2 (cdr lista) jugador 0)))
 	(t (heuristica2 (cdr lista) jugador contador)))
 )
-#|
-Código de Alfa-Beta
 
-Leandro Pantoja
-|#
+
 (defun alfa-beta (estado nivel)
    (setq sol -1)
    ;(print "empieza max")
