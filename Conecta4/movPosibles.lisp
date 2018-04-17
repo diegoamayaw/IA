@@ -138,29 +138,4 @@ Código de Alfa-Beta
 
 Leandro Pantoja
 |#
-(defun alfa-beta (estado nivel)
-   (setq sol -1)
-   (max-value nivel 2 estado -1000 1000)
- )
 
-(defun max-value (nivel player estado alfa beta)
-	;aqui hay que darle valor a alfa de acuerdo a la heurística
-	(setq v -1000)
-	(setq movPosibles (movPos estado))
-	(loop for x in movPosibles do 
-		(setq vPrim (min-value (- nivel 1) 1 x alfa beta))
-		(if (> vPrim v) (setq v vPrim))
-		(if (> vPrim alfa) (setq alfa vPrim))
-		(if (>= vPrim beta) (return-from max-value v)))
-	v)
-
-(defun min-value (nivel player estado alfa beta)
-	;aqui hay que darle valor a beta de acuerdo a la heurística
-	(setq v 1000)
-	(setq movPosibles (movPos estado))
-	(loop for x in movPosibles do 
-		(setq vPrim (max-value (- nivel 1) 2 x alfa beta))
-		(if (< vPrim v) (setq v vPrim))
-		(if (< vPrim beta) (setq beta vPrim))
-		(if (<= vPrim alfa) (return-from min-value v)))
-	v)
