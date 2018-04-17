@@ -140,7 +140,7 @@ Leandro Pantoja
 |#
 (defun alfa-beta (estado nivel)
    (setq sol -1)
-   (max-value nivel 'O estado -1000 1000)
+   (max-value nivel 2 estado -1000 1000)
  )
 
 (defun max-value (nivel player estado alfa beta)
@@ -148,7 +148,7 @@ Leandro Pantoja
 	(setq v -1000)
 	(setq movPosibles (movPos estado))
 	(loop for x in movPosibles do 
-		(setq vPrim (min-value (- nivel 1) 'X x alfa beta))
+		(setq vPrim (min-value (- nivel 1) 1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
 		(if (> vPrim alfa) (setq alfa vPrim))
 		(if (>= vPrim beta) (return-from max-value v)))
@@ -159,7 +159,7 @@ Leandro Pantoja
 	(setq v 1000)
 	(setq movPosibles (movPos estado))
 	(loop for x in movPosibles do 
-		(setq vPrim (max-value (- nivel 1) 'O x alfa beta))
+		(setq vPrim (max-value (- nivel 1) 2 x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
 		(if (< vPrim beta) (setq beta vPrim))
 		(if (<= vPrim alfa) (return-from min-value v)))
