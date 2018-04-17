@@ -137,23 +137,14 @@ Diego Amaya Wilhelm
 
 (defun alfa-beta (estado nivel)
    (setq sol -1)
-   ;(print "empieza max")
    (max-value nivel '2 estado -10000 10000)
  )
 
 (defun max-value (nivel player estado alfa beta)
-	;aqui hay que darle valor a alfa de acuerdo a la heurística
-	;(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(print "ya acabo max"))
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado)))
 	(setq v -10000 movPosibles (movPos estado player))
-	;(print "setv y no ganaron max")
-	;(print nivel)
 	(loop for x in movPosibles do 
-		;(print "llamando min")
 		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
-		;(print "valores min: ")
-		;(print vPrim)
-		;(print v)
 		(if (> vPrim v) (setq v vPrim))
 		(if (> vPrim alfa) (let ((alfa vPrim))))
 		(if (>= vPrim beta) (return-from max-value v)))
@@ -161,21 +152,12 @@ Diego Amaya Wilhelm
 	)
 
 (defun min-value (nivel player estado alfa beta)
-	;aqui hay que darle valor a beta de acuerdo a la heurística
-	;(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(print "ya acabo min"))
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado)))
 	(setq v 10000 movPosibles (movPos estado player))
-	;(print "setv y no ganaron min")
-	;(print nivel)
 	(loop for x in movPosibles do 
-		;(print "llamando max")
 		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
-		;(print "valores max: ")
-		;(print vPrim)
-		;(print v)
 		(if (< vPrim v) (setq v vPrim))
 		(if (< vPrim beta) (let ((beta vPrim))))
-		;(if (<= vPrim alfa) (print v))
 		(if (<= vPrim alfa) (return-from min-value v)))
 	(return-from min-value v)
 	)
