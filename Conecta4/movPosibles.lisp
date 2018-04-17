@@ -138,10 +138,6 @@ Código de Alfa-Beta
 
 Leandro Pantoja
 |#
-(defun alfa-beta (estado nivel)
-   (setq sol -1)
-   (max-value nivel 2 estado -1000 1000)
- )
 
 (defun max-value (nivel player estado alfa beta)
 	;aqui hay que darle valor a alfa de acuerdo a la heurística
@@ -164,3 +160,4 @@ Leandro Pantoja
 		(if (< vPrim beta) (setq beta vPrim))
 		(if (<= vPrim alfa) (return-from min-value v)))
 v)
+
