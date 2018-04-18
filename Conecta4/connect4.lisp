@@ -136,14 +136,16 @@ Diego Amaya Wilhelm
 
 
 (defun alfa-beta (estado nivel)
-   (setq sol -1)
+   (setq sol 1)
    (max-value nivel '2 estado -10000 10000)
+
  )
 
 (defun max-value (nivel player estado alfa beta)
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado)))
 	(setq v -10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do 
+		(incf sol 1)
 		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
 		(if (> vPrim alfa) (let ((alfa vPrim))))
@@ -154,7 +156,8 @@ Diego Amaya Wilhelm
 (defun min-value (nivel player estado alfa beta)
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado)))
 	(setq v 10000 movPosibles (movPos estado player))
-	(loop for x in movPosibles do 
+	(loop for x in movPosibles do
+		(incf sol 1) 
 		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
 		(if (< vPrim beta) (let ((beta vPrim))))
