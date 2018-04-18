@@ -2,13 +2,13 @@
 Código que recibe el estado actual de un tablero de conecta 4
 y regresa los movimientos posibles en forma de lista.
 |#
-(setq edoInicial '((0 0 0 0 0 0)
-				   (0 0 0 0 0 0)
-				   (0 0 0 0 0 0)
-				   (0 0 0 0 0 0)
-				   (0 0 0 0 0 0)
-				   (0 0 0 0 0 1)
-				   (0 0 0 0 0 0)))
+(setq edoInicial '((0 0 2 2 2 1)
+   				   (0 0 0 0 1 2)
+   				   (0 0 0 0 0 0)
+   				   (0 0 0 2 1 1)
+   				   (0 0 0 0 0 0)
+   				   (0 0 0 0 0 0)
+   				   (0 0 0 0 0 0)))
 ;;Regresa las columnas que no están llenas (que pueden recibir otra ficha) en forma de lista
 (defun colPosibles (edo)
 	(setq colPos '())
@@ -65,6 +65,12 @@ y regresa los movimientos posibles en forma de lista.
 
 (defun getSigMov (mov)
 	(setq sig (pop mov)))
+
+(defun contieneLista (a b)
+	(if (or (null a) (null b)) (return-from contieneLista 'nosol))
+	(if (equal a (car b)) (return-from contieneLista T))
+	(contieneLista a (cdr b))
+	)
 
 ;;Función que arregla el tablero por renglones
 (defun ordenaRenglones (estado)
@@ -134,10 +140,21 @@ y regresa los movimientos posibles en forma de lista.
 		  ((equal (car lista) jugador)(max (heuristica2 (cdr lista) jugador (+ contador 1)) (heuristica2 (cdr lista) jugador 0)))
 	(t (heuristica2 (cdr lista) jugador contador)))
 )
-
+(defun getIntoHash (lista nom)
+	(cond ((null lista)(return-from getIntoHash T))
+		  (t(setf (gethash (car lista) nom) 0) (getIntoHash (cdr lista) nom))
+		)
+	)
+(defun actualizaV (estado nom v)
+	(push (list estado v) jugada)
+	)
 
 (defun alfa-beta (estado nivel)
-   (setq sol 1)
+   (setq sol 0)
+   (setq jugada '())
+   (setq movimientosIniciales (movPos estado 2))
+   (setq nodIni (make-hash-table :size 10))
+   (getIntoHash (movPos estado 2) nodIni)
    (max-value nivel '2 estado -10000 10000)
 
  )
@@ -150,6 +167,7 @@ y regresa los movimientos posibles en forma de lista.
 		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
 		(if (> vPrim alfa) (let ((alfa vPrim))))
+		(if (contieneLista x movimientosIniciales)(actualizaV x nodIni v))
 		(if (>= vPrim beta) (return-from max-value v)))
 	(return-from max-value v)
 	)
@@ -162,6 +180,27 @@ y regresa los movimientos posibles en forma de lista.
 		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
 		(if (< vPrim beta) (let ((beta vPrim))))
+		;(if (gethash x nodIni)(print "se pudo min")(actualizaV x nodIni v))
 		(if (<= vPrim alfa) (return-from min-value v)))
 	(return-from min-value v)
 	)
+
+(defun contieneLista (a b)
+	(if (or (null a) (null b)) (return-from contieneLista 'nosol))
+	(if (equal a (car b)) (return-from contieneLista T))
+	(contieneLista a (cdr b))
+	)
+
+;lisst es la creada al actualizar, control es la de movpos
+(defun obtenJugada (lisst valor control)
+	(if(or (null lisst) (null control)) (return-from obtenJugada 'No_se_encontró_jugada))
+	(if(and (equal valor (cadar lisst)) (equal (caar lisst) (car control))) (return-from obtenJugada (car control)))
+	(obtenJugada (cdr lisst) valor control)
+	(obtenJugada lisst valor (cdr control))
+	)
+(defun iterador (lista control valor)
+	(loop for x in control do
+		(loop for y in lista do
+			(if (and (equal (cadar y) valor) (equal (caar y) x))(return-from iterador x))
+			)))
+	
