@@ -9,6 +9,14 @@ y regresa los movimientos posibles en forma de lista.
    				   (0 0 0 0 0 0)
    				   (0 0 0 0 0 0)
    				   (0 0 0 0 0 0)))
+
+(setq edo '((0 0 2 2 2 1)
+   				   (0 0 0 2 1 2)
+   				   (0 0 0 0 0 0)
+   				   (0 0 0 2 1 1)
+   				   (0 0 0 0 0 0)
+   				   (0 0 0 0 0 0)
+   				   (0 0 0 0 0 0)))
 ;;Regresa las columnas que no están llenas (que pueden recibir otra ficha) en forma de lista
 (defun colPosibles (edo)
 	(setq colPos '())
@@ -203,4 +211,29 @@ y regresa los movimientos posibles en forma de lista.
 		(loop for y in lista do
 			(if (and (equal (cadar y) valor) (equal (caar y) x))(return-from iterador x))
 			)))
-	
+
+(defun restaCol (col1 col2)
+	(return-from restaCol (mapcar #'- col2 col1))
+	)
+(defun encuentraCol (estadoIn jugada)
+	(setq resta '())
+	(encuentraCol2 estadoIn jugada)
+	(setq resta (reverse resta))
+	(return-from encuentraCol resta)
+	)
+
+(defun encuentraCol2 (estadoIn jugada)
+	(if (or (null estadoIn) (null jugada))(return-from encuentraCol2 0))
+	(push (restaCol (car estadoIn) (car jugada)) resta)
+	(encuentraCol2 (cdr estadoIn) (cdr jugada))
+	)
+
+(defun dameColumna (lista)
+	(setq contdr 1)
+	(dameColumna2 lista contdr)
+	)
+(defun dameColumna2 (lista contador)
+	(if (null lista)(return-from dameColumna2 'listaInvalida))
+	(if (member 2 (car lista))(return-from dameColumna2 contador))
+	(dameColumna2 (cdr lista) (+ contador 1))
+	)
