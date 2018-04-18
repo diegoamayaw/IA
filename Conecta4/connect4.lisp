@@ -1,8 +1,6 @@
 #|
 Código que recibe el estado actual de un tablero de conecta 4
 y regresa los movimientos posibles en forma de lista.
-
-Diego Amaya Wilhelm
 |#
 (setq edoInicial '((0 0 0 0 0 0)
 				   (0 0 0 0 0 0)
@@ -64,6 +62,9 @@ Diego Amaya Wilhelm
     	  (t(push (creaMovPos c edo ficha) movPosibles)))
     (movPos2 edo (+ c 1) (cdr columPos) ficha)
 	)
+
+(defun getSigMov (mov)
+	(setq sig (pop mov)))
 
 ;;Función que arregla el tablero por renglones
 (defun ordenaRenglones (estado)
