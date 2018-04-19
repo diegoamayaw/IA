@@ -192,17 +192,17 @@ y regresa los movimientos posibles en forma de lista.
 	)
 
 ;lisst es la creada al actualizar, control es la de movpos
-(defun obtenJugada (lisst valor control)
-	(if(or (null lisst) (null control)) (return-from obtenJugada 'No_se_encontró_jugada))
-	(if(and (equal valor (cadar lisst)) (equal (caar lisst) (car control))) (return-from obtenJugada (car control)))
-	(obtenJugada (cdr lisst) valor control)
-	(obtenJugada lisst valor (cdr control))
+(defun encontrarJugada (movSig valor movPosi)
+	(if (null movPosi)(return-from encontrarJugada 'No_se_pudo))
+	(cond ((recorreJugada movSig valor (car movPosi)) (return-from encontrarJugada (car movPosi)))
+	(t(encontrarJugada movSig valor (cdr movPosi))))
 	)
-(defun iterador (lista control valor)
-	(loop for x in control do
-		(loop for y in lista do
-			(if (and (equal (cadar y) valor) (equal (caar y) x))(return-from iterador x))
-			)))
+
+(defun recorreJugada(movSig valor jugadaPosi)
+	(if (null movSig)(return-from recorreJugada nil))
+	(cond ((and (equal (caar movSig) jugadaPosi) (equal (cadar movSig) valor))(return-from recorreJugada T))
+	(t(recorreJugada (cdr movSig) valor jugadaPosi))
+	))
 
 (defun restaCol (col1 col2)
 	(return-from restaCol (mapcar #'- col2 col1))
