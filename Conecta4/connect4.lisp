@@ -3,10 +3,10 @@ Código que recibe el estado actual de un tablero de conecta 4
 y regresa los movimientos posibles en forma de lista.
 |#
 ;(setq dificultad 10)
-(setq edoInicial '((0 0 0 2 2 1)
+(setq edoInicial '((0 0 0 0 1 1)
    				   (0 0 0 0 1 2)
    				   (0 0 0 0 0 0)
-   				   (0 0 0 2 1 1)
+   				   (0 0 0 1 1 1)
    				   (0 0 0 0 0 0)
    				   (0 0 0 0 0 0)
    				   (0 0 0 0 0 0)))
@@ -113,6 +113,15 @@ y regresa los movimientos posibles en forma de lista.
 
 	(t(return-from winwin nil)))
 )
+(defun winwinJug (estado jugador)
+	(setq c1 0 c2 0 c3 0 c4 0)
+	(cond ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaRenglones estado)))(return-from winwinJug estado))
+		  ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaDiagDer estado)))(return-from winwinJug estado))
+		  ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) (ordenaDiagIzq estado)))(return-from winwinJug estado))
+		  ((member T (mapcar (lambda (lista) (winwin2 lista jugador c1)) estado))(return-from winwinJug estado))
+
+	(t(return-from winwinJug nil)))
+)
 
 (defun winwin2 (lista jugador contador)
 	(cond ((equal contador 4)(return-from winwin2 T))
@@ -123,9 +132,9 @@ y regresa los movimientos posibles en forma de lista.
 
 ;;Función que le asigna un costo an tablero dada la probabilidad de ganar
 
-(defun heuristica (estado)
-	(if (winwin estado 1) (return-from heuristica -5000))
-	(if (winwin estado 2) (return-from	heuristica 5000))
+(defun heuristica (estado nivel)
+	(if (winwin estado 1) (return-from heuristica (- -5000 nivel)))
+	(if (winwin estado 2) (return-from	heuristica (+ 5000 nivel)))
 	(-(+ (* 5 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaRenglones estado))))
 		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaDiagDer estado))))
 		 (* 4 (apply '+ (mapcar (lambda (lista) (heuristica2 lista 2 0)) (ordenaDiagIzq estado))))
@@ -165,19 +174,19 @@ y regresa los movimientos posibles en forma de lista.
 )
 
 (defun max-value (nivel player estado alfa beta)
-	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado)))
+	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado nivel)))
 	(setq v -10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do 
 		(setq vPrim (min-value (- nivel 1) 1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
-		(if (and (eq nivel dificultad) (contieneLista x movimientosIniciales)) (and (push v vals) (actualizaV x v)))
+		(if (and (eq nivel dif) (contieneLista x movimientosIniciales)) (and (push v vals) (actualizaV x v)))
 		(if (>= v beta) (return-from max-value v))
 		(setq alfa (max v alfa)))
 	(return-from max-value v)
 	) 
 
 (defun min-value (nivel player estado alfa beta)
-	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado)))
+	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado nivel)))
 	(setq v 10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do
 		(setq vPrim (max-value (- nivel 1) 2 x alfa beta))
@@ -227,12 +236,33 @@ y regresa los movimientos posibles en forma de lista.
 	(dameColumna2 lista contdr)
 	)
 (defun dameColumna2 (lista contador)
-	(if (null lista)(return-from dameColumna2 'listaInvalida))
+	(if (null lista)(return-from dameColumna2 nil))
+	(if (member 1 (car lista))(return-from dameColumna2 contador))
 	(if (member 2 (car lista))(return-from dameColumna2 contador))
 	(dameColumna2 (cdr lista) (+ contador 1))
 	)
 
+(defun fun (estdo)
+	(setq edo (movPos estdo 1))
+	(setq edos (movPos estdo 2))
+	(fun2 edo edos)
+	)
+
+(defun fun2 (edo edos)
+	(if (winwin (car edo) 1)(return-from fun2 (winwinJug (car edo) 1)))
+	(if (winwin (car edos) 2)(return-from fun2 (winwinJug (car edos) 2) ))
+	(if (and(null edo)(null edos))(return-from fun2 nil))
+	(fun2 (cdr edo)(cdr edos))
+	)
+(defun colFun (edoInicial state )
+	(setq column (encuentraCol edoInicial state))
+	(setq res (- (dameColumna column) 1))
+	(return-from colFun res)
+	)
+
 (defun jugar (edoActual dificultad)
+	(setq dif dificultad)
+	(if (not(null (fun edoActual)))(return-from jugar (colFun edoActual (fun edoActual))))
 	(setq listaAl (alfa-beta edoActual dificultad))
 	(setq jugadaEscogida (encontrarJugada (cadr listaAl) (car listaAl) (movPos edoActual 2)))
 	(setq column (encuentraCol edoActual jugadaEscogida))
