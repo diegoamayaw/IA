@@ -2,6 +2,7 @@
 Código que recibe el estado actual de un tablero de conecta 4
 y regresa los movimientos posibles en forma de lista.
 |#
+(setq dif 3)
 (setq edoInicial '((0 0 2 2 2 1)
    				   (0 0 0 0 1 2)
    				   (0 0 0 0 0 0)
@@ -148,48 +149,41 @@ y regresa los movimientos posibles en forma de lista.
 		  ((equal (car lista) jugador)(max (heuristica2 (cdr lista) jugador (+ contador 1)) (heuristica2 (cdr lista) jugador 0)))
 	(t (heuristica2 (cdr lista) jugador contador)))
 )
-(defun getIntoHash (lista nom)
-	(cond ((null lista)(return-from getIntoHash T))
-		  (t(setf (gethash (car lista) nom) 0) (getIntoHash (cdr lista) nom))
-		)
-	)
-(defun actualizaV (estado nom v)
+
+(defun actualizaV (estado v)
 	(push (list estado v) jugada)
 	)
 
 (defun alfa-beta (estado nivel)
-   (setq sol 0)
    (setq jugada '())
    (setq movimientosIniciales (movPos estado 2))
-   (setq nodIni (make-hash-table :size 10))
-   (getIntoHash (movPos estado 2) nodIni)
    (max-value nivel '2 estado -10000 10000)
-
- )
+   (print jugada)
+)
 
 (defun max-value (nivel player estado alfa beta)
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado)))
 	(setq v -10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do 
-		(incf sol 1)
 		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
-		(if (> vPrim alfa) (let ((alfa vPrim))))
-		(if (contieneLista x movimientosIniciales)(actualizaV x nodIni v))
-		(if (>= vPrim beta) (return-from max-value v)))
+		(setq alfa (max v alfa))
+		(if (and (eq nivel dif) (contieneLista x movimientosIniciales))(actualizaV x v))
+		(if (>= v beta) (return-from max-value v)))
+	(print v)
 	(return-from max-value v)
-	)
+	) 
 
 (defun min-value (nivel player estado alfa beta)
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado)))
 	(setq v 10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do
-		(incf sol 1) 
 		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
-		(if (< vPrim beta) (let ((beta vPrim))))
-		;(if (gethash x nodIni)(print "se pudo min")(actualizaV x nodIni v))
-		(if (<= vPrim alfa) (return-from min-value v)))
+		;(if (< vPrim beta) (setq beta vPrim))
+				(setq beta (min v alfa))
+
+		(if (<= v alfa) (return-from min-value v)))
 	(return-from min-value v)
 	)
 
