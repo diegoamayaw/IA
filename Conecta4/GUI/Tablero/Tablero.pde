@@ -160,6 +160,18 @@ void draw(){
       }
   }
   else{
+    for(int j=0; j<h; j++)
+      for(int i=0; i<w; i++){
+        fill(0,120,100);
+        rect(i*bs,j*bs,bs,bs);
+        fill(255);
+        ellipse(i*bs,j*bs,bs,bs);
+        
+        if(board[j][i]>0){
+          fill(255, board[j][i]==2?255:0, 0);
+          ellipse(i*bs,j*bs,bs,bs);
+        }
+      }
     background(0);
     fill(255);
     textSize(12);
@@ -185,11 +197,11 @@ void draw(){
 void controlEvent(ControlEvent theEvent) {
   if(theEvent.isFrom(r)) {
     if(r.getItem(0).getState()){
-      dificultad=3;
+      dificultad=4;
     }
     else
       if(r.getItem(1).getState())
-        dificultad=5;
+        dificultad=6;
       else
         dificultad=10;
   }
