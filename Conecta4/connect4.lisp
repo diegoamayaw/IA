@@ -2,8 +2,8 @@
 Código que recibe el estado actual de un tablero de conecta 4
 y regresa los movimientos posibles en forma de lista.
 |#
-(setq dif 3)
-(setq edoInicial '((0 0 2 2 2 1)
+(setq dif 2)
+(setq edoInicial '((0 0 0 2 2 1)
    				   (0 0 0 0 1 2)
    				   (0 0 0 0 0 0)
    				   (0 0 0 2 1 1)
@@ -157,8 +157,8 @@ y regresa los movimientos posibles en forma de lista.
 (defun alfa-beta (estado nivel)
    (setq jugada '())
    (setq movimientosIniciales (movPos estado 2))
-   (max-value nivel '2 estado -10000 10000)
-   (print jugada)
+   (setq sol (max-value nivel '2 estado -10000 10000))
+   (return-from alfa-beta sol)
 )
 
 (defun max-value (nivel player estado alfa beta)
@@ -168,9 +168,8 @@ y regresa los movimientos posibles en forma de lista.
 		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
 		(setq alfa (max v alfa))
-		(if (and (eq nivel dif) (contieneLista x movimientosIniciales))(actualizaV x v))
+		(if (and (eq nivel dificultad) (contieneLista x movimientosIniciales))(actualizaV x v))
 		(if (>= v beta) (return-from max-value v)))
-	(print v)
 	(return-from max-value v)
 	) 
 
@@ -180,8 +179,7 @@ y regresa los movimientos posibles en forma de lista.
 	(loop for x in movPosibles do
 		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
-		;(if (< vPrim beta) (setq beta vPrim))
-				(setq beta (min v alfa))
+		(if (< vPrim beta) (setq beta vPrim))
 
 		(if (<= v alfa) (return-from min-value v)))
 	(return-from min-value v)
