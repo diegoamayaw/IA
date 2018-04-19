@@ -2,7 +2,7 @@
 Código que recibe el estado actual de un tablero de conecta 4
 y regresa los movimientos posibles en forma de lista.
 |#
-(setq dif 2)
+;(setq dificultad 10)
 (setq edoInicial '((0 0 0 2 2 1)
    				   (0 0 0 0 1 2)
    				   (0 0 0 0 0 0)
@@ -18,6 +18,7 @@ y regresa los movimientos posibles en forma de lista.
    				   (0 0 0 0 0 0)
    				   (0 0 0 0 0 0)
    				   (0 0 0 0 0 0)))
+
 ;;Regresa las columnas que no están llenas (que pueden recibir otra ficha) en forma de lista
 (defun colPosibles (edo)
 	(setq colPos '())
@@ -71,9 +72,6 @@ y regresa los movimientos posibles en forma de lista.
     	  (t(push (creaMovPos c edo ficha) movPosibles)))
     (movPos2 edo (+ c 1) (cdr columPos) ficha)
 	)
-
-(defun getSigMov (mov)
-	(setq sig (pop mov)))
 
 (defun contieneLista (a b)
 	(if (or (null a) (null b)) (return-from contieneLista 'nosol))
@@ -154,22 +152,27 @@ y regresa los movimientos posibles en forma de lista.
 	(push (list estado v) jugada)
 	)
 
+(defun maximum (list)
+  (reduce #'max list))
+
 (defun alfa-beta (estado nivel)
    (setq jugada '())
+   (setq vals '())
    (setq movimientosIniciales (movPos estado 2))
-   (setq sol (max-value nivel '2 estado -10000 10000))
-   (return-from alfa-beta sol)
+   (setq sol (max-value nivel 2 estado -10000 10000))
+   (setq sol2 (maximum vals))
+   (return-from alfa-beta (list sol2 jugada))
 )
 
 (defun max-value (nivel player estado alfa beta)
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from max-value (heuristica estado)))
 	(setq v -10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do 
-		(setq vPrim (min-value (- nivel 1) '1 x alfa beta))
+		(setq vPrim (min-value (- nivel 1) 1 x alfa beta))
 		(if (> vPrim v) (setq v vPrim))
-		(setq alfa (max v alfa))
-		(if (and (eq nivel dificultad) (contieneLista x movimientosIniciales))(actualizaV x v))
-		(if (>= v beta) (return-from max-value v)))
+		(if (and (eq nivel dificultad) (contieneLista x movimientosIniciales)) (and (push v vals) (actualizaV x v)))
+		(if (>= v beta) (return-from max-value v))
+		(setq alfa (max v alfa)))
 	(return-from max-value v)
 	) 
 
@@ -177,11 +180,10 @@ y regresa los movimientos posibles en forma de lista.
 	(if (or (winwin estado 1) (winwin estado 2) (equal nivel 0))(return-from min-value (heuristica estado)))
 	(setq v 10000 movPosibles (movPos estado player))
 	(loop for x in movPosibles do
-		(setq vPrim (max-value (- nivel 1) '2 x alfa beta))
+		(setq vPrim (max-value (- nivel 1) 2 x alfa beta))
 		(if (< vPrim v) (setq v vPrim))
-		(if (< vPrim beta) (setq beta vPrim))
-
-		(if (<= v alfa) (return-from min-value v)))
+		(if (<= v alfa) (return-from min-value v))
+		(if (< vPrim beta) (setq beta vPrim)))
 	(return-from min-value v)
 	)
 
@@ -228,4 +230,12 @@ y regresa los movimientos posibles en forma de lista.
 	(if (null lista)(return-from dameColumna2 'listaInvalida))
 	(if (member 2 (car lista))(return-from dameColumna2 contador))
 	(dameColumna2 (cdr lista) (+ contador 1))
+	)
+
+(defun jugar (edoActual dificultad)
+	(setq listaAl (alfa-beta edoActual dificultad))
+	(setq jugadaEscogida (encontrarJugada (cadr listaAl) (car listaAl) (movPos edoActual 2)))
+	(setq column (encuentraCol edoActual jugadaEscogida))
+	(setq res (- (dameColumna column) 1))
+	(return-from jugar res)
 	)

@@ -6,6 +6,6 @@
 (setq lst (nthcdr 1 sb-ext:*posix-argv*))
 (setq lst (read-from-string (format nil "~{ ~A~}" lst)) dificultad (car lst) edoActual (cadr lst))
 
-(print (alfa-beta edo dificultad))
+(print (jugar edoActual dificultad))
 (exit)
 exit

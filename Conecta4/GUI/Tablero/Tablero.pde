@@ -185,13 +185,13 @@ void draw(){
 void controlEvent(ControlEvent theEvent) {
   if(theEvent.isFrom(r)) {
     if(r.getItem(0).getState()){
-      dificultad=1;
+      dificultad=3;
     }
     else
       if(r.getItem(1).getState())
-        dificultad=2;
+        dificultad=5;
       else
-        dificultad=3;
+        dificultad=10;
   }
 }
   
