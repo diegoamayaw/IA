@@ -262,7 +262,7 @@ y regresa los movimientos posibles en forma de lista.
 
 (defun jugar (edoActual dificultad)
 	(setq dif dificultad)
-	(if (not(null (fun edoActual)))(return-from jugar (colFun edoActual (fun edoActual))))
+	(if (and (> dif 9) (not(null (fun edoActual))))(return-from jugar (colFun edoActual (fun edoActual))))
 	(setq listaAl (alfa-beta edoActual dificultad))
 	(setq jugadaEscogida (encontrarJugada (cadr listaAl) (car listaAl) (movPos edoActual 2)))
 	(setq column (encuentraCol edoActual jugadaEscogida))
