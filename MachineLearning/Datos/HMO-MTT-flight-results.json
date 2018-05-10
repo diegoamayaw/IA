@@ -1,0 +1,276 @@
+[
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:23"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "10631.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "10631.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "10631.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:45"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "2887.75", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 21 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "07/12/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:54"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:07"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "23:01"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "32230.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 17 hours 34 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "07/12/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:54"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "21:04", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "15:25"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:10", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "07:28", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "32636.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 21 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "07/12/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:54"
+            }, 
+            {
+                "arrival_airport": "Portland, OR, Estados Unidos (PDX-A. Internacional de Portland)", 
+                "arrival_time": "19:41", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:50", 
+                "departure_airport": "Portland, OR, Estados Unidos (PDX-A. Internacional de Portland)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "52468.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "3", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "departure_time": "15:49"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "9325.88", 
+        "airline": "Aeromexico"
+    }
+]

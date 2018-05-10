@@ -1,0 +1,2370 @@
+[
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 37 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "18:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "18:56"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:16"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "16:01", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:27"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:59", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 32 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:02", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "17:51"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 47 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:04", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:17", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 30 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:34"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 32 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "16:59", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:02", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "17:51"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 26 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:34", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:59", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "13:52", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 51 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:16"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:07", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "10573.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 22 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:52", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 13 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 22 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:52", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:18"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 28 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "18:56"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 57 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "14:12", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:40"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 53 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:31"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 6 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "07:52", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "11:13", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:11", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "12:23"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 43 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 53 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:31"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 41 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "07:52", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "12:31", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:46", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "15:03"
+            }
+        ], 
+        "ticket price": "12370.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 37 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "18:56"
+            }
+        ], 
+        "ticket price": "13748.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:59", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "14:26", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:46", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "15:03"
+            }
+        ], 
+        "ticket price": "13748.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:59", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "12:31", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:46", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "15:03"
+            }
+        ], 
+        "ticket price": "13748.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:42"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "25031.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:42"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "14:25", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "11:35"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "25031.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:42"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "14:25", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "11:35"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:27", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "25031.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "13:19", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:37", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "25231.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 58 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:52"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:31"
+            }
+        ], 
+        "ticket price": "25290.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 48 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:52"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "25290.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:13"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "26309.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:57", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "26309.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:13"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "26309.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:17", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:55"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "26309.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:08", 
+                "departure_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:57"
+            }
+        ], 
+        "ticket price": "28126.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 48 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "19:12", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:06"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:28", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "20:10"
+            }
+        ], 
+        "ticket price": "28486.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "arrival_time": "14:09", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "10:49"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:10", 
+                "departure_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "28755.00", 
+        "airline": "Mesa Airlines/united Express"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 9 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:16"
+            }, 
+            {
+                "arrival_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "28755.00", 
+        "airline": "Mesa Airlines/united Express"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "18:52", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "31561.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "31561.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 41 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "31561.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "arrival_time": "14:09", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "10:49"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "32449.00", 
+        "airline": "Mesa Airlines/united Express"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 55 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "arrival_time": "14:09", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "10:49"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:10", 
+                "departure_airport": "Calgary, AB, Canad\u00e1 (YYC-A. Internacional de Calgary)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "32449.00", 
+        "airline": "Mesa Airlines/united Express"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:26"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "35815.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 59 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:26"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "36114.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:23", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "19:59"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "21:15"
+            }
+        ], 
+        "ticket price": "54027.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 27 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:44", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:09"
+            }
+        ], 
+        "ticket price": "57182.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 54 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:39", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:28"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:05"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "07:52", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "11:57", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:49"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 47 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:04", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:17", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 54 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "19:56", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "23:24", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:51"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 17 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:34", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 48 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 34 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:42"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:16", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:17", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 47 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "07:52", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "13:52", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:17", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 7 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:07", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 58 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "18:28", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:23", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "20:10"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 28 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:05"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "11:41", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "10:09"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 28 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 59 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "20:07", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:54"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "15:56"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:02", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "17:51"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 43 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 19 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 58 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "15:56"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:23", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "20:10"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "23:24", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:51"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 42 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:26"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:08", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 47 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:08", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 47 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:12", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "15:58"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 4 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:59", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "14:39", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "8835.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:42", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "23:28", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "8835.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:42", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:55"
+            }
+        ], 
+        "ticket price": "8835.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 28 minutes", 
+        "plane": "Embraer 175", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "E75", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "18:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "18:56"
+            }
+        ], 
+        "ticket price": "8835.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 47 minutes", 
+        "plane": "", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:21"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:08", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "9175.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 19 minutes", 
+        "plane": "", 
+        "departure date": "02/07/2018", 
+        "stops": "2", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:21"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:22"
+            }
+        ], 
+        "ticket price": "9175.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Denver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 30 minutes", 
+        "plane": "Boeing 717", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "717", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:14", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:34"
+            }
+        ], 
+        "ticket price": "9175.00", 
+        "airline": "Delta"
+    }
+]

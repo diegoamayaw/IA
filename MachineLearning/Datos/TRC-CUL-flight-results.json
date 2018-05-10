@@ -1,0 +1,106 @@
+[
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "11:08"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "4576.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:03"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "7268.80", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:33"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "7268.80", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "8912.48", 
+        "airline": "Aeromexico"
+    }
+]

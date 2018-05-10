@@ -1,0 +1,182 @@
+[
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }
+        ], 
+        "ticket price": "2218.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "18:44"
+            }
+        ], 
+        "ticket price": "2351.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }
+        ], 
+        "ticket price": "2351.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 21 minutes", 
+        "plane": "", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:19"
+            }
+        ], 
+        "ticket price": "2422.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "2620.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }
+        ], 
+        "ticket price": "2620.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }
+        ], 
+        "ticket price": "4323.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:58"
+            }
+        ], 
+        "ticket price": "4323.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }
+        ], 
+        "ticket price": "4323.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,1028 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 3 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:18", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "18:55"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "10151.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 6 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "10253.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 51 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:10", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:57"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "10623.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:02"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "10623.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 18 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:54", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:32"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:14"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "11293.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 22 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:18"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "11293.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 18 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:54", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:32"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "11293.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 6 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "11293.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 4 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "19:14", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "2894.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "3377.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "3734.40", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:36"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "13:52", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:44"
+            }
+        ], 
+        "ticket price": "3853.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:36"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:18", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:10"
+            }
+        ], 
+        "ticket price": "3853.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:36"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:01"
+            }
+        ], 
+        "ticket price": "3853.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "3906.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "4114.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "4114.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "4153.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 14 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:22", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "07:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "41618.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:22", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "07:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "41618.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:10", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:57"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "4327.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:12"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "5263.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:10", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:57"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "5263.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:02"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "5263.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "5263.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:02"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "5263.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:22", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "07:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "54649.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 14 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:22", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "07:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "54649.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 26 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:54", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:32"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "6355.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 26 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "20:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:03"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "04/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:27"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 57 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "7653.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 16 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:54", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:32"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:04", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:31"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "8699.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 6 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "8797.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 57 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "8797.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 6 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:18"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "9577.00", 
+        "airline": "Aeromexico"
+    }
+]

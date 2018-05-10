@@ -1,0 +1,666 @@
+[
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 44 minutes", 
+        "plane": "", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:05", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "05:01"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "2665.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 24 minutes", 
+        "plane": "", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:05", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "05:01"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "2665.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "09:40"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:15", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:02"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "16:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 8 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "09:40"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 2 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:15", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:02"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "10:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "09:40"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:35", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "19:17"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "09:40"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "3135.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 9 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "3326.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "3326.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 9 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:28"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "3326.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "3326.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 9 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "3326.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 9 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "3326.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "21/11/2018", 
+        "stops": "3", 
+        "plane code": "", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:49", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:31"
+            }, 
+            {
+                "arrival_airport": "San Antonio, TX, Estados Unidos (SAT-A. Internacional de San Antonio)", 
+                "arrival_time": "11:43", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "San Antonio, TX, Estados Unidos (SAT-A. Internacional de San Antonio)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "34483.00", 
+        "airline": "Mesa Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:14"
+            }
+        ], 
+        "ticket price": "3718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 46 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "21/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "16:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "3718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "21/11/2018", 
+        "stops": "3", 
+        "plane code": "", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:49", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:31"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:15", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "38503.00", 
+        "airline": "Mesa Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "21/11/2018", 
+        "stops": "2", 
+        "plane code": "", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:49", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:31"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:50"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "68460.00", 
+        "airline": "Mesa Airlines As American Eagle"
+    }
+]

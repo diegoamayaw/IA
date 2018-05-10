@@ -1,0 +1,2350 @@
+[
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 26 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "17:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:21", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:45"
+            }
+        ], 
+        "ticket price": "10738.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "16:47", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:06"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:01"
+            }
+        ], 
+        "ticket price": "17189.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:02", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:01"
+            }
+        ], 
+        "ticket price": "17189.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 30 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:29", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:30"
+            }
+        ], 
+        "ticket price": "24636.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:29", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "24636.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 30 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:29", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:30"
+            }
+        ], 
+        "ticket price": "24636.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:29", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "24636.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 50 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:15"
+            }
+        ], 
+        "ticket price": "24746.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 50 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:15"
+            }
+        ], 
+        "ticket price": "24746.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:16", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "24746.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 28 minutes", 
+        "plane": "Boeing 767-300", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "763", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "departure_time": "20:50"
+            }
+        ], 
+        "ticket price": "27230.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 28 minutes", 
+        "plane": "Boeing 767-300", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "763", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "departure_time": "20:50"
+            }
+        ], 
+        "ticket price": "28045.00", 
+        "airline": "Air Canada Rouge"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 33 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "757", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:15"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "20:26", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:55"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:47", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:25"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 26 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:06", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 48 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:51"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 54 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "15:10", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:51"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "19:44", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 26 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:06", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 41 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "16:26", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:59"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 38 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "13:38", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:24"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 43 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "19:33", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 8 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "19:23", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 29 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "17:34", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:24"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 50 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:37", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:20"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:29"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 48 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "19:33", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 59 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 7 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:47", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:25"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:32", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "22:37"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "15:59", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 11 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:39"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:09"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "12:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "11:05"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:20"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:29"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:09"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 56 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "12:56", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:32", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "22:37"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 48 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "18:43", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "15:59", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 48 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "18:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 26 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "19:07", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:37"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "19:10", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "17:34"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:02", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:15"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 58 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:48", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:51"
+            }
+        ], 
+        "ticket price": "3510.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:47", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:25"
+            }
+        ], 
+        "ticket price": "4385.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 31 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "11:35"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "15:31", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "14:10"
+            }
+        ], 
+        "ticket price": "4385.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "11:13", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "14:08"
+            }
+        ], 
+        "ticket price": "4385.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "10:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "14:08"
+            }
+        ], 
+        "ticket price": "4385.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 17 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:34"
+            }
+        ], 
+        "ticket price": "4385.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:18", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:51"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "11:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:09"
+            }
+        ], 
+        "ticket price": "4422.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 3 minutes", 
+        "plane": "", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:13"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "11:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:09"
+            }
+        ], 
+        "ticket price": "4806.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 58 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:56"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "14:58", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "14:02"
+            }
+        ], 
+        "ticket price": "4894.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 11 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "00:11", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "22:35"
+            }
+        ], 
+        "ticket price": "4894.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 12 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "22:42", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "21:10"
+            }
+        ], 
+        "ticket price": "4894.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 58 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "00:13", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "22:56"
+            }
+        ], 
+        "ticket price": "4894.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 39 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "18:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:44", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "22:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:45"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "14:27", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "20:11", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:28"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:37", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:24"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:23"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:05", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:48"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 43 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:07", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:13", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 33 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "14:33", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "17:18", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:23"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:05", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:48"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 33 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:07", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:13", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "14:12", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "16:37", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "15:40"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 59 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:05"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:29", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "22:33"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "13:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:56"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "16:37", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "15:40"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "16:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:05", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:48"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 33 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "16:01", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:27"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:13", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 49 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:32"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:54", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 19 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:54", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 3 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:10"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:13", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "11:12", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:51"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 17 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "757", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "21:06", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:10"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "23:44", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "22:20"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 3 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "757", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "21:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "20/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "11:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:14"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:07"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Las Vegas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 2 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "20/12/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:52"
+            }, 
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Las Vegas, NV, Estados Unidos (LAS-A. Internacional McCarran)", 
+                "arrival_time": "20:54", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "6543.00", 
+        "airline": "Delta"
+    }
+]

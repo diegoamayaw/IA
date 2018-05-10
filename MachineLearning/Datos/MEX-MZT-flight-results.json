@@ -1,0 +1,122 @@
+[
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "10/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "1252.75", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "10/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "1630.87", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "10/12/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "2169.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 56 minutes", 
+        "plane": "", 
+        "departure date": "10/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:12"
+            }
+        ], 
+        "ticket price": "2272.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "10/12/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "2865.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 56 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/12/2018", 
+        "stops": 0, 
+        "plane code": "E70", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "17:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "2865.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "15/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "1760.04", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "15/11/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "2080.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/11/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:34"
+            }
+        ], 
+        "ticket price": "2293.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/11/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "16:07"
+            }
+        ], 
+        "ticket price": "2525.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "15/11/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:25", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "2926.00", 
+        "airline": "Aeromar Airlines"
+    }
+]

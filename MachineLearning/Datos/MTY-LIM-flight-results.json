@@ -1,0 +1,1026 @@
+[
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 17 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:15"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "3676.38", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "3676.38", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:44"
+            }
+        ], 
+        "ticket price": "8008.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 18 hours 58 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:02", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:27"
+            }
+        ], 
+        "ticket price": "8008.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:46"
+            }
+        ], 
+        "ticket price": "8008.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:14", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:39"
+            }
+        ], 
+        "ticket price": "8008.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:17", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:45"
+            }
+        ], 
+        "ticket price": "8008.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 26 hours 31 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:38"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "16:09", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 12 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 28 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:38"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 16 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 23 hours 1 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 16 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 15 hours 22 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 21 hours 16 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 21 hours 16 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 32 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:50"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 30 hours 42 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:38"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 12 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:38"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:50"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 23 hours 1 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "9398.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 51 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "20:18"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "16:09", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 12 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 36 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:14"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:50"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "13:19", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:50"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 12 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:15"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:50"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 22 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:18"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 2 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:38"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 36 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:14"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:50"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 18 hours 50 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:19"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "16:09", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "9418.00", 
+        "airline": ""
+    }
+]

@@ -1,0 +1,2372 @@
+[
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 28 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:52"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 45 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 32 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 7 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:32"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 6 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 28 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:32"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:26"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "10130.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:56", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "17:26", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:46"
+            }
+        ], 
+        "ticket price": "10403.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:58"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:21"
+            }
+        ], 
+        "ticket price": "10403.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 22 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:21"
+            }
+        ], 
+        "ticket price": "10403.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 45 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "10529.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:46", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "10598.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 13 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:01", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:06"
+            }
+        ], 
+        "ticket price": "10988.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "28/10/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "10988.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 35 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "13:04", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:41"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "departure_time": "15:33"
+            }
+        ], 
+        "ticket price": "11067.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "19:07", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "04:54", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "23:54"
+            }
+        ], 
+        "ticket price": "14549.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 44 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:32", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:10"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "04:54", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "23:54"
+            }
+        ], 
+        "ticket price": "14549.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 24 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "04:54", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "23:54"
+            }
+        ], 
+        "ticket price": "14549.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 14 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "04:54", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "23:54"
+            }
+        ], 
+        "ticket price": "14549.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 9 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:07", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "04:54", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "23:54"
+            }
+        ], 
+        "ticket price": "14549.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 53 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "departure_time": "08:28"
+            }
+        ], 
+        "ticket price": "29965.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "4763.13", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "4808.27", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "4808.27", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "4808.27", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:35"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "4919.48", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "4938.81", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "4938.81", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:50"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "4938.81", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "5006.35", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "5081.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "5081.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "5081.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:56", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "17:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:27"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:56", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:14"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:56", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:17"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:21"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:58"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "17:26", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:46"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 57 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:58"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:14"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 22 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "17:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:27"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "17:26", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:46"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:58"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:52"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:58"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "17:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:27"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:14"
+            }
+        ], 
+        "ticket price": "6759.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:41", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:40"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:29", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "03:42"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 59 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:29", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "03:42"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 55 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:41", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:40"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:20", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 34 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:29", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "03:42"
+            }
+        ], 
+        "ticket price": "6933.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "6954.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 55 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "7043.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "15:18"
+            }
+        ], 
+        "ticket price": "7344.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 42 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Medell\u00edn, Colombia (MDE-A. Internacional Jos\u00e9 Mar\u00eda C\u00f3rdova)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:30", 
+                "departure_airport": "Medell\u00edn, Colombia (MDE-A. Internacional Jos\u00e9 Mar\u00eda C\u00f3rdova)", 
+                "departure_time": "05:33"
+            }
+        ], 
+        "ticket price": "7452.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 28 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:32"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 9 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:32"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 32 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:26"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:17"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 19 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:22"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 6 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 14 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:27"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 49 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:52"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 30 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:42"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 49 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:52"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 40 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:32"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 34 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:26"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }
+        ], 
+        "ticket price": "8806.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Bogot\u00e1", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "19:07", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:18", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "09:39"
+            }
+        ], 
+        "ticket price": "9337.00", 
+        "airline": ""
+    }
+]

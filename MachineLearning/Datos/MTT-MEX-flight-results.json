@@ -1,0 +1,82 @@
+[
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 19 minutes", 
+        "plane": "", 
+        "departure date": "20/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:20", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "05:01"
+            }
+        ], 
+        "ticket price": "2136.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/11/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:46"
+            }
+        ], 
+        "ticket price": "3440.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/11/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }
+        ], 
+        "ticket price": "3440.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/11/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "20:01"
+            }
+        ], 
+        "ticket price": "3440.00", 
+        "airline": "Aeromexico"
+    }
+]

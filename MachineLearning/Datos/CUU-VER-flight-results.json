@@ -1,0 +1,694 @@
+[
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:54", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:32"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10944.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "Embraer RJ145", 
+        "departure date": "12/10/2018", 
+        "stops": "3", 
+        "plane code": "ER4", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:56", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Antonio, TX, Estados Unidos (SAT-A. Internacional de San Antonio)", 
+                "arrival_time": "11:43", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "San Antonio, TX, Estados Unidos (SAT-A. Internacional de San Antonio)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "28810.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:22", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "14:24"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "37016.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:18", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "37016.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "3810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:18"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "3810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "3810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "3810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "4419.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "4419.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:51", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "4970.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "5130.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:10", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:57"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "5285.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "Embraer RJ145", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "ER4", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:56", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "55973.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 31 minutes", 
+        "plane": "Embraer RJ145", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "ER4", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:56", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "55973.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:22", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "14:24"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "57642.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:18", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "57642.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:02"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 29 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:54", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:32"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:02"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:12"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "6793.00", 
+        "airline": "Aeromexico"
+    }
+]

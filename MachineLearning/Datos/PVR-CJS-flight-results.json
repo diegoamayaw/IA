@@ -1,0 +1,382 @@
+[
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "10078.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "10078.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "13718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "13718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "13718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "13718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:33"
+            }
+        ], 
+        "ticket price": "13718.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "15/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5350.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "15/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "5350.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "15/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "15:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "5350.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "7624.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "8248.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "19:09"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "8248.00", 
+        "airline": "Aeromexico"
+    }
+]

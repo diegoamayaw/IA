@@ -1,0 +1,802 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:39"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "10262.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:29"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 11 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:22"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 11 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:22"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:29"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 11 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:22"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "10:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:01"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 11 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:22"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "18:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 54 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:39"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:33", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "10474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 7 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:39"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:46", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "11223.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "2779.04", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:40", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "2862.09", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "2862.09", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "2990.16", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 32 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:41"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:27"
+            }
+        ], 
+        "ticket price": "3073.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "3493.37", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:40", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "3493.37", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 32 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "10:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:05"
+            }
+        ], 
+        "ticket price": "3500.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "3500.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:39"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "4124.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 8 minutes", 
+        "plane": "", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:41"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "20:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:03"
+            }
+        ], 
+        "ticket price": "4213.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 3 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:22"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "4852.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 57 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:39"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "4852.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:29"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "4852.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 7 hours 27 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "19:04"
+            }, 
+            {
+                "arrival_airport": "Durango, Durango (DGO-A. Internacional Guadalupe Victoria de Durango)", 
+                "arrival_time": "23:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "00:31", 
+                "departure_airport": "Durango, Durango (DGO-A. Internacional Guadalupe Victoria de Durango)", 
+                "departure_time": "23:48"
+            }
+        ], 
+        "ticket price": "5788.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:29"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "5788.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 2 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:29"
+            }, 
+            {
+                "arrival_airport": "Durango, Durango (DGO-A. Internacional Guadalupe Victoria de Durango)", 
+                "arrival_time": "23:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "00:31", 
+                "departure_airport": "Durango, Durango (DGO-A. Internacional Guadalupe Victoria de Durango)", 
+                "departure_time": "23:48"
+            }
+        ], 
+        "ticket price": "5788.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/12/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "19:04"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "5788.00", 
+        "airline": "Aeromexico"
+    }
+]

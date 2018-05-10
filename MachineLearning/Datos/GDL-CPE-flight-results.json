@@ -1,0 +1,332 @@
+[
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "19/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:15", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:51"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "07:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:02"
+            }
+        ], 
+        "ticket price": "13123.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:35"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "01:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "3252.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:15"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "01:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "3491.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "01:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "3870.18", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "01:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "4363.22", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "01:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "4363.22", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 14 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5060.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 9 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:03"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5060.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 57 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5060.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "19/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:17"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "19/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "6588.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "19/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "6588.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "29/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chetumal", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:35"
+            }
+        ], 
+        "ticket price": "2230.72", 
+        "airline": "Interjet"
+    }
+]

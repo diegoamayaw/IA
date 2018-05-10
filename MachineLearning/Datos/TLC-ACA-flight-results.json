@@ -1,0 +1,22 @@
+[
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 0 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "06/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Toluca", 
+        "timings": [
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "14:05", 
+                "departure_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "3468.10", 
+        "airline": "Interjet"
+    }
+]

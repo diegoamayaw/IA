@@ -1,0 +1,408 @@
+[
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "19:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:10"
+            }
+        ], 
+        "ticket price": "2951.94", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 39 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "14:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "3084.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "15:07"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "19:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "3084.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 26 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "12:22"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "16:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "3374.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:55"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "13:56", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 53 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "12:22"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "08:44"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3399.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "18:47"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "3954.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 26 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "12:22"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "19:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "3954.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 23 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "AT7", 
+        "departure": ", Acapulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "16:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "3998.00", 
+        "airline": ""
+    }
+]

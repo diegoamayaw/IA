@@ -1,0 +1,852 @@
+[
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:40"
+            }
+        ], 
+        "ticket price": "2359.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:40"
+            }
+        ], 
+        "ticket price": "2359.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:35"
+            }
+        ], 
+        "ticket price": "2359.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:35"
+            }
+        ], 
+        "ticket price": "2359.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "3004.07", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "21:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "3048.10", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 57 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:57", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:57", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:13"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 21 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "22:51", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:42"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 52 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:17", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "13:16", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:17", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 46 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "22:51", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:42"
+            }
+        ], 
+        "ticket price": "3115.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:09"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:49", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:08"
+            }
+        ], 
+        "ticket price": "3633.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 32 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "10:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:49", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:08"
+            }
+        ], 
+        "ticket price": "3633.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:49", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:08"
+            }
+        ], 
+        "ticket price": "3633.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 46 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:16", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:53"
+            }
+        ], 
+        "ticket price": "4529.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 46 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:16", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:53"
+            }
+        ], 
+        "ticket price": "4529.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 17 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:26"
+            }
+        ], 
+        "ticket price": "4529.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DAL-Love Field)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:26"
+            }
+        ], 
+        "ticket price": "4529.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:17", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:55"
+            }
+        ], 
+        "ticket price": "4529.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 13 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DAL-Love Field)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:26"
+            }
+        ], 
+        "ticket price": "4529.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "5167.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }
+        ], 
+        "ticket price": "5167.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:45"
+            }
+        ], 
+        "ticket price": "5167.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }
+        ], 
+        "ticket price": "5167.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:26"
+            }
+        ], 
+        "ticket price": "5276.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 17 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:26"
+            }
+        ], 
+        "ticket price": "5276.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "21:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:38"
+            }
+        ], 
+        "ticket price": "5276.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 42 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DAL-Love Field)", 
+                "arrival_time": "15:12", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:59"
+            }
+        ], 
+        "ticket price": "5276.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:26"
+            }
+        ], 
+        "ticket price": "5276.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "21:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:38"
+            }
+        ], 
+        "ticket price": "6044.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "23:46", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:27"
+            }
+        ], 
+        "ticket price": "6590.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Dallas", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 1 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "23:51", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "6590.00", 
+        "airline": "Aeromexico"
+    }
+]

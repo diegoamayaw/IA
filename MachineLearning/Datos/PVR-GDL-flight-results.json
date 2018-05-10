@@ -1,0 +1,432 @@
+[
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "10165.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "15:20"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "10165.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "15:20"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "10670.25", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:15"
+            }
+        ], 
+        "ticket price": "10670.25", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "10670.25", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "06:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:05"
+            }
+        ], 
+        "ticket price": "14402.91", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "06:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }
+        ], 
+        "ticket price": "14905.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "18254.25", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 8 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:14", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "21:28"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:09"
+            }
+        ], 
+        "ticket price": "3456.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 48 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:14"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:35"
+            }
+        ], 
+        "ticket price": "3456.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 59 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:14", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "21:28"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }
+        ], 
+        "ticket price": "3456.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 32 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "20:31"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:02"
+            }
+        ], 
+        "ticket price": "3456.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:14"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:47"
+            }
+        ], 
+        "ticket price": "3456.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "20:31"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "06:01", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:00"
+            }
+        ], 
+        "ticket price": "3456.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 0 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "3552.66", 
+        "airline": "Calafia Airlines"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 5 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "02/09/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "19:00"
+            }
+        ], 
+        "ticket price": "5778.55", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 54 minutes", 
+        "plane": "", 
+        "departure date": "02/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:14"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:41"
+            }
+        ], 
+        "ticket price": "8796.70", 
+        "airline": "Volaris"
+    }
+]

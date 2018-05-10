@@ -1,0 +1,74 @@
+[
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "2101.34", 
+        "airline": "Calafia Airlines"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:15"
+            }
+        ], 
+        "ticket price": "2463.10", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 23 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:51", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "15:48"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "21:11", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:37"
+            }
+        ], 
+        "ticket price": "3844.35", 
+        "airline": "Volaris"
+    }
+]

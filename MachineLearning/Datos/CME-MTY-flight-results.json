@@ -1,0 +1,568 @@
+[
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "2634.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }
+        ], 
+        "ticket price": "2634.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "2634.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 21 hours 11 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:01", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:25"
+            }
+        ], 
+        "ticket price": "32147.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:46", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:10"
+            }
+        ], 
+        "ticket price": "32147.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:56", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "32147.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 22 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:23", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:15"
+            }
+        ], 
+        "ticket price": "32168.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 21 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:14", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "14:30"
+            }
+        ], 
+        "ticket price": "35178.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "17:10"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:50"
+            }
+        ], 
+        "ticket price": "3949.44", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "4374.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "4374.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:20", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:35"
+            }
+        ], 
+        "ticket price": "4414.22", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:20", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }
+        ], 
+        "ticket price": "4414.22", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "17:10"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "4541.04", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "23:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "4722.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:20", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "4759.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "15/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "17:10"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:35"
+            }
+        ], 
+        "ticket price": "4836.84", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:38"
+            }
+        ], 
+        "ticket price": "9515.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/08/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:38"
+            }
+        ], 
+        "ticket price": "9515.00", 
+        "airline": "Aeromexico"
+    }
+]

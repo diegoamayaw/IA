@@ -1,0 +1,936 @@
+[
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:05"
+            }
+        ], 
+        "ticket price": "1176.81", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:52"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 54 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 33 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:02"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 49 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 49 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:26"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 24 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:21"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 21 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:18"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 48 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "1940.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "2137.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 16 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:12", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:31"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "06:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:35"
+            }
+        ], 
+        "ticket price": "2641.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "2709.66", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 21 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "3274.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:25"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3580.05", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3580.05", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3580.05", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3580.05", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3580.05", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "3597.06", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:45"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3875.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3875.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3875.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "3875.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "3892.86", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:43"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:28", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:15"
+            }
+        ], 
+        "ticket price": "4081.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 51 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:43"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "20:34", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:21"
+            }
+        ], 
+        "ticket price": "4081.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 13 minutes", 
+        "plane": "", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:43"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "12:43"
+            }
+        ], 
+        "ticket price": "4081.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 16 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "31/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "4318.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "31/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:04", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:59"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "4486.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "31/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "08:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "11:49"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "5300.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "31/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "arrival_time": "08:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "departure_time": "09:08"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "5989.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 2 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "31/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:34"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:54"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "8604.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 2 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "31/07/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:34"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:53"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "8604.00", 
+        "airline": "Aeromexico"
+    }
+]

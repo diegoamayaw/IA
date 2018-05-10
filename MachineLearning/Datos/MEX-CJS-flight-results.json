@@ -1,0 +1,530 @@
+[
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "1579.72", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:41"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "07:51", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }
+        ], 
+        "ticket price": "1670.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 54 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "10:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "1670.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "2008.01", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "2272.70", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 47 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "2528.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "2798.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "16:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "2953.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "09/10/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:53", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:52"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "3044.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "10:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:01"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "3136.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "09:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "3136.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "08:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "3136.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "3204.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "3464.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 21 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "3786.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "3786.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 26 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "3786.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane": "", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "3786.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "4379.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "4379.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "4930.00", 
+        "airline": "Aeromexico"
+    }
+]

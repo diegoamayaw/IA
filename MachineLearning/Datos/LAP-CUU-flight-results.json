@@ -1,0 +1,106 @@
+[
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Los Mochis, Sinaloa (LMM-A. Internacional Federal del Valle del Fuerte)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Los Mochis, Sinaloa (LMM-A. Internacional Federal del Valle del Fuerte)", 
+                "departure_time": "08:10"
+            }
+        ], 
+        "ticket price": "2429.97", 
+        "airline": "Calafia Airlines"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "17:27"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "2885.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 26 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:12"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "16:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:15"
+            }
+        ], 
+        "ticket price": "2885.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 21 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:12"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "14:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "2885.00", 
+        "airline": "Aeromexico"
+    }
+]

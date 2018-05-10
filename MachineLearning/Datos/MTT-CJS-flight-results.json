@@ -1,0 +1,316 @@
+[
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "14892.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:46"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "16234.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "12:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "23316.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 24 minutes", 
+        "plane": "", 
+        "departure date": "11/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:20", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "05:01"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "6910.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "7186.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:46"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:26", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "8850.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "8850.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "11/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "8850.00", 
+        "airline": "Aeromexico"
+    }
+]

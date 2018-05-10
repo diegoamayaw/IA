@@ -1,0 +1,262 @@
+[
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 22 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:53"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "3243.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:58"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "3243.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 21 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:54"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "3243.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "3243.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "4191.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 21 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:54"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "4191.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 21 minutes", 
+        "plane": "", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "06:43", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "05:35"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:27"
+            }
+        ], 
+        "ticket price": "4397.63", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 30 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:46"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "5199.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "5199.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 12 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "5199.03", 
+        "airline": "Aeromexico"
+    }
+]

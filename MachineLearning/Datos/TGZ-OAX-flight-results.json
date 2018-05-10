@@ -1,0 +1,256 @@
+[
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "2009.72", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:55"
+            }
+        ], 
+        "ticket price": "2273.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "2357.72", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:03"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "18:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "2505.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "2505.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "15:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }
+        ], 
+        "ticket price": "2505.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "16/09/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "2861.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "3074.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:40", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "3074.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "18:42"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "3433.00", 
+        "airline": "Aeromexico"
+    }
+]

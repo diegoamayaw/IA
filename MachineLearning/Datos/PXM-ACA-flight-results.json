@@ -1,0 +1,80 @@
+[
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "26/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Escondido", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Puerto Escondido, Oaxaca (PXM-A. Internacional de Puerto Escondido)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "4897.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 15 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "26/10/2018", 
+        "stops": "1", 
+        "plane code": "AT7", 
+        "departure": ", Puerto Escondido", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Puerto Escondido, Oaxaca (PXM-A. Internacional de Puerto Escondido)", 
+                "departure_time": "12:05"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "6911.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "26/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Escondido", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Puerto Escondido, Oaxaca (PXM-A. Internacional de Puerto Escondido)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "6985.80", 
+        "airline": "Interjet"
+    }
+]

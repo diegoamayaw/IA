@@ -1,0 +1,184 @@
+[
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "18:56"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "3593.48", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "16:06"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "3948.98", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "4068.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "4068.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 54 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "17:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5015.48", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "5489.48", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 32 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:47"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "5963.48", 
+        "airline": "Aeromexico"
+    }
+]

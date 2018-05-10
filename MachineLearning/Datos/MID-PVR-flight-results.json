@@ -1,0 +1,398 @@
+[
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "06/10/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:08", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "12093.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "14:04"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "2343.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "2981.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 54 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "14:04"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "3329.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 29 minutes", 
+        "plane": "", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:13", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "08:08"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "13:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "3541.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "17:19"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "3677.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "14:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "3677.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 32 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "15:26"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "3677.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "3985.50", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "3985.50", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 24 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:50", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "08:37"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "14:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "4025.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:25"
+            }
+        ], 
+        "ticket price": "4025.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "21:05"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "5725.50", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "21:05"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:55"
+            }
+        ], 
+        "ticket price": "9423.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "06/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "19:15"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:55"
+            }
+        ], 
+        "ticket price": "9684.03", 
+        "airline": "Interjet"
+    }
+]

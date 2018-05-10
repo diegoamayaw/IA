@@ -1,0 +1,2406 @@
+[
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:58"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "10071.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 11 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "10148.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "10148.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:42", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:37"
+            }
+        ], 
+        "ticket price": "11068.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 41 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:42", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:36", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "11068.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 41 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:36", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "11068.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:37"
+            }
+        ], 
+        "ticket price": "11177.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 42 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:23", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11189.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 42 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11189.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:23", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "11189.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 32 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11189.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 30 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "11189.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 35 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "11189.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 14 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "AT7", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:35"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:21"
+            }
+        ], 
+        "ticket price": "11899.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "12784.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 54 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:55"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:21"
+            }
+        ], 
+        "ticket price": "13111.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 19 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:21"
+            }
+        ], 
+        "ticket price": "13111.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 1 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "3", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "14240.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 15 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "73G", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:12", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "departure_time": "07:20"
+            }
+        ], 
+        "ticket price": "14320.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 20 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "22:37", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "departure_time": "07:20"
+            }
+        ], 
+        "ticket price": "14320.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 15 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "73G", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "10:20"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "14482.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 36 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:56", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:11"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "16:47", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:46"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:46"
+            }
+        ], 
+        "ticket price": "15007.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 36 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:56", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:11"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:16", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:46"
+            }
+        ], 
+        "ticket price": "15007.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 41 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "21:19", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:59"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "08:49", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "00:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:37"
+            }
+        ], 
+        "ticket price": "15330.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:21", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:40"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "16:06"
+            }
+        ], 
+        "ticket price": "15777.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:21", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:40"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:21"
+            }
+        ], 
+        "ticket price": "15777.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:21", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:40"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:37", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "19:12"
+            }
+        ], 
+        "ticket price": "15777.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:21", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:40"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:36"
+            }
+        ], 
+        "ticket price": "15777.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 34 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:56", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:11"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "16097.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "21:59", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:29"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "05:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "16535.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 48 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "21:19", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:59"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "08:49", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "00:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:46"
+            }
+        ], 
+        "ticket price": "16663.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:18"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "17092.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "17092.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 31 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:04"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "00:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "23:15"
+            }
+        ], 
+        "ticket price": "17092.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:01"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "17092.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "17092.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:55"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "17092.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 44 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:01"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "17577.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 41 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:04"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "17577.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 41 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:04"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "17577.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 44 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:01"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "17577.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:18"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "17577.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:45"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "2871.18", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "2871.18", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "2871.18", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "3085.04", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "3085.04", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:35"
+            }
+        ], 
+        "ticket price": "3440.82", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7189.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 35 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7189.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7189.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:52"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7189.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 30 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7189.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 26 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7189.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 59 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:56"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7412.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 39 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:16"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7412.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7412.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7412.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7412.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 54 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:01"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7472.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:52"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7472.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:21"
+            }
+        ], 
+        "ticket price": "7482.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:36"
+            }
+        ], 
+        "ticket price": "7482.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 55 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "AT7", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "8521.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 28 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:37", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "19:12"
+            }
+        ], 
+        "ticket price": "8695.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "16:06"
+            }
+        ], 
+        "ticket price": "8695.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 54 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:26", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:03", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:36"
+            }
+        ], 
+        "ticket price": "9402.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:22", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "9492.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 41 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "21:59", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:29"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "00:30"
+            }
+        ], 
+        "ticket price": "9492.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 41 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "9492.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 44 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:42", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "9492.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 6 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:04"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "00:30"
+            }
+        ], 
+        "ticket price": "9492.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 41 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "9492.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:55"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:58", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:40"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 1 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:52"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 59 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:56"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 35 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 29 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "22/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:16"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "20:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "9733.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }
+]

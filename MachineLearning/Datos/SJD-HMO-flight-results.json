@@ -1,0 +1,106 @@
+[
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "19/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "17:08"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "4195.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "19/08/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:50"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "4775.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "19/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:28"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "4775.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "19/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:33"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "12:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:45"
+            }
+        ], 
+        "ticket price": "5703.00", 
+        "airline": "Aeromexico"
+    }
+]

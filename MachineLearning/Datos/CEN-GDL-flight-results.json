@@ -1,0 +1,288 @@
+[
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 54 minutes", 
+        "plane": "", 
+        "departure date": "16/08/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:02", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "19:08"
+            }
+        ], 
+        "ticket price": "1843.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:26"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "16:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "3170.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 11 minutes", 
+        "plane": "", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "16:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:02"
+            }
+        ], 
+        "ticket price": "4082.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "4421.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 9 minutes", 
+        "plane": "", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "16:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "06:01", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:00"
+            }
+        ], 
+        "ticket price": "4441.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:10"
+            }
+        ], 
+        "ticket price": "4637.69", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:26"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:50"
+            }
+        ], 
+        "ticket price": "5142.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:26"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "5722.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:26"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "5722.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "16/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5980.43", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/08/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:26"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:04", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:31"
+            }
+        ], 
+        "ticket price": "9666.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "18/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Escondido", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Puerto Escondido, Oaxaca (PXM-A. Internacional de Puerto Escondido)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "10368.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "18/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Escondido", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Puerto Escondido, Oaxaca (PXM-A. Internacional de Puerto Escondido)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "8456.96", 
+        "airline": "Interjet"
+    }
+]

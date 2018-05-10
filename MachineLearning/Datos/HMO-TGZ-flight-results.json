@@ -1,0 +1,470 @@
+[
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "10/09/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:54"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "09:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }
+        ], 
+        "ticket price": "100863.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "10/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:40", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:54"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "18:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "11404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "10/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:05", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "12229.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "10/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:45", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "14:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "12229.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 18 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/09/2018", 
+        "stops": "3", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "17618.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 9 minutes", 
+        "plane": "", 
+        "departure date": "10/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:46", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:06"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:22"
+            }
+        ], 
+        "ticket price": "8643.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 18 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/09/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:20"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "9091.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/09/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "18:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "9091.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/09/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "18:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "9091.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 18 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/09/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:23"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "9091.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 18 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "10/09/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "9091.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "10/09/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:54"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:07"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "23:01"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "09:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }
+        ], 
+        "ticket price": "94500.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 10 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "10/09/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:54"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "21:04", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "15:25"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:10", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "09:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }
+        ], 
+        "ticket price": "95712.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "10/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "08:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }
+        ], 
+        "ticket price": "9573.18", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 38 minutes", 
+        "plane": "", 
+        "departure date": "10/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:13", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "19:33"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "09:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:18"
+            }
+        ], 
+        "ticket price": "9903.00", 
+        "airline": "Volaris"
+    }
+]

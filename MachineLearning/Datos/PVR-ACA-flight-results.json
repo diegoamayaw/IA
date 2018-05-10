@@ -1,0 +1,288 @@
+[
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 55 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "AT7", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4143.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "departure_time": "14:15"
+            }
+        ], 
+        "ticket price": "5080.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "5935.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "5935.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:33"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "14:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "6538.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:41"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "6538.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "06:02"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "11:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "6538.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:43"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "6538.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:10", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "7425.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:10", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "7425.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "23/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "7425.20", 
+        "airline": "Interjet"
+    }
+]

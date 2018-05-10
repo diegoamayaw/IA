@@ -1,0 +1,990 @@
+[
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "21/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "04:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:35"
+            }
+        ], 
+        "ticket price": "5155.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 34 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "00:34", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "5266.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 21 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "22:51", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "5287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 17 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "23:42", 
+                "departure_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "departure_time": "22:40"
+            }
+        ], 
+        "ticket price": "5287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "17:27", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "20:45"
+            }
+        ], 
+        "ticket price": "5551.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "19:33", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "20:45"
+            }
+        ], 
+        "ticket price": "5551.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 17 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:57", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:15"
+            }
+        ], 
+        "ticket price": "5551.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 46 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "16:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "5551.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "16:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "20:45"
+            }
+        ], 
+        "ticket price": "5551.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/09/2018", 
+        "stops": 0, 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "5615.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 9 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:24", 
+                "departure_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "5735.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 9 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:24", 
+                "departure_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "5735.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "18:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:53", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "6264.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:20"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "6345.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "17:27", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "6345.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:45"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "7277.85", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 46 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "7343.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:04", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:33"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "7343.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:04", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:33"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "7343.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "7343.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "16:28", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:20"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "7343.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:55"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "7790.16", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:35"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "8046.31", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "05:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }
+        ], 
+        "ticket price": "8339.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "8339.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "8558.63", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 54 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "18:09", 
+                "departure_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "8626.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 49 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "20:24", 
+                "departure_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "8626.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 54 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "18:09", 
+                "departure_airport": "Seattle, WA, Estados Unidos (SEA-A. Internacional de Seattle-Tacoma)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "8626.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "19:13", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "8667.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 37 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "21/09/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "12:17", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:35"
+            }
+        ], 
+        "ticket price": "8890.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "8890.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 35 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "18:03", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:15", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "8890.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "16:32", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "21:26", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "8890.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Vancouver", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 1 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "21/09/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Vancouver, BC, Canad\u00e1 (YVR-A. Internacional de Vancouver)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "8890.00", 
+        "airline": "United"
+    }
+]

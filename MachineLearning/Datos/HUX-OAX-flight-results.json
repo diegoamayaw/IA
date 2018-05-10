@@ -1,0 +1,132 @@
+[
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "25/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:00", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "11883.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "25/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "15:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }
+        ], 
+        "ticket price": "13254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 42 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "25/08/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:10"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "16038.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "25/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "18:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "17198.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "25/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "9992.72", 
+        "airline": "Interjet"
+    }
+]

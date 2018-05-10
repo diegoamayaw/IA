@@ -1,0 +1,1154 @@
+[
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:36"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "08:33", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:23"
+            }
+        ], 
+        "ticket price": "10373.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "2871.44", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "3065.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "3115.04", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 29 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:42"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "18:11", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3181.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:45"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "3217.43", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:15"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "3317.43", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 48 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "33942.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 33 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:50", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "23:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "12:28", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:30"
+            }
+        ], 
+        "ticket price": "33942.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 33 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:05", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "12:28", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:30"
+            }
+        ], 
+        "ticket price": "33942.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:50"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "3417.44", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "3461.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "3484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 56 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "3484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 38 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "3484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "3561.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "3561.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "3561.03", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 34 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:18", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:51"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "06:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:30"
+            }
+        ], 
+        "ticket price": "3661.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 34 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:18", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:51"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "06:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:30"
+            }
+        ], 
+        "ticket price": "3661.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 53 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:11", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:18"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "18:11", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "3661.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 12 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:13"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "06:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:30"
+            }
+        ], 
+        "ticket price": "3661.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 39 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:16"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "3661.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:05"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "3911.14", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:10"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "3911.14", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:41", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:14"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "3961.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:14", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:21"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "18:11", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "4321.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:22"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "4528.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:07"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "4528.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:23"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "4528.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:04"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "4876.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 29 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:14"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "4876.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:17"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "5340.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5385.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 58 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5385.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 58 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5385.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5385.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5385.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5385.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "5804.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:07"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "5804.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 44 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:36"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }
+        ], 
+        "ticket price": "6384.00", 
+        "airline": "Aeromexico"
+    }
+]

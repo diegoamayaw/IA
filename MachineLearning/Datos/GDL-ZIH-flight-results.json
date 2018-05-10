@@ -1,0 +1,574 @@
+[
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:05"
+            }
+        ], 
+        "ticket price": "2913.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:05"
+            }
+        ], 
+        "ticket price": "2913.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:05"
+            }
+        ], 
+        "ticket price": "2913.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "3435.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "3435.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "3435.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:15"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:05"
+            }
+        ], 
+        "ticket price": "3966.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "4319.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "4319.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "4319.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:15"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4488.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }
+        ], 
+        "ticket price": "4693.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:23"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "4693.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 2 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:03"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "4693.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }
+        ], 
+        "ticket price": "4693.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:46"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 20 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:46"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 6 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:50"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:59"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 21 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 57 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:59"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "5645.00", 
+        "airline": "Aeromexico"
+    }
+]

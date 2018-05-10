@@ -1,0 +1,188 @@
+[
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Campeche", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:41", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "10480.93", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Campeche", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:41", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "10480.93", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Campeche", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:41", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "10480.93", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Campeche", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:41", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "11213.38", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Campeche", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "4760.23", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Campeche", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "departure_time": "08:27"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "12:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "5826.73", 
+        "airline": "Aeromexico"
+    }
+]

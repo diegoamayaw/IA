@@ -1,0 +1,392 @@
+[
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:45"
+            }
+        ], 
+        "ticket price": "3408.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4124.27", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4409.99", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4409.99", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4695.70", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4695.70", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4695.70", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4695.70", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4981.42", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5259.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 58 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:22"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5259.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:36"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:02"
+            }
+        ], 
+        "ticket price": "5259.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 56 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:24"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5259.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 13 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:07"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5259.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "28/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5259.00", 
+        "airline": "Aeromexico"
+    }
+]

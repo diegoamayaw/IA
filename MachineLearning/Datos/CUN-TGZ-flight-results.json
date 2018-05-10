@@ -1,0 +1,406 @@
+[
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "10085.92", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "10085.92", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 57 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:13"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:18"
+            }
+        ], 
+        "ticket price": "11282.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:20"
+            }
+        ], 
+        "ticket price": "2627.72", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 47 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "14:12", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }
+        ], 
+        "ticket price": "5142.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:35"
+            }
+        ], 
+        "ticket price": "7575.26", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "7733.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:35"
+            }
+        ], 
+        "ticket price": "8146.66", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "8305.06", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 20 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "AT7", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "10:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:40"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "11:15"
+            }
+        ], 
+        "ticket price": "8468.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 13 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:29", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "12:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:35"
+            }
+        ], 
+        "ticket price": "8786.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:29", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "14:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "8786.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:50"
+            }
+        ], 
+        "ticket price": "8943.06", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "13:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "9447.92", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "9795.92", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:40"
+            }
+        ], 
+        "ticket price": "9795.92", 
+        "airline": "Interjet"
+    }
+]

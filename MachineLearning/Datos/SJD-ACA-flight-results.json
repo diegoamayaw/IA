@@ -1,0 +1,106 @@
+[
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 41 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "29/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "18392.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 49 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:45"
+            }
+        ], 
+        "ticket price": "18392.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "18392.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:21"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "20712.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,384 @@
+[
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "12496.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:31"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "12496.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:17"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "12496.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "1788.33", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "2932.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "2932.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "2932.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "2932.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "2932.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "3184.71", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "3735.20", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "4031.45", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:28"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "4031.45", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 4 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "4327.70", 
+        "airline": "Aeromexico"
+    }
+]

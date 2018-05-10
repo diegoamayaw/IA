@@ -1,0 +1,208 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:59"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:46", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "13080.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:59"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "19:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:46", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "13080.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:59"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "16890.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:59"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "20322.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "12:59"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "8192.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "08:04"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "8192.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Minatitl\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:15", 
+                "departure_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "departure_time": "19:44"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:05"
+            }
+        ], 
+        "ticket price": "9440.00", 
+        "airline": "Aeromexico"
+    }
+]

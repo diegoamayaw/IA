@@ -1,0 +1,22 @@
+[
+    {
+        "arrival": ", Palenque", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 0 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "15/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Palenque, Chiapas (PQM-A. Internacional de Palenque)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "1067.99", 
+        "airline": "Calafia Airlines"
+    }
+]

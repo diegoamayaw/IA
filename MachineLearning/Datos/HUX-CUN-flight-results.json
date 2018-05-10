@@ -1,0 +1,522 @@
+[
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "10355.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "10658.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:24"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "11302.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "00:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "11302.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:24"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "18:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "11302.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:24"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:15"
+            }
+        ], 
+        "ticket price": "11302.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "11945.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:24"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "17:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "11945.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 57 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:58", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "21:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:57"
+            }
+        ], 
+        "ticket price": "6482.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:58", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "21:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:35"
+            }
+        ], 
+        "ticket price": "6482.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "7059.48", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "7059.48", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "7059.48", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:05"
+            }
+        ], 
+        "ticket price": "7658.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "7658.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:00", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "8729.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:00", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "8729.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:00", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "8729.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:00", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:45"
+            }
+        ], 
+        "ticket price": "8729.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "9585.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/06/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:22"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:10"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "17247.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/06/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:22"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:10"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "17247.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "20/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "1935.94", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "20/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "2147.40", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "20/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:35", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "2147.40", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "18:57"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:05"
+            }
+        ], 
+        "ticket price": "2736.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:22"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "3620.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad del Carmen", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "departure_time": "08:22"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "3620.00", 
+        "airline": "Aeromexico"
+    }
+]

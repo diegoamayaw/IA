@@ -1,0 +1,514 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "20:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:47", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "00:30"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "10943.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "20:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:47", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "00:30"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "11615.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:30", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "02:01"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "18538.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "28/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "14:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "2022.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "28/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "17:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "2022.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "28/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "17:45"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "2022.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 44 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/11/2018", 
+        "stops": "3", 
+        "plane code": "737", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "15:31"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "22:54", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:30"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:49", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "00:51"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "35437.00", 
+        "airline": "Alaska Airlines"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 8 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "28/11/2018", 
+        "stops": "3", 
+        "plane code": "737", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "15:31"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "22:54", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:25", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "23:55"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:45"
+            }
+        ], 
+        "ticket price": "35437.00", 
+        "airline": "Alaska Airlines"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "18:13"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "00:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "4347.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "4347.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "16:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:15"
+            }
+        ], 
+        "ticket price": "5305.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:15"
+            }
+        ], 
+        "ticket price": "5305.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:15"
+            }
+        ], 
+        "ticket price": "5305.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "5749.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "5749.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "28/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ixtapa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "18:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:15"
+            }
+        ], 
+        "ticket price": "6553.00", 
+        "airline": "Aeromexico"
+    }
+]

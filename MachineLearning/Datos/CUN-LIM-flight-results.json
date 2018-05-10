@@ -1,0 +1,2344 @@
+[
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 27 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "10684.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:45"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "12013.59", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "02:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "12525.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:35"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "12525.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "12635.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 20 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "12635.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "12635.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:15"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "12782.06", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 2 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Cusco, Per\u00fa (CUZ-A. Internacional Alejandro Velasco Astete)", 
+                "arrival_time": "11:12", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "07:44"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:27", 
+                "departure_airport": "Cusco, Per\u00fa (CUZ-A. Internacional Alejandro Velasco Astete)", 
+                "departure_time": "17:01"
+            }
+        ], 
+        "ticket price": "12987.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "13038.21", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:15"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "13038.21", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 59 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:36"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "13815.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 46 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "14145.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 46 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:01", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:06"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "14145.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 49 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Cali, Colombia (CLO-A. Internacional Alfonso Bonilla Arag\u00f3n)", 
+                "arrival_time": "05:48", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "04:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:14", 
+                "departure_airport": "Cali, Colombia (CLO-A. Internacional Alfonso Bonilla Arag\u00f3n)", 
+                "departure_time": "16:38"
+            }
+        ], 
+        "ticket price": "15252.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 49 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Cali, Colombia (CLO-A. Internacional Alfonso Bonilla Arag\u00f3n)", 
+                "arrival_time": "12:41", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "11:33"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:14", 
+                "departure_airport": "Cali, Colombia (CLO-A. Internacional Alfonso Bonilla Arag\u00f3n)", 
+                "departure_time": "16:38"
+            }
+        ], 
+        "ticket price": "15252.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 49 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Cali, Colombia (CLO-A. Internacional Alfonso Bonilla Arag\u00f3n)", 
+                "arrival_time": "07:43", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:14", 
+                "departure_airport": "Cali, Colombia (CLO-A. Internacional Alfonso Bonilla Arag\u00f3n)", 
+                "departure_time": "16:38"
+            }
+        ], 
+        "ticket price": "15252.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 50 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:54"
+            }
+        ], 
+        "ticket price": "15383.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:12"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "15810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "15810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 15 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "15810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 43 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:07"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "15810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 33 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "15810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 27 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "3", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "departure_time": "16:44"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "15814.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "15977.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "15977.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 0 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:45"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:00", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "16769.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:54"
+            }
+        ], 
+        "ticket price": "17216.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 55 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "17:58", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:00", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "17827.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 57 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "18478.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 11 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:04"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "18478.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 8 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:07"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "18478.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 12 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "18478.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 38 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:37"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "18478.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "departure_time": "15:45"
+            }
+        ], 
+        "ticket price": "19435.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:39", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "20107.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 18 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:23", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:36"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 23 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:23", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:36"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 23 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:41"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:23", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:36"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:23", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:36"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 5 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 23 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:34"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:23", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:36"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 10 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:34"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 53 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:23", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:36"
+            }
+        ], 
+        "ticket price": "20270.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 49 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:18"
+            }, 
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:07", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:35"
+            }
+        ], 
+        "ticket price": "20294.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 46 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "3", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "departure_time": "16:44"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "20802.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "21227.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 35 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "21227.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "21227.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 56 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:44", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:49"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "21227.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:03", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:21"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:35", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:01"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 29 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "16:47", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:06"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:35", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:01"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:02", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:45"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 27 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "16:47", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:06"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "20:59"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 8 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:02", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "20:59"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:47"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:45"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 48 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:47"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:35", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:01"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:02", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:35", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:01"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 46 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:47"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "20:59"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:23", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:42"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:35", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:01"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:23", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:42"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "20:59"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 23 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "16:47", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:06"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 4 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:02", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:03", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:21"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "20:59"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:47"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "22437.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 13 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:17"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "22612.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 39 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:34"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "26623.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "01:05"
+            }
+        ], 
+        "ticket price": "26708.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "26708.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "26708.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 6 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:39"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:43", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "27234.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "27909.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "28435.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:18", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "22:20"
+            }
+        ], 
+        "ticket price": "28435.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 56 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:44", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:49"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "28435.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "28435.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "28435.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 0 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:42", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "11:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "28924.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 52 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "19:20"
+            }
+        ], 
+        "ticket price": "8647.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 9 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "9666.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Cusco, Per\u00fa (CUZ-A. Internacional Alejandro Velasco Astete)", 
+                "arrival_time": "11:12", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "07:44"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Cusco, Per\u00fa (CUZ-A. Internacional Alejandro Velasco Astete)", 
+                "departure_time": "13:05"
+            }
+        ], 
+        "ticket price": "9729.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "13/09/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "Cusco, Per\u00fa (CUZ-A. Internacional Alejandro Velasco Astete)", 
+                "arrival_time": "11:12", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "07:44"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Cusco, Per\u00fa (CUZ-A. Internacional Alejandro Velasco Astete)", 
+                "departure_time": "14:18"
+            }
+        ], 
+        "ticket price": "9871.00", 
+        "airline": "Avianca"
+    }
+]

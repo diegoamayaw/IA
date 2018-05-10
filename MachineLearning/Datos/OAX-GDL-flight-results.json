@@ -1,0 +1,1034 @@
+[
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 51 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "18:44"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "10102.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "18:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "10102.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "18:44"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:26", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "10102.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:10"
+            }
+        ], 
+        "ticket price": "10306.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "10770.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:53"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 40 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "16:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 41 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:53"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:26", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:53"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "21:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:53"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:53"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "11030.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "11698.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "11698.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "12162.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:45"
+            }
+        ], 
+        "ticket price": "12162.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "10:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:34"
+            }
+        ], 
+        "ticket price": "19598.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:34", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "19598.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:34"
+            }
+        ], 
+        "ticket price": "19598.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 58 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:49"
+            }
+        ], 
+        "ticket price": "5812.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 33 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "15:24"
+            }
+        ], 
+        "ticket price": "5812.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 12 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:52"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:04", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:03"
+            }
+        ], 
+        "ticket price": "5812.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 49 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:19"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:41"
+            }
+        ], 
+        "ticket price": "7562.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "20:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "8150.26", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:19"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:47"
+            }
+        ], 
+        "ticket price": "8162.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "20:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:10"
+            }
+        ], 
+        "ticket price": "8627.34", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "20:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:40"
+            }
+        ], 
+        "ticket price": "8627.34", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "18:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "8710.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 41 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "9406.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 43 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:19"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:35"
+            }
+        ], 
+        "ticket price": "9842.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "9842.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "9842.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "9842.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Guadalajara", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "01/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "9842.76", 
+        "airline": "Interjet"
+    }
+]

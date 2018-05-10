@@ -1,0 +1,730 @@
+[
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 7 hours 24 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:15", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:51"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "10040.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 17 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "11191.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:13", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "11200.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:40", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:20"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "11200.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 23 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "23:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "11200.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 51 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "11:32"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "23:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "11200.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:13", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "113534.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 55 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:40", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:20"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "113534.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:02"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "12:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:07"
+            }
+        ], 
+        "ticket price": "12002.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "15:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "12488.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 15 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "12931.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 17 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "13579.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "14808.20", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "05:46", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "16:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "22836.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "05:46", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "22836.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "05:46", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "16:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "22836.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "05:46", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:52"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "22836.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "23:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "23254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:54"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "23:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "23254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:53"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "23:23", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "23254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:46"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "23254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "16:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "23254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 38 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/11/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "11:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:20"
+            }
+        ], 
+        "ticket price": "23254.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Loreto, Baja California Sur (LTO-A. Internacional de Loreto)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Loreto, Baja California Sur (LTO-A. Internacional de Loreto)", 
+                "departure_time": "12:40"
+            }
+        ], 
+        "ticket price": "4976.18", 
+        "airline": "Calafia Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9 del Cabo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "17/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "arrival_time": "12:45", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:31"
+            }
+        ], 
+        "ticket price": "5886.00", 
+        "airline": "Volaris"
+    }
+]

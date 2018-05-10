@@ -1,0 +1,382 @@
+[
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "3630.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "3920.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "16:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "3920.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:10"
+            }
+        ], 
+        "ticket price": "4160.94", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:21"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "19:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "4616.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 23 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "23:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "4616.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "4870.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "4870.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:55"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "4870.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:15"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "4870.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "5218.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "5218.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "5218.00", 
+        "airline": "Aeromexico"
+    }
+]

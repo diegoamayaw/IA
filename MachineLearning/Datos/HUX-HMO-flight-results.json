@@ -1,0 +1,144 @@
+[
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:25"
+            }
+        ], 
+        "ticket price": "3450.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "3705.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "07/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:05"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "3705.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "4294.71", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Hermosillo", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 33 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "07/10/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:10"
+            }, 
+            {
+                "arrival_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "4320.00", 
+        "airline": "Aeromexico"
+    }
+]

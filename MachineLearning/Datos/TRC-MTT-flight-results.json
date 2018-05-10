@@ -1,0 +1,138 @@
+[
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:03"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:55"
+            }
+        ], 
+        "ticket price": "2759.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "2759.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "11:08"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "2759.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:33"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:16", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:55"
+            }
+        ], 
+        "ticket price": "3629.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 16 minutes", 
+        "plane": "Embraer EMB-140", 
+        "departure date": "17/06/2018", 
+        "stops": "2", 
+        "plane code": "ERD", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "10:58", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "54796.00", 
+        "airline": "Envoy Air As American Eagle"
+    }
+]

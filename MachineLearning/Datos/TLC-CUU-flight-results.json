@@ -1,0 +1,28 @@
+[
+    {
+        "arrival": ", Chihuahua", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "01/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Toluca", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "21:40", 
+                "departure_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "departure_time": "20:45"
+            }, 
+            {
+                "arrival_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "arrival_time": "08:50", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "3371.06", 
+        "airline": "Interjet"
+    }
+]

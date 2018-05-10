@@ -1,0 +1,542 @@
+[
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "08:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:15"
+            }
+        ], 
+        "ticket price": "1494.01", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 57 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:30"
+            }
+        ], 
+        "ticket price": "1842.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "1864.96", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "1864.96", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }
+        ], 
+        "ticket price": "1864.96", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "2085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 2 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "10:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "2085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 6 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:45"
+            }
+        ], 
+        "ticket price": "2085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 54 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:35"
+            }
+        ], 
+        "ticket price": "2085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 59 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "2085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "08:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "2085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 57 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:44"
+            }
+        ], 
+        "ticket price": "2173.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "2317.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "2334.02", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "2670.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "2781.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 57 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "22:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:42"
+            }
+        ], 
+        "ticket price": "2822.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "ATR 42", 
+        "departure date": "17/06/2018", 
+        "stops": "2", 
+        "plane code": "ATR", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:45"
+            }, 
+            {
+                "arrival_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "18:45"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "4093.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "23:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:41"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "08:01", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "05:31"
+            }
+        ], 
+        "ticket price": "5161.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "22:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:47"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "08:01", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "05:31"
+            }
+        ], 
+        "ticket price": "5161.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "17/06/2018", 
+        "stops": "2", 
+        "plane code": "AT7", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }, 
+            {
+                "arrival_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "18:45"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "5570.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "17/06/2018", 
+        "stops": "2", 
+        "plane code": "AT7", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:35"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:20"
+            }
+        ], 
+        "ticket price": "6266.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "09:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:10"
+            }
+        ], 
+        "ticket price": "6791.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 11 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "08:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:10"
+            }
+        ], 
+        "ticket price": "6791.00", 
+        "airline": "Aeromexico"
+    }
+]

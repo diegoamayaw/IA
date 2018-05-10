@@ -1,0 +1,398 @@
+[
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "19:16"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:23", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:40"
+            }
+        ], 
+        "ticket price": "19850.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "19:16"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "04:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:45"
+            }
+        ], 
+        "ticket price": "3234.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 59 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "00:57", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "21:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:02", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:10"
+            }
+        ], 
+        "ticket price": "3241.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "3315.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 41 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "00:57", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "21:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:52"
+            }
+        ], 
+        "ticket price": "3481.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:21"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:15"
+            }
+        ], 
+        "ticket price": "3814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "3931.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "3931.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "3931.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "4254.78", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "4254.78", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 36 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:21"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "17:57", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "4320.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:21"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "18:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "4320.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "4554.44", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "07:21"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "5016.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,730 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "12705.30", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:19", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "12870.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:33", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "22:19"
+            }
+        ], 
+        "ticket price": "12870.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "07:53", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "06:39"
+            }
+        ], 
+        "ticket price": "13870.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:15", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "19:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:35"
+            }
+        ], 
+        "ticket price": "16756.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:26", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "17:57"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "22:39"
+            }
+        ], 
+        "ticket price": "19865.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 24 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:02", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "21:03"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:41"
+            }
+        ], 
+        "ticket price": "19865.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:22", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "07:23"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:27"
+            }
+        ], 
+        "ticket price": "19865.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:26", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "17:57"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:59", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:51"
+            }
+        ], 
+        "ticket price": "19865.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "11:58", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "10:44"
+            }
+        ], 
+        "ticket price": "20370.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "18:01", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "16:47"
+            }
+        ], 
+        "ticket price": "20370.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "21295.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "14:20"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "22315.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:33", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:18", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:10"
+            }
+        ], 
+        "ticket price": "23165.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:33", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "13:52", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:44"
+            }
+        ], 
+        "ticket price": "23165.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:25"
+            }
+        ], 
+        "ticket price": "24452.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:33", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:01"
+            }
+        ], 
+        "ticket price": "25565.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "09:36"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "26995.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "26995.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "14:20"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "26995.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "14:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:05"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "48085.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 28 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "14:20"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "52890.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 28 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "14:20"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "52890.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "09:36"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "18:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "52890.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "09:36"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "52890.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "09:36"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "53545.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 22 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "09:36"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "53545.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "7708.00", 
+        "airline": "Interjet"
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "03/10/2018", 
+        "stops": "2", 
+        "plane code": "AT7", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "08:00", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "11:15"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "3633.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "5569.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:40", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "5569.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "5569.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "15:36"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "5951.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "06:08"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:55"
+            }
+        ], 
+        "ticket price": "5951.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "11:43"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "15:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:05"
+            }
+        ], 
+        "ticket price": "5951.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 4 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:35", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "18:48"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "5951.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "11:43"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "18:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "5951.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "15:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:05"
+            }
+        ], 
+        "ticket price": "5951.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "22:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "6593.28", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Oaxaca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }
+        ], 
+        "ticket price": "6593.28", 
+        "airline": "Interjet"
+    }
+]

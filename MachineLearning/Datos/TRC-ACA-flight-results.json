@@ -1,0 +1,190 @@
+[
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 17 minutes", 
+        "plane": "Embraer EMB-140", 
+        "departure date": "12/07/2018", 
+        "stops": "2", 
+        "plane code": "ERD", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "10:58", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "55474.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:03"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "11:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "6268.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 4 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "11:08"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "6268.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "11:08"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "14:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "6268.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:33"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "14:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "6268.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:55", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "7904.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Acapulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "12/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:55", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Acapulco, Guerrero (ACA-A. Internacional General Juan N. \u00c1lvarez)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }
+        ], 
+        "ticket price": "8615.28", 
+        "airline": "Interjet"
+    }
+]

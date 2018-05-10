@@ -1,0 +1,150 @@
+[
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 17 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "30/07/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:07", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "107064.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 46 minutes", 
+        "plane": "", 
+        "departure date": "30/07/2018", 
+        "stops": "2", 
+        "plane code": "", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:49", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:31"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:50"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "109500.00", 
+        "airline": "Mesa Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 48 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "30/07/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "13:29"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5474.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Campeche", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 17 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "30/07/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", San Luis Potos\u00ed", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:07", 
+                "departure_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Campeche, Campeche (CPE-A. Internacional Ing. Alberto Acuna Ongay)", 
+                "arrival_time": "20:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "71798.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "arrival": ", Ciudad Obreg\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:36", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "13:03"
+            }, 
+            {
+                "arrival_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "arrival_time": "18:38", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:34"
+            }
+        ], 
+        "ticket price": "2683.40", 
+        "airline": "Volaris"
+    }
+]

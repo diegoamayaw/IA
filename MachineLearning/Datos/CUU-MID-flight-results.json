@@ -1,0 +1,532 @@
+[
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "05/11/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:19", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "07:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "104280.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:29"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "17559.60", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "5661.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }
+        ], 
+        "ticket price": "5661.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "5661.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5661.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "10:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "5661.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 56 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:49", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "21:29"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:30"
+            }
+        ], 
+        "ticket price": "6215.50", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 22 minutes", 
+        "plane": "", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:17"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:44"
+            }
+        ], 
+        "ticket price": "6215.50", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 47 minutes", 
+        "plane": "Embraer RJ145", 
+        "departure date": "05/11/2018", 
+        "stops": "3", 
+        "plane code": "ER4", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:00", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "11:41", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "68038.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:45"
+            }
+        ], 
+        "ticket price": "7237.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 54 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:56"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "7237.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "7237.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:01"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "7237.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:56"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "7237.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 18 hours 20 minutes", 
+        "plane": "Embraer EMB-140", 
+        "departure date": "05/11/2018", 
+        "stops": "3", 
+        "plane code": "ERD", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:41", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:44", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:45", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "00:25"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "73822.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "Embraer EMB-145", 
+        "departure date": "05/11/2018", 
+        "stops": "2", 
+        "plane code": "ERJ", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:19", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "07:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "78218.00", 
+        "airline": "Expressjet Airlines DBA United Exp"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:07"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "9607.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:29"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "9607.85", 
+        "airline": "Aeromexico"
+    }
+]

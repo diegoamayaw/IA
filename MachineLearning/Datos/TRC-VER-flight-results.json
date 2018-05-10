@@ -1,0 +1,682 @@
+[
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "20:10"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "2626.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 32 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "10:58"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "2773.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "2773.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "2773.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 58 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "2773.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "10:58"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "2773.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "35544.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:04", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "16:05"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "37063.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:03", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "15:49"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "38200.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 49 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "14:46"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "3912.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "14:46"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "3912.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:55"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "4300.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "4300.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "10:58"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:45"
+            }
+        ], 
+        "ticket price": "4344.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 0 minutes", 
+        "plane": "Embraer EMB-140", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "ERD", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "10:44", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:50"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "54855.00", 
+        "airline": "Envoy Air As American Eagle"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "56553.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:10"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:04", 
+                "departure_airport": "Austin, TX, Estados Unidos (AUS-A. Internacional de Austin-Bergstrom)", 
+                "departure_time": "16:05"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "56553.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "10:58"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "5692.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "5692.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:10"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "7606.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "7606.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Torre\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:45", 
+                "departure_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "departure_time": "10:58"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "8882.00", 
+        "airline": "Aeromexico"
+    }
+]

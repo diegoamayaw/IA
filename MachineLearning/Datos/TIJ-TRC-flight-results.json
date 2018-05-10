@@ -1,0 +1,858 @@
+[
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:09"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "10:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "10427.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:55"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "11171.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "11171.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:19"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "11171.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 21 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:27"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "18:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "11171.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:59"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:54"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:52"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "18:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:09", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:59"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:57"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:52"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }
+        ], 
+        "ticket price": "11645.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:20"
+            }
+        ], 
+        "ticket price": "2318.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:20"
+            }
+        ], 
+        "ticket price": "2318.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "3420.08", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 17 minutes", 
+        "plane": "", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:02"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "13:19", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "3901.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 9 minutes", 
+        "plane": "", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:11", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "13:19", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "3901.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:25", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:52"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "10:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "3954.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:25", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:52"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "07:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "4766.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:21"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "10:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "4766.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 29 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "15:02"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }
+        ], 
+        "ticket price": "5810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 39 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:13"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "5810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:14", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:39"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "5810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "29/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:14", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:39"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "10:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "5810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 23 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:13"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "18:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "5810.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "29/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "13:51"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }
+        ], 
+        "ticket price": "5810.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,942 @@
+[
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 15 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:25"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "4913.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:50"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "4913.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 23 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "21:28", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "18:40"
+            }
+        ], 
+        "ticket price": "4913.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC, Estados Unidos (IAD-A. Internacional Washington Dulles)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:26", 
+                "departure_airport": "Washington, DC, Estados Unidos (IAD-A. Internacional Washington Dulles)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "4913.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "4913.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 50 minutes", 
+        "plane": "Boeing 767-300", 
+        "departure date": "24/10/2018", 
+        "stops": 0, 
+        "plane code": "763", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:05"
+            }
+        ], 
+        "ticket price": "5061.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 57 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:50"
+            }, 
+            {
+                "arrival_airport": "Washington, DC, Estados Unidos (DCA-A. Nacional Ronald Reagan de Washington)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "departure_time": "18:10"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Washington, DC, Estados Unidos (DCA-A. Nacional Ronald Reagan de Washington)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "5438.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 46 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "11:36", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:14"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "21:00", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "5600.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 22 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "18:54", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "21:27", 
+                "departure_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "6206.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 29 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "00:09", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "6379.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 7 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:07", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "6408.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:50"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "departure_time": "17:49"
+            }
+        ], 
+        "ticket price": "6408.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "6408.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "6590.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:10"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Denver, CO, Estados Unidos (DEN-A. Internacional de Denver)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "6590.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "24/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "6674.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 7 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Washington, DC, Estados Unidos (DCA-A. Nacional Ronald Reagan de Washington)", 
+                "arrival_time": "18:09", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Washington, DC, Estados Unidos (DCA-A. Nacional Ronald Reagan de Washington)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "6954.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 3 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:08", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:50"
+            }
+        ], 
+        "ticket price": "6954.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 31 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "6954.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 42 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "14:16", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:42", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "6954.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 23 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:07"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 18 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:37"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "06:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:01"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 8 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:22"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 6 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:24"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 52 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 37 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "21:18"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "06:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:01"
+            }
+        ], 
+        "ticket price": "7484.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 6 hours 57 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "20:11", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "00:27", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 22 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "757", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "21:49", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 42 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "00:27", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 6 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "12:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:35"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:41", 
+                "departure_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "departure_time": "15:40"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 56 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Washington, DC, Estados Unidos (IAD-A. Internacional Washington Dulles)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:26", 
+                "departure_airport": "Washington, DC, Estados Unidos (IAD-A. Internacional Washington Dulles)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 10 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "17:03"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:40", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 41 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "24/10/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Cincinnati, OH, Estados Unidos (CVG-A. Internacional de Cincinnati-Northern Kentucky)", 
+                "arrival_time": "13:33", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "12:15"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "17:26", 
+                "departure_airport": "Cincinnati, OH, Estados Unidos (CVG-A. Internacional de Cincinnati-Northern Kentucky)", 
+                "departure_time": "15:49"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Toronto", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "17:59", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:01"
+            }, 
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "23:34", 
+                "departure_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "departure_time": "21:35"
+            }
+        ], 
+        "ticket price": "7842.00", 
+        "airline": "Delta"
+    }
+]

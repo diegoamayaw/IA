@@ -1,0 +1,62 @@
+[
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:02"
+            }
+        ], 
+        "ticket price": "1891.13", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:10"
+            }
+        ], 
+        "ticket price": "3149.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "3253.88", 
+        "airline": "Aeromexico"
+    }
+]

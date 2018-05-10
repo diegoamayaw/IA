@@ -1,0 +1,62 @@
+[
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "27/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Chetumal", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:15", 
+                "departure_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "departure_time": "06:00"
+            }
+        ], 
+        "ticket price": "1075.86", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "27/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Chetumal", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "departure_time": "09:00"
+            }
+        ], 
+        "ticket price": "1275.10", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad de M\u00e9xico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "27/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Chetumal", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "departure_time": "20:50"
+            }
+        ], 
+        "ticket price": "1275.10", 
+        "airline": "Interjet"
+    }
+]

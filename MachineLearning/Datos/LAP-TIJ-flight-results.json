@@ -1,0 +1,294 @@
+[
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 32 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "10567.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 32 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "16:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:48", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "11760.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:05", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:00"
+            }
+        ], 
+        "ticket price": "3769.00", 
+        "airline": "Calafia Airlines"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 3 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:51", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "15:48"
+            }
+        ], 
+        "ticket price": "4304.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 39 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:32", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "21:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:08"
+            }
+        ], 
+        "ticket price": "5473.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "5524.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 19 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "17:31"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "5524.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 34 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "5524.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "21:11", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "18:28"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "22:39"
+            }
+        ], 
+        "ticket price": "5953.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "", 
+        "departure date": "26/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:32", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "20:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:03"
+            }
+        ], 
+        "ticket price": "7333.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Tijuana", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 52 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "26/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "8496.00", 
+        "airline": "Aeromexico"
+    }
+]

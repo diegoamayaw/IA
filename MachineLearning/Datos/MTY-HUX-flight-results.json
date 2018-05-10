@@ -1,0 +1,676 @@
+[
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "arrival_time": "08:19", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "departure_time": "09:18"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "14887.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "08:47", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "11:57"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "18747.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:21"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "35895.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:25", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:52"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "35895.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:49", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "21:50"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:14", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:39"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "35895.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "18:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:10"
+            }
+        ], 
+        "ticket price": "4220.76", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 18 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "13:07", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:49"
+            }
+        ], 
+        "ticket price": "5406.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:55"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "6724.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:19"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "6724.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 42 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:27"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "6724.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 50 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:19"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:45"
+            }
+        ], 
+        "ticket price": "6724.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "7294.08", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "7294.08", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "7294.08", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "7294.08", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "7294.08", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:50"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "7652.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:50"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "8101.44", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 18 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:56", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:15"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "13:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "8283.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:56", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "13:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "8283.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }
+        ], 
+        "ticket price": "8983.26", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 44 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "9039.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }
+        ], 
+        "ticket price": "9799.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:15"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }
+        ], 
+        "ticket price": "9799.68", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:20"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }
+        ], 
+        "ticket price": "9799.68", 
+        "airline": "Interjet"
+    }
+]

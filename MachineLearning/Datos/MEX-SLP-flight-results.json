@@ -1,0 +1,454 @@
+[
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "10777.50", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "17:19", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:07"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "10850.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 13 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "11162.63", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "11162.63", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 13 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "11162.63", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:04", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "19:32"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "11696.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "1641.88", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "1641.88", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "1878.88", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "2175.13", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "22:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "2175.13", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "2954.53", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "ATR 42", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "ATR", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "2954.53", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "08:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:55"
+            }
+        ], 
+        "ticket price": "2954.53", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 11 minutes", 
+        "plane": "", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:57", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:11"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:22", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "14:28"
+            }
+        ], 
+        "ticket price": "4149.28", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 56 minutes", 
+        "plane": "", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "12:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:26"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:22", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "14:28"
+            }
+        ], 
+        "ticket price": "4149.28", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 41 minutes", 
+        "plane": "", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:41"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "19:22", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "14:28"
+            }
+        ], 
+        "ticket price": "4149.28", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "12/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "946.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "12/10/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "9977.63", 
+        "airline": "Aeromexico"
+    }
+]

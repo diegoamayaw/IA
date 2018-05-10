@@ -1,0 +1,28 @@
+[
+    {
+        "arrival": ", Ciudad del Carmen", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "10/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Ciudad del Carmen, Campeche (CME-A. Internacional Ciudad del Carmen)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "5644.00", 
+        "airline": "Aeromexico"
+    }
+]

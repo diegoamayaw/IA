@@ -1,0 +1,114 @@
+[
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "22/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "09:20"
+            }
+        ], 
+        "ticket price": "1870.02", 
+        "airline": "Mayair"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "22/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "1870.02", 
+        "airline": "Mayair"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 21 minutes", 
+        "plane": "", 
+        "departure date": "22/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "23:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:15"
+            }
+        ], 
+        "ticket price": "4921.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 13 minutes", 
+        "plane": "", 
+        "departure date": "22/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:13", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "08:08"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "4921.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "22/06/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", M\u00e9rida", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "916.00", 
+        "airline": "Aeromar Airlines"
+    }
+]

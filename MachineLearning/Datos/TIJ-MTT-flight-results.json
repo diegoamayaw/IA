@@ -1,0 +1,622 @@
+[
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:42", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:01"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:28"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "10622.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "10:13", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:32"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:28"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "11434.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:31"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "12419.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:21"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "12419.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "13637.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "13637.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "3", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "04:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "23:50"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:17"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "13637.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "27/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "2565.55", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "27/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "2765.54", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "27/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "12:50"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:30"
+            }
+        ], 
+        "ticket price": "2765.54", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "27/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:00", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:23"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "4204.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:16", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "4883.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "27/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "5596.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:16", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:55"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "5927.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 54 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:19", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:49"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "6368.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:24", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:39"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "7452.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 54 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "05:19", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:44"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "7644.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:01"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "8340.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Minatitl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "27/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "08:21"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:16"
+            }, 
+            {
+                "arrival_airport": "Minatitl\u00e1n, Veracruz (MTT-A. Nacional de Coatzacoalcos)", 
+                "arrival_time": "19:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "9848.00", 
+        "airline": "Aeromexico"
+    }
+]

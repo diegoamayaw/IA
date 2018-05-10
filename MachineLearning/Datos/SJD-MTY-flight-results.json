@@ -1,0 +1,936 @@
+[
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 8 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "13:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:57"
+            }
+        ], 
+        "ticket price": "11599.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "1872.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "1872.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "10:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "1873.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "10:20"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "1873.83", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "15:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:45"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "15:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:50"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:45"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "15:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "06:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:05"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "15:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "15:55"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "1948.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "2220.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }
+        ], 
+        "ticket price": "2220.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "2220.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 34 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "2220.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "2220.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 16 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:48", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "15:33"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:08"
+            }
+        ], 
+        "ticket price": "2521.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 14 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "2568.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 19 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:00"
+            }
+        ], 
+        "ticket price": "2568.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 16 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "2568.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 11 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }
+        ], 
+        "ticket price": "2568.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 20 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:05"
+            }
+        ], 
+        "ticket price": "2568.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 32 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "14:07"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:39", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:04"
+            }
+        ], 
+        "ticket price": "2641.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 49 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "14:07"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:56", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:21"
+            }
+        ], 
+        "ticket price": "2641.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 17 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "20:12", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "17:39"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:56", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:21"
+            }
+        ], 
+        "ticket price": "2821.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "13:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "2916.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 44 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:09", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "2916.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "16:47"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "23:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "3264.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "16:47"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "22:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "3264.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "16:47"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "3612.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "5067.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:15"
+            }
+        ], 
+        "ticket price": "6227.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Monterrey", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:35"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "12:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "departure_time": "13:55"
+            }
+        ], 
+        "ticket price": "9048.00", 
+        "airline": "Aeromexico"
+    }
+]

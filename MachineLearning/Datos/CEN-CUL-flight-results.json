@@ -1,0 +1,28 @@
+[
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "30/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad Obreg\u00f3n", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "departure_time": "09:00"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "7003.24", 
+        "airline": "Interjet"
+    }
+]

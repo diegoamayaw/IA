@@ -1,0 +1,894 @@
+[
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "07:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:20"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "20:10"
+            }
+        ], 
+        "ticket price": "1521.72", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 4 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 36 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 26 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:28"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 6 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 29 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 56 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 33 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "1532.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 32 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/11/2018", 
+        "stops": 0, 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "18:57", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "1648.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 32 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "04/11/2018", 
+        "stops": 0, 
+        "plane code": "E70", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "08:32", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "1648.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "1728.16", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:55"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "1822.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 6 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:55"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "1822.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 19 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "1822.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:23"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "1822.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 19 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "1822.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "2075.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "18:15"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "2075.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:45"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:25"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:10"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "2078.01", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 12 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:23"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "2170.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "2170.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 15 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "2170.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 14 minutes", 
+        "plane": "", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:21"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "2170.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 33 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "04/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "09:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }
+        ], 
+        "ticket price": "2518.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "04/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "08:02", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:04"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "3007.00", 
+        "airline": "Aeromexico"
+    }
+]

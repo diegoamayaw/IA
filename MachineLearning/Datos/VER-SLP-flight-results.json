@@ -1,0 +1,480 @@
+[
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 4 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "21:10"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "1198.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "1295.37", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "1295.37", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 52 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:58", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "2629.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:35"
+            }
+        ], 
+        "ticket price": "2825.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "10:08"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "15:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:25"
+            }
+        ], 
+        "ticket price": "2825.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "09:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:55"
+            }
+        ], 
+        "ticket price": "3158.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "22:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "3750.53", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "18:34"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "22:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "3750.53", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "4046.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 13 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "13:34"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "4046.78", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "13:34"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "5322.58", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "21:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "6626.08", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "6626.08", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "6626.08", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "7277.83", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Veracruz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:20", 
+                "departure_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "departure_time": "15:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:11"
+            }
+        ], 
+        "ticket price": "7277.83", 
+        "airline": "Aeromexico"
+    }
+]

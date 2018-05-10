@@ -1,0 +1,828 @@
+[
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 33 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:03"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "10366.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "10509.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:00", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "10577.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 24 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:18", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:10"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "20:34", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:21"
+            }
+        ], 
+        "ticket price": "11282.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 49 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "16:18", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:10"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "21:59", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "18:46"
+            }
+        ], 
+        "ticket price": "11282.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 48 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:29", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "22:59"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "06:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:35"
+            }
+        ], 
+        "ticket price": "11282.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "1887.96", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:44", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:08"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "19992.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:44", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:08"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "19992.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "2681.98", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "21:31", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:01"
+            }
+        ], 
+        "ticket price": "2802.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "11:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "5194.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "5726.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "5726.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:50"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "6049.42", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:46"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "6422.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:00"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "7353.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:20"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "7353.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 43 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:53"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "7814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 38 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "7814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 42 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:54"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "7814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 43 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:53"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:20"
+            }
+        ], 
+        "ticket price": "7814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:59"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "7814.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "7817.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "18:50"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "7817.00", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "08:51", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:43"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "12:43"
+            }
+        ], 
+        "ticket price": "8162.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "12:35"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "8257.80", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 58 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:17"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "8510.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:15"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "8510.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 24 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "22:39"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "06:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:50"
+            }
+        ], 
+        "ticket price": "8882.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 12 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "22:59", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "21:51"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "06:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:50"
+            }
+        ], 
+        "ticket price": "9842.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Culiac\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 58 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:01"
+            }, 
+            {
+                "arrival_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "arrival_time": "21:59", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "18:46"
+            }
+        ], 
+        "ticket price": "9842.00", 
+        "airline": "Volaris"
+    }
+]

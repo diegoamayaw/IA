@@ -1,0 +1,54 @@
+[
+    {
+        "arrival": ", La Paz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 36 minutes", 
+        "plane": "", 
+        "departure date": "30/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:21", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:11"
+            }, 
+            {
+                "arrival_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "arrival_time": "17:47", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:58"
+            }
+        ], 
+        "ticket price": "11010.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", La Paz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 19 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "30/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:30", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:39"
+            }, 
+            {
+                "arrival_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "arrival_time": "16:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "13173.00", 
+        "airline": "Aeromexico"
+    }
+]

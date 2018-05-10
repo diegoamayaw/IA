@@ -1,0 +1,912 @@
+[
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "3525.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "3726.91", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "3726.91", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "3972.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "4072.52", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "13:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "4405.96", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 28 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:53"
+            }
+        ], 
+        "ticket price": "4502.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "13:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "4607.35", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "13:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "4607.35", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "19:40", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "14:55"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "07:00"
+            }
+        ], 
+        "ticket price": "4705.19", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "06:06", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:33"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:36", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:15"
+            }
+        ], 
+        "ticket price": "4801.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Puebla, Puebla (PBC-A. Internacional Hermanos Serd\u00e1n)", 
+                "arrival_time": "18:01", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "12:28"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:03", 
+                "departure_airport": "Puebla, Puebla (PBC-A. Internacional Hermanos Serd\u00e1n)", 
+                "departure_time": "19:54"
+            }
+        ], 
+        "ticket price": "4801.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 11 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:34", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "07:33"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "17:44", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "14:54"
+            }
+        ], 
+        "ticket price": "5161.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 36 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:34"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "5161.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:35"
+            }
+        ], 
+        "ticket price": "5408.17", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:35"
+            }
+        ], 
+        "ticket price": "5408.17", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 15 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "11:32"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "5570.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 37 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "5570.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "5570.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 27 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "11:32"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "5570.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "07:03", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "02:02"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:42", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:52"
+            }
+        ], 
+        "ticket price": "5581.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "06:01", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "01:00"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:42", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:52"
+            }
+        ], 
+        "ticket price": "5581.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 52 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:47", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:14"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "5581.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:45"
+            }
+        ], 
+        "ticket price": "5693.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:45"
+            }
+        ], 
+        "ticket price": "5693.88", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 22 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "04:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:53"
+            }
+        ], 
+        "ticket price": "5918.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 43 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "11:32"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "5918.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "5918.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 11 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "11:32"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5918.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 34 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "05:13", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "00:10"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "14:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "5918.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "09:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "5918.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 15 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:10", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:00"
+            }
+        ], 
+        "ticket price": "5979.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "5979.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:55", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:00"
+            }
+        ], 
+        "ticket price": "5979.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "16/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Tijuana", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "13:25"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:45"
+            }
+        ], 
+        "ticket price": "6018.10", 
+        "airline": "Interjet"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Tampico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "departure_time": "19:05"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "6678.00", 
+        "airline": "Aeromexico"
+    }
+]

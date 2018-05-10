@@ -1,0 +1,490 @@
+[
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:25"
+            }
+        ], 
+        "ticket price": "2587.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:00", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "2587.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 19 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:50"
+            }
+        ], 
+        "ticket price": "2809.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "16:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "2809.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "14:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:25"
+            }
+        ], 
+        "ticket price": "2809.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:35"
+            }
+        ], 
+        "ticket price": "3041.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 5 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "18:42"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "3505.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 29 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "23:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "3505.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 50 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "15/07/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:20"
+            }
+        ], 
+        "ticket price": "3731.00", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "3761.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "21:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "3761.32", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "09:41"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "17:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:44"
+            }
+        ], 
+        "ticket price": "3790.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:50"
+            }
+        ], 
+        "ticket price": "4276.36", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 44 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:00", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "13:08"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "4317.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "4566.36", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:50"
+            }
+        ], 
+        "ticket price": "4566.36", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 34 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "4607.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "07:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "4856.36", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", M\u00e9rida", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "15/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", ", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "M\u00e9rida, Yucat\u00e1n (MID-A. Internacional Manuel Crescencio Rej\u00f3n)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "7036.00", 
+        "airline": "Interjet"
+    }
+]

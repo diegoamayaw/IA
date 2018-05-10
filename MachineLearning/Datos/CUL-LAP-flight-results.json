@@ -1,0 +1,88 @@
+[
+    {
+        "arrival": ", La Paz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 0 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "19/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "12:20"
+            }
+        ], 
+        "ticket price": "1068.00", 
+        "airline": "Calafia Airlines"
+    }, 
+    {
+        "arrival": ", La Paz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 0 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "19/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "11:25"
+            }
+        ], 
+        "ticket price": "1111.32", 
+        "airline": "VivaAerobus"
+    }, 
+    {
+        "arrival": ", La Paz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 34 minutes", 
+        "plane": "", 
+        "departure date": "19/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "07:53", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "06:39"
+            }, 
+            {
+                "arrival_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "arrival_time": "15:13", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "1507.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", La Paz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 0 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "19/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Culiac\u00e1n", 
+        "timings": [
+            {
+                "arrival_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Culiac\u00e1n, Sinaloa (CUL-A. Internacional Federal de Bachigualato)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "949.00", 
+        "airline": "Interjet"
+    }
+]

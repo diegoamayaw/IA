@@ -1,0 +1,1014 @@
+[
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 6 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:06", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:01"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 33 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:33", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "13:47"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 49 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:51", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:15"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "15:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:35"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 39 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:32", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:59"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:04", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:48"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 28 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "18:03", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "13:55"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:01"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "16:10"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:59"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:04", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:48"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "23:25", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:24"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 39 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:32", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 39 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:32", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 7 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:59"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:06", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:01"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 51 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "12:51", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "10:13"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "14:33", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "16:10"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:01"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "16:10"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 11 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "00:26", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:52"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 7 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:59"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:06", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:01"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 8 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:17"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "23:25", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:24"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "21:14", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:40"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 45 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "19:55", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "17:03"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "23:25", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:24"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 54 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:16"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 41 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 54 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "14:24", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:16"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "22:08", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 4 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "09:35"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "19:21", 
+                "departure_airport": "Salt Lake City, UT, Estados Unidos (SLC-A. Internacional de Salt Lake City)", 
+                "departure_time": "13:50"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 45 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:01"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:30", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "16:10"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "10:59"
+            }, 
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:32", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "20:39", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 41 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "23/11/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:30", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:04"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 175 (Enhanced Winglets)", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E7W", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:27", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:52", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:10"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "06:30"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Chicago", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/11/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Guadalajara", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "13:55"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "22:08", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:05"
+            }
+        ], 
+        "ticket price": "6287.00", 
+        "airline": "Aeromexico"
+    }
+]

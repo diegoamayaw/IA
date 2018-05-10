@@ -1,0 +1,62 @@
+[
+    {
+        "arrival": ", Ciudad Obreg\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "arrival_time": "18:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "2256.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Obreg\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "01/10/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "3126.92", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Obreg\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/10/2018", 
+        "stops": 0, 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad Obreg\u00f3n, Sonora (CEN-A. Internacional de Ciudad Obreg\u00f3n)", 
+                "arrival_time": "06:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:05"
+            }
+        ], 
+        "ticket price": "3300.00", 
+        "airline": "Aeromexico"
+    }
+]

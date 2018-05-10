@@ -1,0 +1,80 @@
+[
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "3927.58", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "11:30"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "4308.54", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "17/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "14:30"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "4308.54", 
+        "airline": "Interjet"
+    }
+]

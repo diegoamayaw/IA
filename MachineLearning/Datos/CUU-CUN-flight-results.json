@@ -1,0 +1,954 @@
+[
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 16 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "2331.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 58 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:21", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }
+        ], 
+        "ticket price": "3122.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "21:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:57"
+            }
+        ], 
+        "ticket price": "3122.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 33 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "21:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:35"
+            }
+        ], 
+        "ticket price": "3122.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 43 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "3122.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 44 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:07", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:46"
+            }
+        ], 
+        "ticket price": "3122.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 7 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:10"
+            }
+        ], 
+        "ticket price": "3237.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "23:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "3849.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "3849.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "3849.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:05"
+            }
+        ], 
+        "ticket price": "3849.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:45"
+            }
+        ], 
+        "ticket price": "4139.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "4172.47", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "4172.47", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 19 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:20"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "14:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "4479.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:20"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "4479.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "15:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "22:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "4479.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 15 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "09:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:35"
+            }
+        ], 
+        "ticket price": "4603.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 17 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:20"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "13:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }
+        ], 
+        "ticket price": "4943.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 14 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:20"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:15"
+            }
+        ], 
+        "ticket price": "4943.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "15:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "00:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "4943.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 46 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "17:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 5 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "00:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:30"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 36 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "14:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:10"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:03"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "16:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:15"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "06:20"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "12:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:35"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 6 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "05/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "20:23"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "04:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:45"
+            }
+        ], 
+        "ticket price": "5465.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:27"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "6045.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 31 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:41"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "7002.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:24"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "8046.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 34 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:27"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "18:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "8046.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:27"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "8046.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 33 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "14:31"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "19:13"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "00:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "8568.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Canc\u00fan", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 34 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "05/12/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "11:44", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "09:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:41"
+            }, 
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "18:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "8568.00", 
+        "airline": "Aeromexico"
+    }
+]

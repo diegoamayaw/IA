@@ -1,0 +1,302 @@
+[
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 34 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "4126.73", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "14:11"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "22:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "5430.23", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "5708.05", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "14:11"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "5708.05", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "14:11"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:05"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "5708.05", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "3", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:38"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "6127.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "3", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:28", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:09", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:38"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "6127.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "3", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "16:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:54", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "7034.03", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 2 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "3", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:16"
+            }, 
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "14:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:54", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "19:30"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:18", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "7508.03", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "08:04"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "14:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "4324.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", ", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "02/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", La Paz", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "La Paz, Baja California Sur (LAP-A. Internacional Manuel M\u00e1rquez de Le\u00f3n)", 
+                "departure_time": "17:28"
+            }, 
+            {
+                "arrival_airport": "Tuxtla Guti\u00e9rrez (TGZ-Aeropuerto Internacional \u00c1ngel Albino Corzo)", 
+                "arrival_time": "23:13", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "4324.00", 
+        "airline": "Aeromexico"
+    }
+]

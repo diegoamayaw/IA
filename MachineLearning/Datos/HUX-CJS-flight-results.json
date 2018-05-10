@@ -1,0 +1,344 @@
+[
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:39"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "10181.38", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:39"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "10181.38", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:39"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "14:48", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "10181.38", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 52 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "3", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:39"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:10", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "15:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:31", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:42"
+            }
+        ], 
+        "ticket price": "10634.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "18:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "3803.67", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "3803.67", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 25 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "4020.93", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:45", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "16:15"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "4020.93", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "4070.64", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "13:20"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "4287.90", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "10:39"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "5319.25", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ciudad Ju\u00e1rez", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 58 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "06/11/2018", 
+        "stops": "1", 
+        "plane code": "E70", 
+        "departure": ", Huatulco", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "departure_time": "15:34"
+            }, 
+            {
+                "arrival_airport": "Ciudad Ju\u00e1rez, Chihuahua (CJS-A. Internacional Abraham Gonz\u00e1lez)", 
+                "arrival_time": "23:32", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "5905.00", 
+        "airline": "Aeromexico"
+    }
+]

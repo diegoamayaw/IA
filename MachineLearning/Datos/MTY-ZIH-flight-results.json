@@ -1,0 +1,566 @@
+[
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 26 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "arrival_time": "08:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Le\u00f3n, Guanajuato (BJX-Del Baj\u00edo)", 
+                "departure_time": "11:49"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "10268.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "arrival_time": "08:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "departure_time": "09:08"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "11001.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/09/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "arrival_time": "08:22", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Queretaro, Queretaro (QRO-A. Internacional de Queretaro)", 
+                "departure_time": "09:08"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "11001.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:36"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 9 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 59 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:57"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:26"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "14:56", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 14 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:30", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:52"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "06:02"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "12:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:50"
+            }
+        ], 
+        "ticket price": "2404.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4346.23", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 55 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "4370.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 44 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "4370.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4592.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "10:45"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4592.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:45"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4592.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4592.73", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "4888.53", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "5184.33", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }
+        ], 
+        "ticket price": "5184.33", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Ixtapa", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 19 minutes", 
+        "plane": "", 
+        "departure date": "22/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:56", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:15"
+            }, 
+            {
+                "arrival_airport": "Ixtapa, Guerrero (ZIH-A. Internacional de Ixtapa - Zihuatanejo)", 
+                "arrival_time": "17:34", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:18"
+            }
+        ], 
+        "ticket price": "5641.00", 
+        "airline": "Volaris"
+    }
+]

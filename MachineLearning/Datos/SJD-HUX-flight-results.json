@@ -1,0 +1,234 @@
+[
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "01/09/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:10", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:10"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:40"
+            }
+        ], 
+        "ticket price": "2274.02", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 46 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:30", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "26550.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 16 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "73J", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "18:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "29157.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 16 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "73J", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "18:30"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "29157.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 46 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "01/09/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:30", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:35", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:46", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }
+        ], 
+        "ticket price": "43613.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }
+        ], 
+        "ticket price": "5080.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "01/09/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "11:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "5428.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 12 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "01/09/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }
+        ], 
+        "ticket price": "5428.00", 
+        "airline": "Aeromexico"
+    }
+]

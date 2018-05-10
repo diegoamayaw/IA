@@ -1,0 +1,328 @@
+[
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "27/11/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "12:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "11:10"
+            }
+        ], 
+        "ticket price": "3698.98", 
+        "airline": "Mayair"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "11:53"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "3842.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 57 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "06:08"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "3842.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 37 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "06:08"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:35"
+            }
+        ], 
+        "ticket price": "3842.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "3842.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 49 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:30", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "11:53"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "17:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:40"
+            }
+        ], 
+        "ticket price": "3842.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 35 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "15:56"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "19:31", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "3842.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 10 minutes", 
+        "plane": "ATR 72", 
+        "departure date": "27/11/2018", 
+        "stops": 0, 
+        "plane code": "AT7", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "08:40"
+            }
+        ], 
+        "ticket price": "4564.05", 
+        "airline": "Aeromar Airlines"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 2 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "5501.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 28 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:35", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "15:56"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "5501.90", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "19:05"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "07:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "5646.63", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "6514.76", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Veracruz", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "27/11/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Villahermosa", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:40", 
+                "departure_airport": "Villahermosa, Tabasco (VSA-A. Internacional Carlos Rovirosa P\u00e9rez)", 
+                "departure_time": "07:00"
+            }, 
+            {
+                "arrival_airport": "Veracruz, Veracruz (VER-A. Internacional General Heriberto Jara)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "6514.76", 
+        "airline": "Interjet"
+    }
+]

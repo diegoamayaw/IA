@@ -1,0 +1,2216 @@
+[
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 55 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "19:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:25"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 49 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "12:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:35"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 49 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "12:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "07:35"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 54 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:01"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 55 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:00"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 54 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:01"
+            }
+        ], 
+        "ticket price": "2747.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Washington, DC, Estados Unidos (IAD-A. Internacional Washington Dulles)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:50"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:26", 
+                "departure_airport": "Washington, DC, Estados Unidos (IAD-A. Internacional Washington Dulles)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "2857.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "3255.92", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": 0, 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:10"
+            }
+        ], 
+        "ticket price": "3704.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "18:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:54", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "16:42", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "23:12", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "20:05"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 52 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:05"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:57", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 32 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "16:42", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 44 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "18:19", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 54 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:54", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 55 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:24"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:25"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:43", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:55"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:09"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "23:20", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:09"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 3 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:40"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:43", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:55"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 2 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "23:12", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "20:05"
+            }
+        ], 
+        "ticket price": "3916.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 28 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:32"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 53 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:32"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 53 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:32"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:42"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:52"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:42"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 45 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 1 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:51"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 13 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:12"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 8 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:17"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:52"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:52"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 38 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:42"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:25"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:52"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 21 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:39"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 0 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:52"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:25"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 28 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "18:32"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:12"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 21 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:10", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:39"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 57 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:28"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:12"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "20:52", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 8 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:17"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "4377.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 54 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "14:14", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:21"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:47"
+            }
+        ], 
+        "ticket price": "4400.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 57 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "11:11", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:18"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:47"
+            }
+        ], 
+        "ticket price": "4400.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 33 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:42"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:47"
+            }
+        ], 
+        "ticket price": "4400.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 59 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:29", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:00"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 5 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 19 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:32", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:10"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:29", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:00"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 43 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "19:23", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:01", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:59", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:27"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 36 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "757", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "22:03", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "arrival_time": "18:24", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:05"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "00:09", 
+                "departure_airport": "Minneapolis, MN, Estados Unidos (MSP-Minneapolis-St. Paul Intl.)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 29 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:59", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:27"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 49 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "18:54", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 10 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:19"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:43", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "21:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 36 minutes", 
+        "plane": "Boeing 757 (757-300)", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "753", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "22:03", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 59 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:22", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:44", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 44 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:37", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:44", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 44 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:07", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:29", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "19:00"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 17 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "757", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "17:13", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:27"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:44", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "21:55"
+            }
+        ], 
+        "ticket price": "4487.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "19:43", 
+                "departure_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "departure_time": "18:15"
+            }
+        ], 
+        "ticket price": "4874.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 23 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "18:48", 
+                "departure_airport": "Toronto, ON, Canad\u00e1 (YYZ-A. Internacional Pearson)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "4874.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Islip", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 2 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "arrival_time": "18:49", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:04"
+            }, 
+            {
+                "arrival_airport": "Islip, NY, Estados Unidos (ISP-MacArthur)", 
+                "arrival_time": "23:06", 
+                "departure_airport": "Filadelfia, PA, Estados Unidos (PHL-A. Internacional de Filadelfia)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "4934.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:45"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "00:57", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "5098.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 38 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "01:18", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:51"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:16"
+            }
+        ], 
+        "ticket price": "5771.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 38 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:18", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "19:51"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:16"
+            }
+        ], 
+        "ticket price": "5771.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 16 minutes", 
+        "plane": "", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "00:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "22:13"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:16"
+            }
+        ], 
+        "ticket price": "5771.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 9 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 34 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Washington, DC, Estados Unidos (DCA-A. Nacional Ronald Reagan de Washington)", 
+                "arrival_time": "14:36", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "12:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "17:29", 
+                "departure_airport": "Washington, DC, Estados Unidos (DCA-A. Nacional Ronald Reagan de Washington)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 4 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "18:20"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 4 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "16:59", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:48"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 32 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:02", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "22:36", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:30"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 29 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:59", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:45"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 25 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "18:55", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:45"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 34 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "08/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "15:29", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "12:25"
+            }
+        ], 
+        "ticket price": "5790.00", 
+        "airline": "American Airlines"
+    }
+]

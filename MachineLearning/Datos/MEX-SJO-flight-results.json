@@ -1,0 +1,2288 @@
+[
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 31 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Managua, Nicaragua (MGA-A. Internacional Augusto C. Sandino)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "22:01"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:01", 
+                "departure_airport": "Managua, Nicaragua (MGA-A. Internacional Augusto C. Sandino)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10142.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 1 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Managua, Nicaragua (MGA-A. Internacional Augusto C. Sandino)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "22:01"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:01", 
+                "departure_airport": "Managua, Nicaragua (MGA-A. Internacional Augusto C. Sandino)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "10142.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 38 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "16:06"
+            }
+        ], 
+        "ticket price": "10973.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 25 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "10973.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 8 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:03", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:36"
+            }
+        ], 
+        "ticket price": "10973.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 6 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:36"
+            }
+        ], 
+        "ticket price": "10973.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 56 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "10973.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 42 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:55"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:37", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "19:12"
+            }
+        ], 
+        "ticket price": "10973.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 2 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 2 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "07:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 10 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "15:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 12 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 55 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "21:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:22", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "20:42", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "18:07"
+            }
+        ], 
+        "ticket price": "11637.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 30 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:15", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:17"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "11836.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:15", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:17"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:58", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:40"
+            }
+        ], 
+        "ticket price": "11836.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "18:22"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "12651.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "Tegucigalpa, Honduras (TGU-A. Internacional Toncont\u00edn)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "09:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "13:08", 
+                "departure_airport": "Tegucigalpa, Honduras (TGU-A. Internacional Toncont\u00edn)", 
+                "departure_time": "11:30"
+            }
+        ], 
+        "ticket price": "12769.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 20 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "00:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "12858.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "09:00", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "13:42", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "15095.00", 
+        "airline": "Taca International Airlines - Taca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 37 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:05"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "07:42", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:03"
+            }
+        ], 
+        "ticket price": "15095.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 42 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "13:42", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "15095.00", 
+        "airline": "Taca International Airlines - Taca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "09:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "13:42", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "11:56"
+            }
+        ], 
+        "ticket price": "15095.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "07:42", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "06:03"
+            }
+        ], 
+        "ticket price": "15095.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 45 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "737", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "10:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "15321.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 0 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:25", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "15958.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "04:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:45"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "16478.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "04:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:45"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:30", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:50"
+            }
+        ], 
+        "ticket price": "16478.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 25 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "18:24", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "22:53", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "19:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "09:53"
+            }
+        ], 
+        "ticket price": "22486.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 45 minutes", 
+        "plane": "Boeing 767-300", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "763", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "14:15", 
+                "departure_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "departure_time": "11:15"
+            }
+        ], 
+        "ticket price": "28073.00", 
+        "airline": "Latam Airlines Peru"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "16/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "2820.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "16/06/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:35"
+            }
+        ], 
+        "ticket price": "2820.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 36 minutes", 
+        "plane": "", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "07:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:36", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "07:46"
+            }
+        ], 
+        "ticket price": "3634.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 22 minutes", 
+        "plane": "", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "07:11", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "09:12", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "08:11"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:22", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "09:47"
+            }
+        ], 
+        "ticket price": "4374.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:46", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "16:35"
+            }
+        ], 
+        "ticket price": "43763.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 18 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:38", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "6140.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/06/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "6362.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/06/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "6362.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:03", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:36"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:37", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "19:12"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:37", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "19:12"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "08:57"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 1 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:03", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:36"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "08:17", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "07:54"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 59 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:49", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:21"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 42 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "08:17", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "07:54"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 11 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:36"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 51 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "16:06"
+            }
+        ], 
+        "ticket price": "6372.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 16 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "18:41", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "7341.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 21 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "18:41", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "7341.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 26 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "Managua, Nicaragua (MGA-A. Internacional Augusto C. Sandino)", 
+                "arrival_time": "22:43", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "22:01"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:01", 
+                "departure_airport": "Managua, Nicaragua (MGA-A. Internacional Augusto C. Sandino)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "7454.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 55 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "7568.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/06/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:50"
+            }
+        ], 
+        "ticket price": "7568.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 58 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:58", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:40"
+            }
+        ], 
+        "ticket price": "7568.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "16/06/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "7568.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 55 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "21:23", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "7621.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 10 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "22:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "08:05"
+            }
+        ], 
+        "ticket price": "7621.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:45", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "7725.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "22:28", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:38", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:42", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:38", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 3 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:15"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "09:38", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "8176.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 27 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "8400.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "8400.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 45 minutes", 
+        "plane": "Boeing 757", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "757", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:15"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "22:42", 
+                "departure_airport": "Detroit, MI, Estados Unidos (DTW-Detroit Metropolitan Wayne County)", 
+                "departure_time": "20:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "12:00", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "09:53"
+            }
+        ], 
+        "ticket price": "8400.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 17 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:59", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "8400.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:36"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 21 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "21:51", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:28"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 59 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:57"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 1 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:36"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "16:33", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "16:06"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 16 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "19:37", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "19:12"
+            }
+        ], 
+        "ticket price": "9060.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:42", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:50"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "9377.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 5 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "00:41", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:40"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "9377.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", San Jos\u00e9", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 5 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "16/06/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "22:24", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:15"
+            }, 
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "11:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "10:40"
+            }
+        ], 
+        "ticket price": "9487.00", 
+        "airline": "American Airlines"
+    }
+]

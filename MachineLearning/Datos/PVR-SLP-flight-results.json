@@ -1,0 +1,460 @@
+[
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 8 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "10043.19", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 10 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "15:20"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "10043.19", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 53 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:13"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:45"
+            }
+        ], 
+        "ticket price": "11617.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:55", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "09:13"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "15:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:30"
+            }
+        ], 
+        "ticket price": "11617.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 6 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:40", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "13:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:45"
+            }
+        ], 
+        "ticket price": "12565.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "17305.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 24 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:23"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "18:47", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "18490.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "20508.40", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:23"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "22:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:00"
+            }
+        ], 
+        "ticket price": "20860.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:23"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "23115.40", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "23115.40", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:23"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "25684.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:20", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "17:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "28236.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:23"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "20:44", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:00"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "28236.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 48 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "09/07/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "14:23"
+            }, 
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:30"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "23:11", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "22:07"
+            }
+        ], 
+        "ticket price": "35660.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", San Luis Potos\u00ed", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "San Luis Potos\u00ed, San Luis Potos\u00ed (SLP-A. Internacional Ponciano Arriaga)", 
+                "arrival_time": "01:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:20"
+            }
+        ], 
+        "ticket price": "8621.19", 
+        "airline": "Interjet"
+    }
+]

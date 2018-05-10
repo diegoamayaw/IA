@@ -1,0 +1,106 @@
+[
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "5528.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "5528.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "20:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:05"
+            }
+        ], 
+        "ticket price": "5528.12", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "18/12/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Chihuahua", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:37", 
+                "departure_airport": "Chihuahua, Chihuahua (CUU-A. Internacional General Roberto Fierro Villalobos)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "15:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:26"
+            }
+        ], 
+        "ticket price": "5906.00", 
+        "airline": "Volaris"
+    }
+]

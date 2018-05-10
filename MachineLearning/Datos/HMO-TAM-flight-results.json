@@ -1,0 +1,354 @@
+[
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:45", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "15:15"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "22:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "10397.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 17 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "14:26"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "10397.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 17 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:42"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "10397.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "17:15"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "22:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "10397.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "2", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "16:18"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "22:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "10397.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "3", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:34"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "19:15", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "17:54"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "22:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "10728.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "EMBRAER 170", 
+        "departure date": "03/06/2018", 
+        "stops": "3", 
+        "plane code": "E70", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "09:03"
+            }, 
+            {
+                "arrival_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "arrival_time": "15:08", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "13:34"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Guadalajara, Jalisco (GDL-Don Miguel Hidalgo y Costilla Intl.)", 
+                "departure_time": "16:53"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "22:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "10728.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 17 hours 38 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "03/06/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:08", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:55"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "21:00", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "15:29"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "04:30", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "00:20"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "07:33", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }
+        ], 
+        "ticket price": "31904.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 50 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:45", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "06:05"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "12:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:50"
+            }
+        ], 
+        "ticket price": "3388.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "07:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:40"
+            }
+        ], 
+        "ticket price": "5512.42", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Tampico", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 25 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "03/06/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:35", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:55"
+            }, 
+            {
+                "arrival_airport": "Tampico, Tamaulipas (TAM-A. Internacional General Francisco Javier Mina)", 
+                "arrival_time": "18:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:10"
+            }
+        ], 
+        "ticket price": "5998.00", 
+        "airline": "Aeromexico"
+    }
+]

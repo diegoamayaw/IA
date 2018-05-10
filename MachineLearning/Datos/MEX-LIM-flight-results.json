@@ -1,0 +1,2124 @@
+[
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "20:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 57 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "10:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:22", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 5 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "18:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "10:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 2 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:22", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 15 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "10:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 19 hours 25 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "06:45", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "02:05"
+            }
+        ], 
+        "ticket price": "11750.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 22 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "10:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:22", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "12137.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 35 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "14:53", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "departure_time": "17:15"
+            }
+        ], 
+        "ticket price": "12137.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 10 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:17", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:20"
+            }
+        ], 
+        "ticket price": "12137.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 22 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "16:50", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:22", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "12137.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 40 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:17", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:40", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "16:00"
+            }
+        ], 
+        "ticket price": "12137.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 22 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:17", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:22", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:35"
+            }
+        ], 
+        "ticket price": "12137.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 10 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "15:37", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "14050.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 20 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:15"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "14050.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 40 minutes", 
+        "plane": "BOEING 737-700 (WINGLETS) PASSENGER", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "73W", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "13:14", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "17:50"
+            }
+        ], 
+        "ticket price": "14050.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 17 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Guayaquil, Ecuador (GYE-A. Internacional Jos\u00e9 Joaqu\u00edn de Olmedo)", 
+                "arrival_time": "16:44", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "14:44"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:22", 
+                "departure_airport": "Guayaquil, Ecuador (GYE-A. Internacional Jos\u00e9 Joaqu\u00edn de Olmedo)", 
+                "departure_time": "18:27"
+            }
+        ], 
+        "ticket price": "14746.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 44 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "arrival_time": "09:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:45", 
+                "departure_airport": "Ciudad de Guatemala, Guatemala (GUA-A. Internacional La Aurora)", 
+                "departure_time": "12:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "15105.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 39 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:40", 
+                "departure_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "departure_time": "12:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "15112.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "Boeing 767-300", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "763", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "17251.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 44 minutes", 
+        "plane": "Airbus A330", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "330", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 34 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 15 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "14:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:15"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "18488.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 55 minutes", 
+        "plane": "Boeing 767-300", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "763", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "S\u00e3o Paulo, Brasil (GRU-A. Internacional Guarulhos-Gobernador Andre Franco Montoro)", 
+                "arrival_time": "11:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:05"
+            }, 
+            {
+                "arrival_airport": "R\u00edo de Janeiro, Brasil (GIG-A. Internacional Gale\u00e3o-Antonio Carlos Jobim)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "S\u00e3o Paulo, Brasil (GRU-A. Internacional Guarulhos-Gobernador Andre Franco Montoro)", 
+                "departure_time": "14:45"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "R\u00edo de Janeiro, Brasil (GIG-A. Internacional Gale\u00e3o-Antonio Carlos Jobim)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "20130.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "20689.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 30 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "20689.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 0 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "12:18", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "20689.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 20 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "23:00", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "16:30"
+            }
+        ], 
+        "ticket price": "20689.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 55 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:31", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "12:09"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "departure_time": "17:15"
+            }
+        ], 
+        "ticket price": "27509.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 55 minutes", 
+        "plane": "Boeing 737-700", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "73G", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "12:59", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:41"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "departure_time": "17:15"
+            }
+        ], 
+        "ticket price": "28731.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 15 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "arrival_time": "12:53", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "31294.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 5 minutes", 
+        "plane": "Boeing 787-8", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "788", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Santiago, Chile (SCL-Arturo Merino Ben\u00edtez)", 
+                "arrival_time": "18:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Buenos Aires, Argentina (EZE-A. Internacional Ministro Pistarini)", 
+                "arrival_time": "03:00", 
+                "departure_airport": "Santiago, Chile (SCL-Arturo Merino Ben\u00edtez)", 
+                "departure_time": "00:55"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Buenos Aires, Argentina (EZE-A. Internacional Ministro Pistarini)", 
+                "departure_time": "04:20"
+            }
+        ], 
+        "ticket price": "32053.00", 
+        "airline": "LATAM Airlines Group"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "3960.26", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 16 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 44 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "00:01", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:06"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 59 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 25 minutes", 
+        "plane": "Airbus A330", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "330", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 44 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "16:09", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "13:15"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 45 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:45"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "19:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 55 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 15 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:15", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 44 minutes", 
+        "plane": "Airbus A330", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "330", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 22 hours 34 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/08/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "19:17", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "15:18"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 59 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:59", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "06:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:25"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 30 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "12:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:05"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": 0, 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "05:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "23:55"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "13:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:20", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 34 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "arrival_time": "22:41", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "08:34", 
+                "departure_airport": "Bogot\u00e1, Colombia (BOG-A. Internacional El Dorado)", 
+                "departure_time": "05:34"
+            }
+        ], 
+        "ticket price": "7681.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 5 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "arrival_time": "10:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:20"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "20:25", 
+                "departure_airport": "San Jos\u00e9, Costa Rica (SJO-A. Internacional Juan Santamar\u00eda)", 
+                "departure_time": "15:45"
+            }
+        ], 
+        "ticket price": "7741.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "11:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "7838.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 2 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:02", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:27"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 8 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:46"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 15 hours 39 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:46"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 32 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:02", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:27"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 12 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:02", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:27"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 29 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "22:29", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "18:46"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 53 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:14", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:39"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 20 hours 11 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "12:41", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "09:09"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 18 hours 24 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:14", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:39"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 44 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "20:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:30"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:14", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:39"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 41 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:02", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:27"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "17:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:00"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:14", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:39"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 39 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:14", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:39"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 58 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "14:06", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:21"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:44"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 27 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "19:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "01:02", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "21:27"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 27 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "15:17", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "11:45"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }, 
+    {
+        "arrival": ", Lima", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 29 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "17/08/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "arrival_time": "10:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:50"
+            }, 
+            {
+                "arrival_airport": "Lima, Per\u00fa (LIM-A. Internacional Jorge Ch\u00e1vez)", 
+                "arrival_time": "19:19", 
+                "departure_airport": "Panam\u00e1, Panam\u00e1 (PTY-A. Internacional de Tocumen)", 
+                "departure_time": "15:44"
+            }
+        ], 
+        "ticket price": "8032.00", 
+        "airline": "Copa"
+    }
+]

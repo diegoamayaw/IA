@@ -1,0 +1,106 @@
+[
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "24/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "08:49"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "18:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "11579.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 27 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "24/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:15", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "11:27", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:30"
+            }
+        ], 
+        "ticket price": "11579.10", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 41 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "24/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "15:40", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "12:21"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "18:02", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:05"
+            }
+        ], 
+        "ticket price": "14600.85", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Mazatl\u00e1n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 21 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "24/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", San Jos\u00e9 del Cabo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "San Jos\u00e9 del Cabo, Baja California Sur (SJD-A. Internacional de Los Cabos)", 
+                "departure_time": "16:54"
+            }, 
+            {
+                "arrival_airport": "Mazatl\u00e1n, Sinaloa (MZT-A. Internacional General Rafael Buelna)", 
+                "arrival_time": "23:15", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "22:15"
+            }
+        ], 
+        "ticket price": "14600.85", 
+        "airline": "Aeromexico"
+    }
+]

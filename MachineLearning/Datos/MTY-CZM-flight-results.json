@@ -1,0 +1,132 @@
+[
+    {
+        "arrival": ", Cozumel", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 55 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:10", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:35"
+            }, 
+            {
+                "arrival_airport": "Cozumel, Quintana Roo (CZM-A. Internacional de Cozumel)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "5670.58", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Cozumel", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "07:25"
+            }, 
+            {
+                "arrival_airport": "Cozumel, Quintana Roo (CZM-A. Internacional de Cozumel)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "5670.58", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Cozumel", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Cozumel, Quintana Roo (CZM-A. Internacional de Cozumel)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "5670.58", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Cozumel", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "07:25", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Cozumel, Quintana Roo (CZM-A. Internacional de Cozumel)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "8132.62", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Cozumel", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "21/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:45"
+            }, 
+            {
+                "arrival_airport": "Cozumel, Quintana Roo (CZM-A. Internacional de Cozumel)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:30"
+            }
+        ], 
+        "ticket price": "8434.79", 
+        "airline": "Interjet"
+    }
+]

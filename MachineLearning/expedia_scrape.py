@@ -3,6 +3,7 @@ import requests
 from lxml import html
 from collections import OrderedDict
 import argparse
+import time
 
 def parse(source,destination,date):
 	for i in range(5):
@@ -37,6 +38,7 @@ def parse(source,destination,date):
 				flight_hour = flight_duration.get('hours','')
 				flight_minutes = flight_duration.get('minutes','')
 				flight_days = flight_duration.get('numOfDays','')
+				todate = time.strftime("%d/%m/%Y")
 
 				if no_of_stops==0:
 					stop = 0
@@ -77,7 +79,9 @@ def parse(source,destination,date):
 					'airline':airline_name,
 					'plane':plane,
 					'timings':timings,
-					'plane code':plane_code
+					'plane code':plane_code,
+					'consult date':todate,
+					'departure date':date
 				}
 				lists.append(flight_info)
 			sortedlist = sorted(lists, key=lambda k: k['ticket price'],reverse=False)
@@ -98,8 +102,8 @@ if __name__=="__main__":
 	source = args.source
 	destination = args.destination
 	date = args.date
-	print "Fetching flight details"
+	#print "Fetching flight details"
 	scraped_data = parse(source,destination,date)
-	print "Writing data to output file"
+	#print "Writing data to output file"
 	with open('%s-%s-flight-results.json'%(source,destination),'w') as fp:
 		json.dump(scraped_data,fp,indent = 4)

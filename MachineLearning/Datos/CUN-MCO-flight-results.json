@@ -1,0 +1,2268 @@
+[
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 23 hours 15 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "05:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "01:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "13:03", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:41"
+            }
+        ], 
+        "ticket price": "14386.00", 
+        "airline": "Avianca Costa Rica S.a."
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 21 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:48"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "05:05", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "01:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "10:58", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "07:35"
+            }
+        ], 
+        "ticket price": "14386.00", 
+        "airline": "Avianca Costa Rica S.a."
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:51"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "2648.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:16"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "2648.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:35"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:36", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:55"
+            }
+        ], 
+        "ticket price": "3262.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:51"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:55"
+            }
+        ], 
+        "ticket price": "3262.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 1 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:04"
+            }
+        ], 
+        "ticket price": "3759.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:16"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "15:51", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:15"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:29"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 18 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:18", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:51"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 43 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:16"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 46 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "14:31", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 20 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "13:54", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:19"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:29"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 16 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:18"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 9 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "20:30", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:50"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:43", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "3868.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 5 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "15:49", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:29"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 34 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "14:44", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "15:49", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 28 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "11:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:10"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 40 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:29"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "15:49", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:15", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:29"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 40 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:05"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "21:37", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:25"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "20:10", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:47"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:49", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:09"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 20 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "21:37", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:25"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 45 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "21:21", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:43"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "13:54", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:19"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:14", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "14:34"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 3 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 43 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "15:49", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 8 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "17:15", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "4272.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 2 hours 1 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": 0, 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:04"
+            }
+        ], 
+        "ticket price": "4567.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 46 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "14:31", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:44", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:55"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 14 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:35"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:36", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:55"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Aerolitoral DBA Aeromexico Connect"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 33 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:46", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "20:38", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 51 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:36", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:55"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 14 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:49", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:09"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 59 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "18:44", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "22:25"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 20 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:18"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "20:38", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "18:55"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "20:27", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "18:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:47"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 24 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:49", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:09"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 23 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "20:27", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "18:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:47"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 4 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "08:21", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "13:04", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "09:41"
+            }
+        ], 
+        "ticket price": "4676.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 23 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:39"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:47"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 10 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "14:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 23 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:35"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:01", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "16:39"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "20:58", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:50"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 13 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:43", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 8 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "20:48", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 18 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "14:51", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:30"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "20:48", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "17:25"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 13 minutes", 
+        "plane": "Airbus A321", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "321", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "16:40", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "19:38", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 39 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "13:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:40"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:19", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "14:50"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 49 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "09:45", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:55"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "14:44", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "13:35"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "13:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "10:30"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:44", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "5282.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 37 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "16:07", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 48 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "14:16", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:25"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:43", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 12 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "17:32", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "15:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:22", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "20:00"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 43 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:38", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 37 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "14:46", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:42", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 53 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "14:05", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "11:05"
+            }, 
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "20:55", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:47"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:25"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:44", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:30"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 8 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:50"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:58", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "21:47"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 53 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "05:55"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "14:48", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "11:05"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 12 hours 15 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:16"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 43 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:51"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 6 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "00:06", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 40 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "13:25", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 17 hours 7 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "03:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "00:35"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "12:12", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "18:42", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "16:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 36 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "11:33", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "15:36", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "13:55"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 24 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "20:26", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "16:21"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:45", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:10"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 16 minutes", 
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "32B", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "13:00"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "23:16", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "5888.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 31 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "19:57", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "01:06", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "21:45"
+            }
+        ], 
+        "ticket price": "7100.00", 
+        "airline": "United"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 14 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:16"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "9011.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 39 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "08:51"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:55"
+            }
+        ], 
+        "ticket price": "9011.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:35", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "14:55"
+            }
+        ], 
+        "ticket price": "9120.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Boeing 737-900", 
+        "departure date": "23/06/2018", 
+        "stops": "1", 
+        "plane code": "739", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "16:00", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "12:18"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "20:55"
+            }
+        ], 
+        "ticket price": "9120.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 18 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "7S8", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:50", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "09:16"
+            }, 
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "17:43", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:10"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "21:34", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "19:55"
+            }
+        ], 
+        "ticket price": "9120.00", 
+        "airline": "Delta"
+    }, 
+    {
+        "arrival": ", Orlando", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 10 minutes", 
+        "plane": "Airbus A320", 
+        "departure date": "23/06/2018", 
+        "stops": "2", 
+        "plane code": "320", 
+        "departure": ", Canc\u00fan", 
+        "timings": [
+            {
+                "arrival_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "arrival_time": "10:20", 
+                "departure_airport": "Canc\u00fan, Quintana Roo (CUN-Aeropuerto Internacional de Canc\u00fan)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Cincinnati, OH, Estados Unidos (CVG-A. Internacional de Cincinnati-Northern Kentucky)", 
+                "arrival_time": "13:32", 
+                "departure_airport": "Atlanta, GA, Estados Unidos (ATL-A. Internacional de Hartsfield-Jackson de Atlanta)", 
+                "departure_time": "12:08"
+            }, 
+            {
+                "arrival_airport": "Orlando, FL, Estados Unidos (MCO-A. Internacional de Orlando)", 
+                "arrival_time": "16:55", 
+                "departure_airport": "Cincinnati, OH, Estados Unidos (CVG-A. Internacional de Cincinnati-Northern Kentucky)", 
+                "departure_time": "14:46"
+            }
+        ], 
+        "ticket price": "9120.00", 
+        "airline": "Delta"
+    }
+]

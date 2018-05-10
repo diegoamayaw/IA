@@ -1,0 +1,882 @@
+[
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 56 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "22:31", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:35"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 4 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "17:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:28"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 20 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "23:55", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:00"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 12 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "10:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:25"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "18:37", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 30 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:50", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "17:40"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 13 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:33", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 6 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "22:46", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 9 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "21:29", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "18:18"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "21:59", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "17:29"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 59 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "21:19", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "18:10"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 4 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "15:30"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 54 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 53 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "17:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:33", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "20:30"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 13 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:48", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "21:59"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "15:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "10:31"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 14 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "08:55", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "16:14", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "11:40"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 47 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "22:57", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:25"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 50 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "22:25", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:20"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 24 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "23:59", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "22:09"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 9 hours 50 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "17:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:10"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "01:00", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "20:35"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 4 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "11:00", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:00"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "17:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "12:28"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 26 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "11:20"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "22:46", 
+                "departure_airport": "Miami, FL, Estados Unidos (MIA-A. Internacional de Miami)", 
+                "departure_time": "19:40"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 19 minutes", 
+        "plane": "Boeing 737-800", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "738", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "arrival_time": "15:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "23:04", 
+                "departure_airport": "Dallas, TX, Estados Unidos (DFW-A. Internacional de Dallas - Fort Worth)", 
+                "departure_time": "18:30"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 47 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "arrival_time": "18:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:35"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "22:22", 
+                "departure_airport": "Charlotte, NC, Estados Unidos (CLT-A. Internacional de Charlotte-Douglas)", 
+                "departure_time": "20:25"
+            }
+        ], 
+        "ticket price": "4762.00", 
+        "airline": "American Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "22:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:45"
+            }
+        ], 
+        "ticket price": "6003.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "06:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "00:25"
+            }
+        ], 
+        "ticket price": "6003.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 40 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "15:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "09:45"
+            }
+        ], 
+        "ticket price": "6003.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "11:25", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "05:40"
+            }
+        ], 
+        "ticket price": "6003.49", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 17 minutes", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "73H", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:00"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "06:17", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "22:05"
+            }
+        ], 
+        "ticket price": "6127.00", 
+        "airline": "Alaska Airlines"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 11 hours 37 minutes", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "73H", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "06:17", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "22:05"
+            }
+        ], 
+        "ticket price": "6167.00", 
+        "airline": "Alaska Airlines"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 33 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canad\u00e1 (YUL-A. Internacional Pierre Elliott Trudeau)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "19:18", 
+                "departure_airport": "Montreal, QC, Canad\u00e1 (YUL-A. Internacional Pierre Elliott Trudeau)", 
+                "departure_time": "17:55"
+            }
+        ], 
+        "ticket price": "6282.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 10 hours 48 minutes", 
+        "plane": "Airbus A319", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "319", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Montreal, QC, Canad\u00e1 (YUL-A. Internacional Pierre Elliott Trudeau)", 
+                "arrival_time": "14:50", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (LGA-LaGuardia)", 
+                "arrival_time": "20:33", 
+                "departure_airport": "Montreal, QC, Canad\u00e1 (YUL-A. Internacional Pierre Elliott Trudeau)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "6282.00", 
+        "airline": "Air Canada"
+    }, 
+    {
+        "arrival": ", Newark", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "arrival_time": "07:10", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Newark, NJ, Estados Unidos (EWR-A. Internacional Liberty)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "San Salvador, El Salvador (SAL-A. Internacional de El Salvador)", 
+                "departure_time": "08:00"
+            }
+        ], 
+        "ticket price": "6852.00", 
+        "airline": "Avianca"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 13 minutes", 
+        "plane": "", 
+        "departure date": "03/12/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "13:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "07:16"
+            }
+        ], 
+        "ticket price": "7001.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Nueva York", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 13 hours 2 minutes", 
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER", 
+        "departure date": "03/12/2018", 
+        "stops": "1", 
+        "plane code": "73H", 
+        "departure": ", Ciudad de M\u00e9xico", 
+        "timings": [
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "19:42", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:40"
+            }, 
+            {
+                "arrival_airport": "Nueva York, NY, Estados Unidos (JFK-A. Internacional John F. Kennedy)", 
+                "arrival_time": "07:42", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:15"
+            }
+        ], 
+        "ticket price": "7104.00", 
+        "airline": "Alaska Airlines"
+    }
+]

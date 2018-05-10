@@ -1,0 +1,210 @@
+[
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 53 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "10:38", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:45"
+            }
+        ], 
+        "ticket price": "2674.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 56 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "2674.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "19:54", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "18:00"
+            }
+        ], 
+        "ticket price": "2674.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "4356.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 31 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "5400.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 45 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "20:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "18:44"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "23:29", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:30"
+            }
+        ], 
+        "ticket price": "5864.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 57 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "18:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:50"
+            }
+        ], 
+        "ticket price": "5864.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Torre\u00f3n", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 2 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "03/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Torre\u00f3n, Coahuila (TRC-A. Internacional Francisco Sarabia", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:15"
+            }
+        ], 
+        "ticket price": "6908.00", 
+        "airline": "Aeromexico"
+    }
+]

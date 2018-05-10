@@ -1,0 +1,366 @@
+[
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 32 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:40", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "13:19"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "20:51", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "19:10"
+            }
+        ], 
+        "ticket price": "2821.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 58 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "arrival_time": "09:53", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:52"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "19:50", 
+                "departure_airport": "Tijuana, Baja California Norte (TIJ-A. Internacional General Abelardo L. Rodr\u00edguez)", 
+                "departure_time": "15:00"
+            }
+        ], 
+        "ticket price": "3481.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "17:20", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "15:58"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "21:58", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "20:15"
+            }
+        ], 
+        "ticket price": "3588.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 33 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "14:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "3936.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 16 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "14:01", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "12:05"
+            }
+        ], 
+        "ticket price": "4632.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 35 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "4655.86", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 4 hours 5 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "11:35", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:05"
+            }
+        ], 
+        "ticket price": "4655.86", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:45", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "07:30"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:05"
+            }
+        ], 
+        "ticket price": "4655.86", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 23 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "08:05", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "06:45"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:25"
+            }
+        ], 
+        "ticket price": "4980.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 3 hours 40 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:50", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:28"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "12:08", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "10:25"
+            }
+        ], 
+        "ticket price": "4980.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 15 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "14:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:05"
+            }
+        ], 
+        "ticket price": "5014.30", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 8 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "08:15"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "17:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "15:35"
+            }
+        ], 
+        "ticket price": "5014.30", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 12 hours 50 minutes", 
+        "plane": "", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "21:55", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "20:40"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "09:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:00"
+            }
+        ], 
+        "ticket price": "5105.36", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Puerto Vallarta", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 1 minutes", 
+        "plane": "Embraer 190", 
+        "departure date": "20/10/2018", 
+        "stops": "1", 
+        "plane code": "E90", 
+        "departure": ", Oaxaca", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "14:00", 
+                "departure_airport": "Oaxaca, Oaxaca (OAX-A. Internacional Xoxocotl\u00e1n)", 
+                "departure_time": "12:38"
+            }, 
+            {
+                "arrival_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "arrival_time": "18:39", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "17:00"
+            }
+        ], 
+        "ticket price": "6314.00", 
+        "airline": "Aeromexico"
+    }
+]

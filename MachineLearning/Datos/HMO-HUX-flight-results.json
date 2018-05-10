@@ -1,0 +1,284 @@
+[
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 18 hours 52 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/07/2018", 
+        "stops": "3", 
+        "plane code": "7S8", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "17:43"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "05:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:59", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "23542.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 56 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "09/07/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:53"
+            }, 
+            {
+                "arrival_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "arrival_time": "19:05", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:07"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:30", 
+                "departure_airport": "San Francisco, CA, Estados Unidos (SFO-A. Internacional de San Francisco)", 
+                "departure_time": "23:01"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "31561.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 19 hours 56 minutes", 
+        "plane": "Canadian Regional Jet 700", 
+        "departure date": "09/07/2018", 
+        "stops": "3", 
+        "plane code": "CR7", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "arrival_time": "13:05", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "11:53"
+            }, 
+            {
+                "arrival_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "arrival_time": "18:36", 
+                "departure_airport": "Phoenix, AZ, Estados Unidos (PHX-A. Internacional Sky Harbor)", 
+                "departure_time": "17:00"
+            }, 
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "05:20", 
+                "departure_airport": "Los \u00c1ngeles, CA, Estados Unidos (LAX-A. Internacional de Los \u00c1ngeles)", 
+                "departure_time": "23:30"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "09:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:25"
+            }
+        ], 
+        "ticket price": "34126.00", 
+        "airline": "Skywest Airlines As American Eagle"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 18 hours 52 minutes", 
+        "plane": "BOEING 737-800 SCIMITAR WINGLETS", 
+        "departure date": "09/07/2018", 
+        "stops": "3", 
+        "plane code": "7S8", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:35", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "17:43"
+            }, 
+            {
+                "arrival_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "arrival_time": "05:20", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "01:15"
+            }, 
+            {
+                "arrival_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "arrival_time": "10:59", 
+                "departure_airport": "Chicago, IL, Estados Unidos (ORD-A. Internacional O'Hare)", 
+                "departure_time": "08:23"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "14:35", 
+                "departure_airport": "Houston, TX, Estados Unidos (IAH-A. Intercontinental George Bush)", 
+                "departure_time": "11:55"
+            }
+        ], 
+        "ticket price": "35459.00", 
+        "airline": ""
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "1 days 14 hours 30 minutes", 
+        "plane": "", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "22:10", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "17:35"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "10:05", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "08:55"
+            }
+        ], 
+        "ticket price": "3850.60", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:45"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "17:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:20"
+            }
+        ], 
+        "ticket price": "4087.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 6 hours 0 minutes", 
+        "plane": "", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:20", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:45"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:45", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "14:35"
+            }
+        ], 
+        "ticket price": "4087.24", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 5 hours 8 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "12:40", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "07:56"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "4924.00", 
+        "airline": "Aeromexico"
+    }, 
+    {
+        "arrival": ", Huatulco", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 7 hours 4 minutes", 
+        "plane": "Boeing 737", 
+        "departure date": "09/07/2018", 
+        "stops": "1", 
+        "plane code": "737", 
+        "departure": ", Hermosillo", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:45", 
+                "departure_airport": "Hermosillo, Sonora (HMO-A. Internacional General Ignacio Pesqueira Garc\u00eda)", 
+                "departure_time": "06:00"
+            }, 
+            {
+                "arrival_airport": "Huatulco, Oaxaca (HUX-A. Internacional Bah\u00edas de Huatulco)", 
+                "arrival_time": "15:04", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "13:40"
+            }
+        ], 
+        "ticket price": "4924.00", 
+        "airline": "Aeromexico"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 9 hours 34 minutes", 
+        "plane": "", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "10:56", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:15"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "18:49", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "16:43"
+            }
+        ], 
+        "ticket price": "3733.00", 
+        "airline": "Volaris"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 13 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "11:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "09:45"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "4963.37", 
+        "airline": "Interjet"
+    }, 
+    {
+        "arrival": ", Chetumal", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 11 hours 45 minutes", 
+        "plane": "", 
+        "departure date": "24/10/2018", 
+        "stops": "1", 
+        "plane code": "", 
+        "departure": ", Monterrey", 
+        "timings": [
+            {
+                "arrival_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "arrival_time": "13:15", 
+                "departure_airport": "Monterrey, Nuevo Le\u00f3n (MTY-A. Internacional General Mariano Escobedo)", 
+                "departure_time": "11:45"
+            }, 
+            {
+                "arrival_airport": "Chetumal, Quintana Roo (CTM-A. Internacional de Chetumal)", 
+                "arrival_time": "23:30", 
+                "departure_airport": "Ciudad de M\u00e9xico, Distrito Federal (MEX-A. Internacional de la Ciudad de M\u00e9xico)", 
+                "departure_time": "21:40"
+            }
+        ], 
+        "ticket price": "5758.97", 
+        "airline": "Interjet"
+    }
+]

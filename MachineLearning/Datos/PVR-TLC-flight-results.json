@@ -1,0 +1,22 @@
+[
+    {
+        "arrival": ", Toluca", 
+        "consult date": "10/05/2018", 
+        "flight duration": "0 days 1 hours 10 minutes", 
+        "plane": "", 
+        "departure date": "11/09/2018", 
+        "stops": 0, 
+        "plane code": "", 
+        "departure": ", Puerto Vallarta", 
+        "timings": [
+            {
+                "arrival_airport": "Toluca, Estado de M\u00e9xico (TLC-Aeropuerto Internacional de Toluca)", 
+                "arrival_time": "12:05", 
+                "departure_airport": "Puerto Vallarta, Jalisco (PVR-A. Internacional Licenciado Gustavo D\u00edaz Ordaz)", 
+                "departure_time": "10:55"
+            }
+        ], 
+        "ticket price": "7015.00", 
+        "airline": "Interjet"
+    }
+]
