@@ -7,7 +7,8 @@ import argparse
 def parse(source,destination,date):
 	for i in range(5):
 		try:
-			url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(source,destination,date)
+			url = "https://www.expedia.mx/Flights-Search?trip=oneway&leg1=from%3A{0}%2Cto%3A{1}%2Cdeparture%3A{2}TANYT&passengers=adults%3A1%2Cchildren%3A0%2Cseniors%3A0%2Cinfantinlap%3AY&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.mx".format(source,destination,date)
+			#url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(source,destination,date)
 			headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'}
 			response = requests.get(url, headers=headers, verify=False)
 			parser = html.fromstring(response.text)
@@ -38,9 +39,9 @@ def parse(source,destination,date):
 				flight_days = flight_duration.get('numOfDays','')
 
 				if no_of_stops==0:
-					stop = "Nonstop"
+					stop = 0
 				else:
-					stop = str(no_of_stops)+' Stop'
+					stop = str(no_of_stops)
 
 				total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days,flight_hour,flight_minutes)
 				departure = departure_location_airport+", "+departure_location_city
@@ -83,7 +84,7 @@ def parse(source,destination,date):
 			return sortedlist
 		
 		except ValueError:
-			print "Rerying..."
+			print "Retrying..."
 			
 	return {"error":"failed to process the page",}
 
@@ -101,4 +102,4 @@ if __name__=="__main__":
 	scraped_data = parse(source,destination,date)
 	print "Writing data to output file"
 	with open('%s-%s-flight-results.json'%(source,destination),'w') as fp:
-json.dump(scraped_data,fp,indent = 4)
+		json.dump(scraped_data,fp,indent = 4)
