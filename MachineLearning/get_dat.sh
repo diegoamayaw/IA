@@ -5,7 +5,7 @@ foreach line ("`cat crossed_data.txt`")
 	set from = $1
 	set to = $2
 	set day = $3
-	python expedia_scrape.py $from $to $day &
+	python expedia.py $from $to $day
 	wait
 end
 

@@ -42,9 +42,9 @@ def parse(source,destination,date):
 				todate = time.strftime("%d/%m/%Y")
 
 				if no_of_stops==0:
-					stop = 0
+					stop = "nonstop"
 				else:
-					stop = str(no_of_stops)
+					stop = str(no_of_stops)+'Stop'
 
 				total_flight_duration = "{0} days {1} hours {2} minutes".format(flight_days,flight_hour,flight_minutes)
 				departure = departure_location_airport+", "+departure_location_city
@@ -55,12 +55,6 @@ def parse(source,destination,date):
 				if not airline_name:
 					airline_name = carrier.get('operatedBy','')
 				
-				for timeline in  flight_data['legs'][i].get('timeline',{}):
-					if 'departureAirport' in timeline.keys():
-						departure_airport = timeline['departureAirport'].get('longName','')
-						departure_time = timeline['departureTime'].get('time','')
-						arrival_airport = timeline.get('arrivalAirport',{}).get('longName','')
-						arrival_time = timeline.get('arrivalTime',{}).get('time','')
 						
 				flight_info={'stops':stop,
 					'ticket price':exact_price,
@@ -68,7 +62,8 @@ def parse(source,destination,date):
 					'arrival':arrival,
 					'flight duration':total_flight_duration,
 					'airline':airline_name,
-					'consult date':todate,
+					'stops':stop,
+					'request date':todate,
 					'departure date':date
 				}
 				lists.append(flight_info)
@@ -78,20 +73,21 @@ def parse(source,destination,date):
 		except ValueError:
 			print "Retrying..."
 			
-	return {"error":"failed to process the page",}
+	return -1
 
 if __name__=="__main__":
 	argparser = argparse.ArgumentParser()
 	argparser.add_argument('source',help = 'Source airport code')
 	argparser.add_argument('destination',help = 'Destination airport code')
-	argparser.add_argument('date',help = 'MM/DD/YYYY')
+	argparser.add_argument('date',help = 'DD/MM/YYYY')
 
 	args = argparser.parse_args()
 	source = args.source
 	destination = args.destination
 	date = args.date
-	#print "Fetching flight details"
+	print "Fetching flight details"
 	scraped_data = parse(source,destination,date)
 	#print "Writing data to output file"
-	with open('master.json','a') as fp:
-		json.dump(scraped_data,fp,indent = 4)
+	if scraped_data != -1:
+		with open('master.json','a') as fp:
+			json.dump(scraped_data,fp,indent = 4)

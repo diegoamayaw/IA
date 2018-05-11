@@ -1,0 +1,972 @@
+[
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "1197.57", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 12 hours 31 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "1197.57", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 3 hours 50 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "1197.57", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 55 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "1420.50", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 26 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "1420.50", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 7 hours 14 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "184.55", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 0 hours 55 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "184.55", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 0 hours 55 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "279.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "309.10", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "309.10", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "321.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "321.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "VivaAerobus", 
+        "stops": "Nonstop", 
+        "ticket price": "324.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "VivaAerobus", 
+        "stops": "Nonstop", 
+        "ticket price": "324.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "VivaAerobus", 
+        "stops": "Nonstop", 
+        "ticket price": "324.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "352.75", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 11 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "352.75", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 14 hours 30 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "366.65", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "366.65", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "381.75", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 4 hours 55 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "381.75", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "Nonstop", 
+        "ticket price": "397.25", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "401.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 15 hours 35 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "401.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 10 hours 20 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "401.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 17 hours 35 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "416.55", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 14 hours 50 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "418.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "430.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 6 hours 0 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "430.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 0 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "436.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 10 hours 50 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "436.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 14 hours 35 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "453.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 9 hours 35 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "462.95", 
+        "departure": "PDX, Toluca", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 45 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "465.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 11 hours 0 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "465.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 5 hours 0 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "465.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 16 hours 0 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "465.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 9 hours 45 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "465.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 13 hours 20 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "482.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 11 hours 35 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "511.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 13 hours 25 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "511.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 14 hours 30 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "511.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 12 hours 30 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "1 Stop", 
+        "ticket price": "511.55", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 15 hours 45 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 22 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 31 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 14 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 23 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 17 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 16 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 22 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 35 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 20 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "530.48", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 49 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "534.75", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "557.40", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "557.40", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "557.40", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "557.40", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "557.40", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "563.20", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "591.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 5 hours 30 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "591.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 25 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "591.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 53 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "591.35", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 7 hours 17 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Hahn Air Systems", 
+        "stops": "Nonstop", 
+        "ticket price": "598.00", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 27 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "598.92", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 20 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Interjet", 
+        "stops": "Nonstop", 
+        "ticket price": "610.15", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 15 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "622.25", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 6 hours 29 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "661.56", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 22 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 7 hours 41 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 10 hours 36 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 11 hours 46 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 41 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 6 hours 5 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 5 hours 5 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 7 hours 0 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 10 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 4 hours 5 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "684.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 9 hours 41 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "730.00", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 24 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Volaris", 
+        "stops": "1 Stop", 
+        "ticket price": "775.70", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 8 hours 7 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "792.64", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 23 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 4 hours 41 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 14 hours 40 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 6 hours 41 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 5 hours 59 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 11 hours 4 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 6 hours 11 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "1 Stop", 
+        "ticket price": "800.85", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 5 hours 36 minutes"
+    }, 
+    {
+        "arrival": "MOW, Guadalajara", 
+        "request date": "11/05/2018", 
+        "airline": "Aeromexico", 
+        "stops": "Nonstop", 
+        "ticket price": "864.56", 
+        "departure": "PDX, Mexico City", 
+        "departure date": "09/10/2018", 
+        "flight duration": "0 days 1 hours 24 minutes"
+    }
+]
