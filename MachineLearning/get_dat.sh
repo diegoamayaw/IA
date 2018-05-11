@@ -9,6 +9,5 @@ foreach line ("`cat crossed_data.txt`")
 	wait
 end
 
-mv *.json ./Datos
 
 exit 0

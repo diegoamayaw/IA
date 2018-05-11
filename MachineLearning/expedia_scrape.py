@@ -6,7 +6,7 @@ import argparse
 import time
 
 def parse(source,destination,date):
-	for i in range(5):
+	for i in range(2):
 		try:
 			url = "https://www.expedia.mx/Flights-Search?trip=oneway&leg1=from%3A{0}%2Cto%3A{1}%2Cdeparture%3A{2}TANYT&passengers=adults%3A1%2Cchildren%3A0%2Cseniors%3A0%2Cinfantinlap%3AY&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.mx".format(source,destination,date)
 			#url = "https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:{0},to:{1},departure:{2}TANYT&passengers=adults:1,children:0,seniors:0,infantinlap:Y&options=cabinclass%3Aeconomy&mode=search&origref=www.expedia.com".format(source,destination,date)
@@ -23,6 +23,7 @@ def parse(source,destination,date):
 			for i in flight_data['legs'].keys():
 				total_distance =  flight_data['legs'][i].get("formattedDistance",'')
 				exact_price = flight_data['legs'][i].get('price',{}).get('totalPriceAsDecimal','')
+
 
 				departure_location_airport = flight_data['legs'][i].get('departureLocation',{}).get('airportLongName','')
 				departure_location_city = flight_data['legs'][i].get('departureLocation',{}).get('airportCity','')
@@ -49,37 +50,24 @@ def parse(source,destination,date):
 				departure = departure_location_airport+", "+departure_location_city
 				arrival = arrival_location_airport+", "+arrival_location_city
 				carrier = flight_data['legs'][i].get('timeline',[])[0].get('carrier',{})
-				plane = carrier.get('plane','')
-				plane_code = carrier.get('planeCode','')
 				formatted_price = "{0:.2f}".format(exact_price)
 
 				if not airline_name:
 					airline_name = carrier.get('operatedBy','')
 				
-				timings = []
 				for timeline in  flight_data['legs'][i].get('timeline',{}):
 					if 'departureAirport' in timeline.keys():
 						departure_airport = timeline['departureAirport'].get('longName','')
 						departure_time = timeline['departureTime'].get('time','')
 						arrival_airport = timeline.get('arrivalAirport',{}).get('longName','')
 						arrival_time = timeline.get('arrivalTime',{}).get('time','')
-						flight_timing = {
-											'departure_airport':departure_airport,
-											'departure_time':departure_time,
-											'arrival_airport':arrival_airport,
-											'arrival_time':arrival_time
-						}
-						timings.append(flight_timing)
-
+						
 				flight_info={'stops':stop,
-					'ticket price':formatted_price,
+					'ticket price':exact_price,
 					'departure':departure,
 					'arrival':arrival,
 					'flight duration':total_flight_duration,
 					'airline':airline_name,
-					'plane':plane,
-					'timings':timings,
-					'plane code':plane_code,
 					'consult date':todate,
 					'departure date':date
 				}
@@ -105,5 +93,5 @@ if __name__=="__main__":
 	#print "Fetching flight details"
 	scraped_data = parse(source,destination,date)
 	#print "Writing data to output file"
-	with open('%s-%s-flight-results.json'%(source,destination),'w') as fp:
+	with open('master.json','a') as fp:
 		json.dump(scraped_data,fp,indent = 4)
