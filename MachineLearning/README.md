@@ -24,4 +24,4 @@ Por último se corre el archivo flightPricesDNN.py:
 ```
 python flightPrices.DNN.py
 ```
-que es el que entrena un modelo de regresión múltiple de cuatro capas y genera las predicciones de un test set, entrega el error promedio encontrado.
+que es el que entrena un modelo de regresión múltiple de cuatro capas y genera las predicciones de un test set, entrega el error promedio encontrado. Requiere Python 3.5 o más.
