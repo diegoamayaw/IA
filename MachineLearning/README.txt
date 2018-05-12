@@ -1,3 +1,5 @@
+#README
+
 En esta carpeta se encontrarán los códigos para obtener datos, y generar una Deep Neural Network con la capacidad de predecir el precio de un boleto de avión.
 
 El archivo expedia_scrape.py hace un request HTML a la página del cotizador de vuelos Expedia y guarda los resultados en el archivo master.json.
